@@ -149,6 +149,6 @@ npm audit --omit=dev
 
 三份报告：docs/chemistry-lab-integration-report.md、docs/chemistry-lab-localization-report.md、docs/chemistry-lab-user-acceptance.md。未进入试卷库、考试或AI开发；所有最终验收由项目所有者执行。
 
-## GitHub私有仓库与教学资料
+## GitHub公开仓库与教学资料
 
-项目所有者已授权使用私有仓库：https://github.com/shishupeng66-tech/teaching-assistant-workbench 。源码、六主题教材资料、64知识点/192道原创待审核练习、独立图谱来源与48张题图、10项3D课件及本地字体资源均随仓库保存。当前教材内容只读快照在data-seeds/repository-library-snapshot/；不提交班级学生数据、SQLite、备份、密钥或.env。资料位置、许可和新实例初始化顺序见[仓库保存说明](docs/github-repository.md)。
+项目所有者已明确授权使用公开仓库：https://github.com/shishupeng66-tech/teaching-assistant-workbench 。源码、六主题教材资料、64知识点/192道原创待审核练习、独立图谱来源与48张题图、10项3D课件及本地字体资源均随仓库保存。当前教材内容只读快照在data-seeds/repository-library-snapshot/；不提交班级学生数据、SQLite、备份、密钥或.env。资料位置、许可和新实例初始化顺序见[仓库保存说明](docs/github-repository.md)。

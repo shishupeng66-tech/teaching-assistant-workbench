@@ -1,6 +1,6 @@
 # GitHub源码与教学资料保存说明
 
-2026-11-19项目所有者明确授权建立本人账号下的独立私有仓库：
+2026-11-19项目所有者明确授权建立本人账号下的独立公开仓库（所有者随后明确授权公开）：
 
 https://github.com/shishupeng66-tech/teaching-assistant-workbench
 
@@ -31,7 +31,7 @@ cd teaching-assistant-workbench
 ./scripts/start.sh
 ```
 
-私有仓库需要使用本人GitHub身份认证。Node推荐24 LTS，Python3.11及以上。课件随源码可直接使用，首次安装依赖需要互联网，运行实验资源不依赖外网。
+仓库公开，任何人均可读取和克隆；推送修改仍需要所有者授权的GitHub身份。Node推荐24 LTS，Python3.11及以上。课件随源码可直接使用，首次安装依赖需要互联网，运行实验资源不依赖外网。
 
 **全新数据库不会因启动就擅自灌入教学资料。** 若需要复现题库，请先关闭本项目服务，在全新独立数据目录中配置.env的TAW_DATA_DIR与TAW_BACKUP_DIR；确认不是其他项目数据。按顺序使用既有脚本：
 
