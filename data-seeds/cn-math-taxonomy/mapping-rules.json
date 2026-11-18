@@ -1,0 +1,402 @@
+[
+  {
+    "topic_id": "cnk_j001",
+    "node_key": "grade8-003",
+    "node_name": "课题1 开启化学之门",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“开启化学之门”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j002",
+    "node_key": "grade8-003",
+    "node_name": "课题1 开启化学之门",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“开启化学之门”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j003",
+    "node_key": "grade8-009",
+    "node_name": "课题2 学习开展化学实验探究",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“学习开展化学实验探究”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j004",
+    "node_key": "grade8-008",
+    "node_name": "课题1 走进化学实验室",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“走进化学实验室”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j005",
+    "node_key": "grade8-014",
+    "node_name": "课题1 空气的成分",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“空气的成分”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j006",
+    "node_key": "grade8-015",
+    "node_name": "课题2 氧气和二氧化碳的性质",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“氧气和二氧化碳的性质”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j007",
+    "node_key": "grade8-016",
+    "node_name": "课题3 氧气和二氧化碳的制备",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“氧气和二氧化碳的制备”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j008",
+    "node_key": "grade8-016",
+    "node_name": "课题3 氧气和二氧化碳的制备",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“氧气和二氧化碳的制备”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j008",
+    "node_key": "grade8-015",
+    "node_name": "课题2 氧气和二氧化碳的性质",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“氧气和二氧化碳的性质”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j009",
+    "node_key": "grade8-027",
+    "node_name": "课题1 构成物质的微观粒子",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“构成物质的微观粒子”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j010",
+    "node_key": "grade8-027",
+    "node_name": "课题1 构成物质的微观粒子",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“构成物质的微观粒子”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j011",
+    "node_key": "grade8-028",
+    "node_name": "课题2 组成物质的元素",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“组成物质的元素”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j012",
+    "node_key": "grade8-022",
+    "node_name": "课题2 水的自然循环与人工净化",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“水的自然循环与人工净化”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j013",
+    "node_key": "grade8-023",
+    "node_name": "课题3 水的组成",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“水的组成”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j014",
+    "node_key": "grade8-004",
+    "node_name": "课题2 通用的化学语言",
+    "confidence": 0.65,
+    "reason": "按知识含义建议：该知识点涉及“通用的化学语言”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j015",
+    "node_key": "grade8-004",
+    "node_name": "课题2 通用的化学语言",
+    "confidence": 0.65,
+    "reason": "按知识含义建议：该知识点涉及“通用的化学语言”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j016",
+    "node_key": "grade8-023",
+    "node_name": "课题3 水的组成",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“水的组成”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j017",
+    "node_key": "grade8-034",
+    "node_name": "课题1 化学反应中各物质间的定量关系",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“化学反应中各物质间的定量关系”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j018",
+    "node_key": "grade8-035",
+    "node_name": "课题2 化学反应的表示及基本类型",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“化学反应的表示及基本类型”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j019",
+    "node_key": "grade8-034",
+    "node_name": "课题1 化学反应中各物质间的定量关系",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“化学反应中各物质间的定量关系”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j020",
+    "node_key": "grade8-029",
+    "node_name": "课题3 结构多样的碳单质",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“结构多样的碳单质”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j021",
+    "node_key": "grade8-015",
+    "node_name": "课题2 氧气和二氧化碳的性质",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“氧气和二氧化碳的性质”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j023",
+    "node_key": "grade8-016",
+    "node_name": "课题3 氧气和二氧化碳的制备",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“氧气和二氧化碳的制备”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j024",
+    "node_key": "grade8-016",
+    "node_name": "课题3 氧气和二氧化碳的制备",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“氧气和二氧化碳的制备”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j024",
+    "node_key": "grade8-015",
+    "node_name": "课题2 氧气和二氧化碳的性质",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“氧气和二氧化碳的性质”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j025",
+    "node_key": "grade9-016",
+    "node_name": "课题1 认识燃烧与燃料",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“认识燃烧与燃料”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j026",
+    "node_key": "grade9-016",
+    "node_name": "课题1 认识燃烧与燃料",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“认识燃烧与燃料”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j027",
+    "node_key": "grade9-017",
+    "node_name": "课题2 调控燃烧的方法",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“调控燃烧的方法”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j028",
+    "node_key": "grade9-024",
+    "node_name": "课题3 化学为人类提供丰富的材料",
+    "confidence": 0.65,
+    "reason": "按知识含义建议：该知识点涉及“化学为人类提供丰富的材料”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j029",
+    "node_key": "grade9-010",
+    "node_name": "课题2 认识酸、碱、盐的性质与应用",
+    "confidence": 0.65,
+    "reason": "按知识含义建议：该知识点涉及“认识酸、碱、盐的性质与应用”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j030",
+    "node_key": "grade9-010",
+    "node_name": "课题2 认识酸、碱、盐的性质与应用",
+    "confidence": 0.65,
+    "reason": "按知识含义建议：该知识点涉及“认识酸、碱、盐的性质与应用”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j031",
+    "node_key": "grade9-018",
+    "node_name": "课题3 防止金属腐蚀的措施",
+    "confidence": 0.65,
+    "reason": "按知识含义建议：该知识点涉及“防止金属腐蚀的措施”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j032",
+    "node_key": "grade9-018",
+    "node_name": "课题3 防止金属腐蚀的措施",
+    "confidence": 0.65,
+    "reason": "按知识含义建议：该知识点涉及“防止金属腐蚀的措施”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j032",
+    "node_key": "grade9-024",
+    "node_name": "课题3 化学为人类提供丰富的材料",
+    "confidence": 0.65,
+    "reason": "按知识含义建议：该知识点涉及“化学为人类提供丰富的材料”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j033",
+    "node_key": "grade9-003",
+    "node_name": "课题1 初探溶液",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“初探溶液”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j034",
+    "node_key": "grade9-004",
+    "node_name": "课题2 探究物质的溶解性",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“探究物质的溶解性”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j035",
+    "node_key": "grade9-005",
+    "node_name": "课题3 学会定量表示溶液的组成",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“学会定量表示溶液的组成”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j036",
+    "node_key": "grade9-005",
+    "node_name": "课题3 学会定量表示溶液的组成",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“学会定量表示溶液的组成”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j037",
+    "node_key": "grade9-006",
+    "node_name": "跨学科实践活动 海洋资源的综合利用与制盐",
+    "confidence": 0.65,
+    "reason": "按知识含义建议：该知识点涉及“海洋资源的综合利用与制盐”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j038",
+    "node_key": "grade9-009",
+    "node_name": "课题1 初识酸和碱",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“初识酸和碱”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j039",
+    "node_key": "grade9-009",
+    "node_name": "课题1 初识酸和碱",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“初识酸和碱”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j039",
+    "node_key": "grade9-010",
+    "node_name": "课题2 认识酸、碱、盐的性质与应用",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“认识酸、碱、盐的性质与应用”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j040",
+    "node_key": "grade9-009",
+    "node_name": "课题1 初识酸和碱",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“初识酸和碱”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j040",
+    "node_key": "grade9-010",
+    "node_name": "课题2 认识酸、碱、盐的性质与应用",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“认识酸、碱、盐的性质与应用”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j041",
+    "node_key": "grade9-010",
+    "node_name": "课题2 认识酸、碱、盐的性质与应用",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“认识酸、碱、盐的性质与应用”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j042",
+    "node_key": "grade9-010",
+    "node_name": "课题2 认识酸、碱、盐的性质与应用",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“认识酸、碱、盐的性质与应用”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j043",
+    "node_key": "grade9-010",
+    "node_name": "课题2 认识酸、碱、盐的性质与应用",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“认识酸、碱、盐的性质与应用”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j044",
+    "node_key": "grade9-023",
+    "node_name": "课题2 健康生活离不开化学",
+    "confidence": 0.85,
+    "reason": "按知识含义建议：该知识点涉及“健康生活离不开化学”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j045",
+    "node_key": "grade9-022",
+    "node_name": "课题1 化学引领新能源的开发",
+    "confidence": 0.65,
+    "reason": "按知识含义建议：该知识点涉及“化学引领新能源的开发”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  },
+  {
+    "topic_id": "cnk_j045",
+    "node_key": "grade8-036",
+    "node_name": "跨学科实践活动 基于碳中和理念设计低碳行动方案",
+    "confidence": 0.65,
+    "reason": "按知识含义建议：该知识点涉及“基于碳中和理念设计低碳行动方案”的教学内容；未套用上游九年级单元编号。需教师核对本课题实际范围。",
+    "confirmed": false
+  }
+]

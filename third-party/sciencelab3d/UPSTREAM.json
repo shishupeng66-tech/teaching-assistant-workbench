@@ -1,0 +1,48 @@
+{
+  "repository": "https://github.com/rudra496/sciencelab3d",
+  "commit": "939d9300ea04fc0b6c22b1a5cfc8cbd8ee480c80",
+  "author": "Rudra Sarker",
+  "license": "MIT",
+  "files": [
+    {
+      "path": "src/experiments/atomic-structure-scene.tsx",
+      "sha256": "2bfca82b3c10caa69bc51a723c19c1153c73e6c12fce40678af10c05f8c5f406"
+    },
+    {
+      "path": "src/experiments/chemical-bonding-scene.tsx",
+      "sha256": "3a6a1220cd44124b5e190d653969e18146f2ee0ae6a575e105c44cfab834154a"
+    },
+    {
+      "path": "src/experiments/electrolysis-scene.tsx",
+      "sha256": "5ce3f52e5fe60d3107f96133fc0cca5653aabccf3d550a4352ea0e0a03f1e041"
+    },
+    {
+      "path": "src/experiments/titration-scene.tsx",
+      "sha256": "da28ec9e55a6ff7ce1f03f09b3b8f810de28d39a7b5039d4a023b27cd139bb79"
+    },
+    {
+      "path": "src/experiments/gas-laws-scene.tsx",
+      "sha256": "3f492e128dd4376f5e561d51717a37fce5577e9d16ddcdbe6824b828677340aa"
+    },
+    {
+      "path": "src/experiments/acid-base-reactions-scene.tsx",
+      "sha256": "84d95f6acd11a554b6b9f8e234a5352121115a318565820b2aad0db4b801c8f9"
+    },
+    {
+      "path": "src/experiments/crystal-lattice-scene.tsx",
+      "sha256": "da4a85c143e6a050d7f7f184406954f41db6bdcbafac9c0ab409e3b9a56f755a"
+    },
+    {
+      "path": "src/experiments/diffusion-scene.tsx",
+      "sha256": "0c7bb2dd482301ca20483dda19e96a47fa51d48862482cf914d11ef56dced986"
+    },
+    {
+      "path": "src/experiments/thermochemistry-scene.tsx",
+      "sha256": "2c833b07161fc50c055dd0a5399521813780fcf192aeef385651d6c67dbeb98e"
+    },
+    {
+      "path": "src/experiments/periodic-trends-scene.tsx",
+      "sha256": "000c6b24e702c355b70add3a31cb9cc1a99d09af99d698574e2961bc07c89c2f"
+    }
+  ]
+}

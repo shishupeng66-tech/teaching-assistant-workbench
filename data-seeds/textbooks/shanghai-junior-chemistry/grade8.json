@@ -1,0 +1,616 @@
+{
+  "key": "grade8",
+  "subject": "化学",
+  "publisher": "上海科学技术出版社",
+  "system": "五四学制",
+  "title": "义务教育教科书（五·四学制） 化学 八年级 全一册",
+  "grade": "八年级",
+  "volume": "全一册",
+  "edition": "2024年8月第1版",
+  "isbn": "978-7-5478-6612-2",
+  "edition_name": "沪科版·上海科学技术出版社·五四学制·2024年8月第1版（原件待复核）",
+  "printing": "2024年8月第1次印刷",
+  "requested_label": "2024秋",
+  "nodes": [
+    {
+      "key": "grade8-001",
+      "original_name": "主题一 化学的魅力",
+      "original_number": "主题一",
+      "node_type": "theme",
+      "parent_key": null,
+      "position": 10,
+      "page": 1,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "d8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-002",
+      "original_name": "专题1 化学使生活更美好",
+      "original_number": "专题1",
+      "node_type": "topic",
+      "parent_key": "grade8-001",
+      "position": 10,
+      "page": 2,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "d8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-003",
+      "original_name": "课题1 开启化学之门",
+      "original_number": "课题1",
+      "node_type": "lesson",
+      "parent_key": "grade8-002",
+      "position": 10,
+      "page": 3,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "d8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-004",
+      "original_name": "课题2 通用的化学语言",
+      "original_number": "课题2",
+      "node_type": "lesson",
+      "parent_key": "grade8-002",
+      "position": 20,
+      "page": 14,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "d8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-005",
+      "original_name": "跨学科实践活动 生活垃圾的分类与回收利用",
+      "original_number": null,
+      "node_type": "practice",
+      "parent_key": "grade8-002",
+      "position": 30,
+      "page": 20,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "d8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-006",
+      "original_name": "专题复习",
+      "original_number": null,
+      "node_type": "review",
+      "parent_key": "grade8-002",
+      "position": 40,
+      "page": 23,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-007",
+      "original_name": "专题2 体验化学实验探究",
+      "original_number": "专题2",
+      "node_type": "topic",
+      "parent_key": "grade8-001",
+      "position": 20,
+      "page": 26,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "d8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-008",
+      "original_name": "课题1 走进化学实验室",
+      "original_number": "课题1",
+      "node_type": "lesson",
+      "parent_key": "grade8-007",
+      "position": 10,
+      "page": 27,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "d8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-009",
+      "original_name": "课题2 学习开展化学实验探究",
+      "original_number": "课题2",
+      "node_type": "lesson",
+      "parent_key": "grade8-007",
+      "position": 20,
+      "page": 41,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "d8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-010",
+      "original_name": "跨学科实践活动 微型空气质量“检测站”的组装与使用",
+      "original_number": null,
+      "node_type": "practice",
+      "parent_key": "grade8-007",
+      "position": 30,
+      "page": 48,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "d8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-011",
+      "original_name": "专题复习",
+      "original_number": null,
+      "node_type": "review",
+      "parent_key": "grade8-007",
+      "position": 40,
+      "page": 51,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-012",
+      "original_name": "主题二 常见的物质（上）",
+      "original_number": "主题二",
+      "node_type": "theme",
+      "parent_key": null,
+      "position": 20,
+      "page": 55,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "d8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-013",
+      "original_name": "专题3 空气、氧气、二氧化碳",
+      "original_number": "专题3",
+      "node_type": "topic",
+      "parent_key": "grade8-012",
+      "position": 10,
+      "page": 56,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "d8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-014",
+      "original_name": "课题1 空气的成分",
+      "original_number": "课题1",
+      "node_type": "lesson",
+      "parent_key": "grade8-013",
+      "position": 10,
+      "page": 57,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "d8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-015",
+      "original_name": "课题2 氧气和二氧化碳的性质",
+      "original_number": "课题2",
+      "node_type": "lesson",
+      "parent_key": "grade8-013",
+      "position": 20,
+      "page": 63,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "d8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-016",
+      "original_name": "课题3 氧气和二氧化碳的制备",
+      "original_number": "课题3",
+      "node_type": "lesson",
+      "parent_key": "grade8-013",
+      "position": 30,
+      "page": 73,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "d8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-017",
+      "original_name": "跨学科实践活动 基于特定需求设计和制作简易供氧器",
+      "original_number": null,
+      "node_type": "practice",
+      "parent_key": "grade8-013",
+      "position": 40,
+      "page": 81,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "d8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-018",
+      "original_name": "专题复习",
+      "original_number": null,
+      "node_type": "review",
+      "parent_key": "grade8-013",
+      "position": 50,
+      "page": 84,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-019",
+      "original_name": "主题三 物质的组成与结构",
+      "original_number": "主题三",
+      "node_type": "theme",
+      "parent_key": null,
+      "position": 30,
+      "page": 87,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "d8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-020",
+      "original_name": "专题4 水的性质与组成",
+      "original_number": "专题4",
+      "node_type": "topic",
+      "parent_key": "grade8-019",
+      "position": 10,
+      "page": 88,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "d8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-021",
+      "original_name": "课题1 水的性质",
+      "original_number": "课题1",
+      "node_type": "lesson",
+      "parent_key": "grade8-020",
+      "position": 10,
+      "page": 89,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "d8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-022",
+      "original_name": "课题2 水的自然循环与人工净化",
+      "original_number": "课题2",
+      "node_type": "lesson",
+      "parent_key": "grade8-020",
+      "position": 20,
+      "page": 95,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "d8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-023",
+      "original_name": "课题3 水的组成",
+      "original_number": "课题3",
+      "node_type": "lesson",
+      "parent_key": "grade8-020",
+      "position": 30,
+      "page": 103,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "d8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-024",
+      "original_name": "跨学科实践活动 水质检测及自制净水器",
+      "original_number": null,
+      "node_type": "practice",
+      "parent_key": "grade8-020",
+      "position": 40,
+      "page": 108,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "d8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-025",
+      "original_name": "专题复习",
+      "original_number": null,
+      "node_type": "review",
+      "parent_key": "grade8-020",
+      "position": 50,
+      "page": 111,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-026",
+      "original_name": "专题5 物质的微观构成",
+      "original_number": "专题5",
+      "node_type": "topic",
+      "parent_key": "grade8-019",
+      "position": 20,
+      "page": 114,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "d8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-027",
+      "original_name": "课题1 构成物质的微观粒子",
+      "original_number": "课题1",
+      "node_type": "lesson",
+      "parent_key": "grade8-026",
+      "position": 10,
+      "page": 115,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "d8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-028",
+      "original_name": "课题2 组成物质的元素",
+      "original_number": "课题2",
+      "node_type": "lesson",
+      "parent_key": "grade8-026",
+      "position": 20,
+      "page": 123,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "d8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-029",
+      "original_name": "课题3 结构多样的碳单质",
+      "original_number": "课题3",
+      "node_type": "lesson",
+      "parent_key": "grade8-026",
+      "position": 30,
+      "page": 133,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "d8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-030",
+      "original_name": "跨学科实践活动 制作模型并展示科学家探索物质组成与结构的历程",
+      "original_number": null,
+      "node_type": "practice",
+      "parent_key": "grade8-026",
+      "position": 40,
+      "page": 142,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "d8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-031",
+      "original_name": "专题复习",
+      "original_number": null,
+      "node_type": "review",
+      "parent_key": "grade8-026",
+      "position": 50,
+      "page": 145,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-032",
+      "original_name": "主题四 物质的化学变化（上）",
+      "original_number": "主题四",
+      "node_type": "theme",
+      "parent_key": null,
+      "position": 40,
+      "page": 149,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "d8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-033",
+      "original_name": "专题6 化学变化及其表示",
+      "original_number": "专题6",
+      "node_type": "topic",
+      "parent_key": "grade8-032",
+      "position": 10,
+      "page": 150,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "d8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-034",
+      "original_name": "课题1 化学反应中各物质间的定量关系",
+      "original_number": "课题1",
+      "node_type": "lesson",
+      "parent_key": "grade8-033",
+      "position": 10,
+      "page": 151,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "d8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-035",
+      "original_name": "课题2 化学反应的表示及基本类型",
+      "original_number": "课题2",
+      "node_type": "lesson",
+      "parent_key": "grade8-033",
+      "position": 20,
+      "page": 157,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "d8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-036",
+      "original_name": "跨学科实践活动 基于碳中和理念设计低碳行动方案",
+      "original_number": null,
+      "node_type": "practice",
+      "parent_key": "grade8-033",
+      "position": 30,
+      "page": 165,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "d8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-037",
+      "original_name": "专题复习",
+      "original_number": null,
+      "node_type": "review",
+      "parent_key": "grade8-033",
+      "position": 40,
+      "page": 168,
+      "book_key": "grade8",
+      "sources": [
+        "s8",
+        "r8"
+      ],
+      "verification": "多个第三方目录交叉一致；待出版社原件复核"
+    },
+    {
+      "key": "grade8-038",
+      "original_name": "附录",
+      "original_number": null,
+      "node_type": "appendix",
+      "parent_key": null,
+      "position": 50,
+      "page": 171,
+      "book_key": "grade8",
+      "sources": [
+        "s8"
+      ],
+      "verification": "第三方教材转录核对；待纸本/出版社原件人工复核"
+    }
+  ]
+}

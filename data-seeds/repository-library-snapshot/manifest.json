@@ -1,0 +1,62 @@
+{
+  "sha256": "db49b39dbd2da88297d3b092203a4d730e97f00ea41408f98075afd675bcc52b",
+  "counts": {
+    "subjects": 1,
+    "textbook_editions": 1,
+    "textbook_books": 1,
+    "curriculum_nodes": 65,
+    "knowledge_points": 64,
+    "questions": 192,
+    "knowledge_point_profiles": 64,
+    "question_knowledge_points": 192,
+    "question_revisions": 192,
+    "question_reviews": 0,
+    "curriculum_mappings": 0,
+    "question_curriculum_nodes": 0,
+    "question_asset_links": 0,
+    "knowledge_point_relations": 0,
+    "content_candidates": 536,
+    "content_reviews": 0,
+    "question_assets": 0
+  },
+  "top_level_nodes": [
+    {
+      "id": "46aae1b961fc5b97afded5bb398ce8ec",
+      "name": "主题四 物质的化学变化（上）"
+    },
+    {
+      "id": "fe79b0450da757a395c5d58f0730ec25",
+      "name": "主题五 常见的物质（下）"
+    },
+    {
+      "id": "c90047ba8abe59ee941e48ad9b20244d",
+      "name": "主题一 化学的魅力"
+    },
+    {
+      "id": "0f2779a6ca6e5500828789c9962a4b47",
+      "name": "主题二 常见的物质（上）"
+    },
+    {
+      "id": "81f43dd036a654129411248612d3f783",
+      "name": "主题六 物质的化学变化（下）"
+    },
+    {
+      "id": "5c9d984faa3152c0a2f479e39b345077",
+      "name": "主题三 物质的组成与结构"
+    },
+    {
+      "id": "7b12c6e549b6534d82860eec7c90a061",
+      "name": "九年级附录"
+    },
+    {
+      "id": "8e98de1dc0385f8cbd3f81d4633eea07",
+      "name": "八年级附录"
+    }
+  ],
+  "question_statuses": {
+    "pending": 192
+  },
+  "point_statuses": {
+    "pending": 64
+  }
+}

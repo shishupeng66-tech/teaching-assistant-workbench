@@ -1,0 +1,424 @@
+[
+  {
+    "id": "atomic-structure",
+    "title": "原子结构",
+    "category": "micro",
+    "level": "basic",
+    "description": "旋转原子模型，观察原子核与电子分层排布。",
+    "objectives": [
+      "由原子序数识别元素",
+      "区分质子数、电子数与选用同位素质量数"
+    ],
+    "theory": "复用上游前20号元素数据与电子层动画；中性原子电子数等于质子数。",
+    "limits": "固定选用同位素，中子数并非可独立调节；圆形轨道是玻尔式教学模型，不是电子真实轨迹。",
+    "topic": "主题三：物质的组成与结构",
+    "controls": [
+      {
+        "key": "atomicNumber",
+        "label": "atomicNumber",
+        "default": 6,
+        "min": 1,
+        "max": 20,
+        "step": 1,
+        "unit": "",
+        "kind": "range"
+      },
+      {
+        "key": "showElectronShells",
+        "label": "showShells",
+        "default": true,
+        "unit": "",
+        "kind": "check"
+      }
+    ],
+    "camera": [8, 6, 8]
+  },
+  {
+    "id": "chemical-bonding",
+    "title": "化学键",
+    "category": "micro",
+    "level": "extended",
+    "description": "观察电子转移、共用电子对和金属电子海的动态示意。",
+    "objectives": ["比较三种化学键模型", "解释模型中的电子作用"],
+    "theory": "保留上游离子键、共价键、金属键三个分步场景，以及水分子结构与NaCl晶格示意。",
+    "limits": "电负性差不是键型绝对分界；原子接近不等于实际水生成机理，金属简化阵列不代表铁全部真实晶型。",
+    "topic": "主题三：物质的组成与结构",
+    "controls": [
+      {
+        "key": "bondType",
+        "label": "bondType",
+        "default": "ionic",
+        "unit": "",
+        "options": [
+          ["ionic", "ionicLabel"],
+          ["covalent", "covalentLabel"],
+          ["metallic", "metallicLabel"]
+        ],
+        "kind": "select"
+      },
+      {
+        "key": "step",
+        "label": "step",
+        "default": 1,
+        "min": 1,
+        "max": 5,
+        "step": 1,
+        "unit": "",
+        "kind": "range"
+      }
+    ],
+    "camera": [12, 8, 12]
+  },
+  {
+    "id": "electrolysis",
+    "title": "电解实验",
+    "category": "virtual",
+    "level": "basic",
+    "description": "在本地三维装置中观察惰性电极电解水的气泡与收集。",
+    "objectives": ["识别阴极和阳极产物", "联系反应计量关系解释2∶1"],
+    "theory": "总反应2H₂O→2H₂＋O₂（通电），同温同压、忽略溶解与漏气时体积比约2∶1。溶液由离子导电。",
+    "limits": "仅保留适当电解质辅助的水电解。移除上游错误复用相同气体模型的食盐水、硫酸铜选项；电流、气泡与毫升读数为示意，不是法拉第定量装置。纯水导电性很弱。",
+    "topic": "主题三：水的组成；主题四：化学变化",
+    "controls": [
+      {
+        "key": "voltage",
+        "label": "voltage",
+        "default": 6,
+        "min": 1,
+        "max": 12,
+        "step": 0.5,
+        "unit": "V",
+        "kind": "range"
+      },
+      {
+        "key": "step",
+        "label": "step",
+        "default": 5,
+        "min": 1,
+        "max": 5,
+        "step": 1,
+        "unit": "",
+        "kind": "range"
+      }
+    ],
+    "camera": [12, 10, 12]
+  },
+  {
+    "id": "titration",
+    "title": "酸碱滴定",
+    "category": "virtual",
+    "level": "extended",
+    "description": "调节浓度和指示剂，逐滴观察颜色与pH曲线变化。",
+    "objectives": ["识别理论当量点与指示剂终点的差别", "比较盐酸与乙酸滴定"],
+    "theory": "固定酸液25mL，碱液NaOH；盐酸按25℃理想稀溶液酸碱平衡计算，乙酸使用质量/电荷平衡求解。",
+    "limits": "忽略活度、温度变化和仪器误差；指示剂颜色近似，非标准定量分析软件。滴加后可暂停观察，单滴需先继续运行。",
+    "topic": "主题五：酸、碱、盐",
+    "controls": [
+      {
+        "key": "acidType",
+        "label": "acidType",
+        "default": "HCl",
+        "unit": "",
+        "options": [
+          ["HCl", "HClLabel"],
+          ["CH3COOH", "CH3COOHLabel"]
+        ],
+        "kind": "select"
+      },
+      {
+        "key": "acidConcentration",
+        "label": "acidConcentration",
+        "default": 0.1,
+        "min": 0.05,
+        "max": 0.5,
+        "step": 0.05,
+        "unit": "mol/L",
+        "kind": "range"
+      },
+      {
+        "key": "baseConcentration",
+        "label": "baseConcentration",
+        "default": 0.1,
+        "min": 0.05,
+        "max": 0.5,
+        "step": 0.05,
+        "unit": "mol/L",
+        "kind": "range"
+      },
+      {
+        "key": "indicator",
+        "label": "indicator",
+        "default": "phenolphthalein",
+        "unit": "",
+        "options": [
+          ["phenolphthalein", "phenolphthaleinLabel"],
+          ["methyl-orange", "methylOrangeLabel"],
+          ["bromothymol", "bromothymolLabel"],
+          ["universal", "universalLabel"]
+        ],
+        "kind": "select"
+      },
+      {
+        "key": "dripSpeed",
+        "label": "dripSpeed",
+        "default": 2,
+        "min": 0.5,
+        "max": 8,
+        "step": 0.5,
+        "unit": "",
+        "kind": "range"
+      },
+      {
+        "key": "dripping",
+        "label": "dripping",
+        "default": false,
+        "unit": "",
+        "kind": "check"
+      }
+    ],
+    "camera": [10, 7, 10]
+  },
+  {
+    "id": "gas-laws",
+    "title": "气体定律",
+    "category": "virtual",
+    "level": "extended",
+    "description": "调节温度、体积和示意粒子数，观察碰撞与理想气体关系。",
+    "objectives": ["验证定温时压强与体积成反比", "使用开尔文温度和统一单位"],
+    "theory": "P＝nRT/V；本模型将100个显示粒子约定为0.1mol，体积以L输入并换算m³后得到Pa。",
+    "limits": "显示粒子不是实际分子数；容器边长按体积立方根变化。粒子颜色与速度为示意，平均动能与均方根速率用公式而非动画像素测量。",
+    "topic": "主题二：气体；拓展内容",
+    "controls": [
+      {
+        "key": "temperature",
+        "label": "temperature",
+        "default": 300,
+        "min": 100,
+        "max": 800,
+        "step": 10,
+        "unit": "K",
+        "kind": "range"
+      },
+      {
+        "key": "volume",
+        "label": "volume",
+        "default": 5,
+        "min": 1,
+        "max": 10,
+        "step": 0.5,
+        "unit": "L",
+        "kind": "range"
+      },
+      {
+        "key": "numParticles",
+        "label": "particles",
+        "default": 100,
+        "min": 20,
+        "max": 200,
+        "step": 10,
+        "unit": "",
+        "kind": "range"
+      }
+    ],
+    "camera": [25, 18, 25]
+  },
+  {
+    "id": "acid-base-reactions",
+    "title": "酸碱反应",
+    "category": "reaction",
+    "level": "basic",
+    "description": "观看酸碱混合、离子运动和中和过程的简化动画。",
+    "objectives": ["理解H⁺与OH⁻中和", "认识过量酸碱与最终pH"],
+    "theory": "固定等体积盐酸与NaOH，净离子关系H⁺＋OH⁻→H₂O；Na⁺和Cl⁻是旁观离子，溶于水而非自动析出盐晶体。",
+    "limits": "pH按25℃理想稀强酸强碱和混合进度估算；画面粒子数量、碰撞和温升为示意，不用粒子计数判定反应计量。",
+    "topic": "主题五：酸、碱、盐",
+    "controls": [
+      {
+        "key": "acidConcentration",
+        "label": "acidConcentration",
+        "default": 0.1,
+        "min": 0.05,
+        "max": 0.5,
+        "step": 0.05,
+        "unit": "mol/L",
+        "kind": "range"
+      },
+      {
+        "key": "baseConcentration",
+        "label": "baseConcentration",
+        "default": 0.1,
+        "min": 0.05,
+        "max": 0.5,
+        "step": 0.05,
+        "unit": "mol/L",
+        "kind": "range"
+      }
+    ],
+    "camera": [10, 7, 10]
+  },
+  {
+    "id": "crystal-lattice",
+    "title": "晶体结构",
+    "category": "micro",
+    "level": "extended",
+    "description": "旋转FCC、BCC、HCP及金刚石型结构，观察空间排列。",
+    "objectives": ["比较典型晶胞", "区分模型连线与实际化学键"],
+    "theory": "保留上游四种结构坐标、晶胞边框、连接线及旋转。FCC/BCC统计基于理想晶胞。",
+    "limits": "HCP与金刚石为简化邻域展示，不能按画面显示的小球数直接计算每晶胞原子数；连接线不统一代表共价键。",
+    "topic": "主题三：结构多样的碳单质（拓展）",
+    "controls": [
+      {
+        "key": "latticeType",
+        "label": "latticeType",
+        "default": "FCC",
+        "unit": "",
+        "options": [
+          ["FCC", "FCCLabel"],
+          ["BCC", "BCCLabel"],
+          ["HCP", "HCPLabel"],
+          ["diamond", "diamondLabel"]
+        ],
+        "kind": "select"
+      },
+      {
+        "key": "showUnitCell",
+        "label": "showCell",
+        "default": true,
+        "unit": "",
+        "kind": "check"
+      },
+      {
+        "key": "showBonds",
+        "label": "showBonds",
+        "default": true,
+        "unit": "",
+        "kind": "check"
+      }
+    ],
+    "camera": [9, 7, 9]
+  },
+  {
+    "id": "diffusion",
+    "title": "分子扩散",
+    "category": "virtual",
+    "level": "basic",
+    "description": "通过膜孔模型观察随机运动和两侧粒子的净扩散。",
+    "objectives": ["用微粒运动解释混合", "比较温度和膜孔对扩散的示意影响"],
+    "theory": "保留上游随机运动、碰壁、膜孔穿越和两侧计数逻辑。",
+    "limits": "这是教学随机游走，不是严格分子动力学；相对温度与孔径参数不是实际材料单位。粒子浓度指标为显示数量，不预测真实渗透压。",
+    "topic": "主题三：构成物质的微观粒子",
+    "controls": [
+      {
+        "key": "temperature",
+        "label": "temperature",
+        "default": 1,
+        "min": 0.5,
+        "max": 2,
+        "step": 0.1,
+        "unit": "×",
+        "kind": "range"
+      },
+      {
+        "key": "poreSize",
+        "label": "poreSize",
+        "default": 1,
+        "min": 0.2,
+        "max": 2,
+        "step": 0.1,
+        "unit": "",
+        "kind": "range"
+      },
+      {
+        "key": "particleCount",
+        "label": "particleCount",
+        "default": 1,
+        "min": 0.5,
+        "max": 2,
+        "step": 0.1,
+        "unit": "×",
+        "kind": "range"
+      }
+    ],
+    "camera": [12, 8, 12]
+  },
+  {
+    "id": "thermochemistry",
+    "title": "放热与吸热",
+    "category": "reaction",
+    "level": "extended",
+    "description": "同步观察两侧分子运动、能量曲线和温度变化示意。",
+    "objectives": ["区分放热与吸热的能量方向", "识别活化能与焓变"],
+    "theory": "保留上游双场景和能量曲线。ΔH＜0为放热，ΔH＞0为吸热，均有反应路径与能垒。",
+    "limits": "温度由预设进度示意，不是热容、反应量与环境热交换的严格计算；不把动画的分子运动速度当作实测温度。",
+    "topic": "主题六：化学反应的调控（拓展）",
+    "controls": [
+      {
+        "key": "activationEnergy",
+        "label": "activationEnergy",
+        "default": 40,
+        "min": 10,
+        "max": 100,
+        "step": 5,
+        "unit": "kJ/mol",
+        "kind": "range"
+      },
+      {
+        "key": "energyReleased",
+        "label": "energyReleased",
+        "default": 30,
+        "min": 10,
+        "max": 80,
+        "step": 5,
+        "unit": "kJ/mol",
+        "kind": "range"
+      }
+    ],
+    "camera": [13, 9, 13]
+  },
+  {
+    "id": "periodic-trends",
+    "title": "元素周期表规律",
+    "category": "micro",
+    "level": "extended",
+    "description": "浏览来源中的118元素三维方块，点击查看中文名称和元素信息。",
+    "objectives": ["认识周期与族", "观察半径、电负性和电离能的总体趋势与例外"],
+    "theory": "保留上游元素表坐标、选取和悬浮提示，增加属性高度视图与平滑过渡。",
+    "limits": "来源对重元素有估算或缺失值，缺失值不视为零；数值未逐项重新作权威核定，不用于精密比较。不同原子半径定义不可混用。",
+    "topic": "主题三：组成物质的元素（拓展）",
+    "controls": [
+      {
+        "key": "selectedAtomicNumber",
+        "label": "atomicNumber",
+        "default": 6,
+        "min": 1,
+        "max": 118,
+        "step": 1,
+        "unit": "",
+        "kind": "range"
+      },
+      {
+        "key": "trend",
+        "label": "theory",
+        "default": "atomicRadius",
+        "unit": "",
+        "options": [
+          ["atomicRadius", "atomicRadius"],
+          ["electronegativity", "electronegativity"],
+          ["ionizationEnergy", "ionizationEnergy"]
+        ],
+        "kind": "select"
+      },
+      {
+        "key": "periodicScale",
+        "label": "periodicScale",
+        "default": 1,
+        "min": 0,
+        "max": 3,
+        "step": 0.1,
+        "unit": "×",
+        "kind": "range"
+      }
+    ],
+    "camera": [0, 0, 19]
+  }
+]

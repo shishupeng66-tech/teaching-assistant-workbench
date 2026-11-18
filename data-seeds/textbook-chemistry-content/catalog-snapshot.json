@@ -1,0 +1,680 @@
+{
+  "subjects": [
+    {
+      "id": "091e5a880b14490199c1d20d50975a80",
+      "name": "化学",
+      "code": "01",
+      "active": 1
+    }
+  ],
+  "editions": [
+    {
+      "id": "51c22c06d7e1580e9010c3459db5db8c",
+      "subject_id": "091e5a880b14490199c1d20d50975a80",
+      "name": "初中化学",
+      "description": "教师授权合并的初中化学教学目录，六个主题连续排列。原教材版本并未改为同一出版版次。\n八年级来源：义务教育教科书（五·四学制） 化学 八年级 全一册；上海科学技术出版社；2024年8月第1版；ISBN 978-7-5478-6612-2。第三方版权页及目录转录，出版社原件待复核。参考标签：2024秋。来源详见 data-seeds/textbooks/shanghai-junior-chemistry/sources.json\n九年级来源：义务教育教科书（五·四学制） 化学 九年级 全一册；上海科学技术出版社；2025年8月第1版；ISBN 978-7-5478-7046-4。第三方版权页及目录转录，出版社原件待复核。参考标签：2026秋（该印次未核实，不冒称已导入）。来源详见 data-seeds/textbooks/shanghai-junior-chemistry/sources.json",
+      "active": 1
+    }
+  ],
+  "books": [
+    {
+      "id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "edition_id": "51c22c06d7e1580e9010c3459db5db8c",
+      "grade": "初中",
+      "volume": "全一册",
+      "active": 1
+    }
+  ],
+  "nodes": [
+    {
+      "id": "c90047ba8abe59ee941e48ad9b20244d",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": null,
+      "name": "主题一 化学的魅力",
+      "kind": "chapter",
+      "position": 10,
+      "description": "目录类型：主题；教材页码：1；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "f47d386035315785aa7512eb0cc707b8",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "c90047ba8abe59ee941e48ad9b20244d",
+      "name": "专题1 化学使生活更美好",
+      "kind": "section",
+      "position": 10,
+      "description": "目录类型：专题；教材页码：2；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "6859d611da9d5bcb8d769edcca8c0182",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "f47d386035315785aa7512eb0cc707b8",
+      "name": "课题1 开启化学之门",
+      "kind": "lesson",
+      "position": 10,
+      "description": "目录类型：课题；教材页码：3；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "ddfb730aaacd59eda597e90c61a39fbd",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "f47d386035315785aa7512eb0cc707b8",
+      "name": "课题2 通用的化学语言",
+      "kind": "lesson",
+      "position": 20,
+      "description": "目录类型：课题；教材页码：14；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "8559236f922d5a8cb2c16f507066952c",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "f47d386035315785aa7512eb0cc707b8",
+      "name": "跨学科实践活动 生活垃圾的分类与回收利用",
+      "kind": "lesson",
+      "position": 30,
+      "description": "目录类型：跨学科实践；教材页码：20；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "66fc5356a0f75da382de0126ec3a72d3",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "f47d386035315785aa7512eb0cc707b8",
+      "name": "专题复习",
+      "kind": "lesson",
+      "position": 40,
+      "description": "目录类型：专题复习；教材页码：23；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "1fc368691bd8506ea5c802f51412f6d0",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "c90047ba8abe59ee941e48ad9b20244d",
+      "name": "专题2 体验化学实验探究",
+      "kind": "section",
+      "position": 20,
+      "description": "目录类型：专题；教材页码：26；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "a622dda10f43501193f2666a68bf726f",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "1fc368691bd8506ea5c802f51412f6d0",
+      "name": "课题1 走进化学实验室",
+      "kind": "lesson",
+      "position": 10,
+      "description": "目录类型：课题；教材页码：27；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "276cfaad3f1253e9a069b71535e61c3e",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "1fc368691bd8506ea5c802f51412f6d0",
+      "name": "课题2 学习开展化学实验探究",
+      "kind": "lesson",
+      "position": 20,
+      "description": "目录类型：课题；教材页码：41；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "4ee1c5556c19524eb3dfbe448624df64",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "1fc368691bd8506ea5c802f51412f6d0",
+      "name": "跨学科实践活动 微型空气质量“检测站”的组装与使用",
+      "kind": "lesson",
+      "position": 30,
+      "description": "目录类型：跨学科实践；教材页码：48；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "306dabdd61b250cba0c81b8f185ee503",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "1fc368691bd8506ea5c802f51412f6d0",
+      "name": "专题复习",
+      "kind": "lesson",
+      "position": 40,
+      "description": "目录类型：专题复习；教材页码：51；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "0f2779a6ca6e5500828789c9962a4b47",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": null,
+      "name": "主题二 常见的物质（上）",
+      "kind": "chapter",
+      "position": 20,
+      "description": "目录类型：主题；教材页码：55；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "914e304623e452a29e99498b3ee18fca",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "0f2779a6ca6e5500828789c9962a4b47",
+      "name": "专题3 空气、氧气、二氧化碳",
+      "kind": "section",
+      "position": 10,
+      "description": "目录类型：专题；教材页码：56；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "1a1f7e07f4995876a172632747f6f928",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "914e304623e452a29e99498b3ee18fca",
+      "name": "课题1 空气的成分",
+      "kind": "lesson",
+      "position": 10,
+      "description": "目录类型：课题；教材页码：57；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "44482cbeef2d557cb74ffc941f13ae47",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "914e304623e452a29e99498b3ee18fca",
+      "name": "课题2 氧气和二氧化碳的性质",
+      "kind": "lesson",
+      "position": 20,
+      "description": "目录类型：课题；教材页码：63；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "e96ae9d58eb05767a6c80acde501e7d4",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "914e304623e452a29e99498b3ee18fca",
+      "name": "课题3 氧气和二氧化碳的制备",
+      "kind": "lesson",
+      "position": 30,
+      "description": "目录类型：课题；教材页码：73；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "00225e78a4585756801fce74c0ac4405",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "914e304623e452a29e99498b3ee18fca",
+      "name": "跨学科实践活动 基于特定需求设计和制作简易供氧器",
+      "kind": "lesson",
+      "position": 40,
+      "description": "目录类型：跨学科实践；教材页码：81；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "1aa02a2259bb50419556ae78bcc9abea",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "914e304623e452a29e99498b3ee18fca",
+      "name": "专题复习",
+      "kind": "lesson",
+      "position": 50,
+      "description": "目录类型：专题复习；教材页码：84；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "5c9d984faa3152c0a2f479e39b345077",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": null,
+      "name": "主题三 物质的组成与结构",
+      "kind": "chapter",
+      "position": 30,
+      "description": "目录类型：主题；教材页码：87；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "c1e13b3c44e05bf8b976903852f14078",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "5c9d984faa3152c0a2f479e39b345077",
+      "name": "专题4 水的性质与组成",
+      "kind": "section",
+      "position": 10,
+      "description": "目录类型：专题；教材页码：88；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "4e5a3f4e54b05b2d8c2c8cc3749f3826",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "c1e13b3c44e05bf8b976903852f14078",
+      "name": "课题1 水的性质",
+      "kind": "lesson",
+      "position": 10,
+      "description": "目录类型：课题；教材页码：89；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "42446d416e345d63923d69da0ee37894",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "c1e13b3c44e05bf8b976903852f14078",
+      "name": "课题2 水的自然循环与人工净化",
+      "kind": "lesson",
+      "position": 20,
+      "description": "目录类型：课题；教材页码：95；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "d99b76520f4855e0a9774e98eec19c4a",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "c1e13b3c44e05bf8b976903852f14078",
+      "name": "课题3 水的组成",
+      "kind": "lesson",
+      "position": 30,
+      "description": "目录类型：课题；教材页码：103；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "c5ba93cd0f6e56d5abdbb2034b9a1f64",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "c1e13b3c44e05bf8b976903852f14078",
+      "name": "跨学科实践活动 水质检测及自制净水器",
+      "kind": "lesson",
+      "position": 40,
+      "description": "目录类型：跨学科实践；教材页码：108；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "95eb5efdf82c5afe998d6d836381bfbb",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "c1e13b3c44e05bf8b976903852f14078",
+      "name": "专题复习",
+      "kind": "lesson",
+      "position": 50,
+      "description": "目录类型：专题复习；教材页码：111；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "f5647497998c5e2f8ba72eb38e316c47",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "5c9d984faa3152c0a2f479e39b345077",
+      "name": "专题5 物质的微观构成",
+      "kind": "section",
+      "position": 20,
+      "description": "目录类型：专题；教材页码：114；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "3da6a20e0033558081ad4c2230a3bfd2",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "f5647497998c5e2f8ba72eb38e316c47",
+      "name": "课题1 构成物质的微观粒子",
+      "kind": "lesson",
+      "position": 10,
+      "description": "目录类型：课题；教材页码：115；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "32e0f9721bd755df93dfc788f17ae3b5",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "f5647497998c5e2f8ba72eb38e316c47",
+      "name": "课题2 组成物质的元素",
+      "kind": "lesson",
+      "position": 20,
+      "description": "目录类型：课题；教材页码：123；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "6b7c72228c945efda0f0947b46e1bbc5",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "f5647497998c5e2f8ba72eb38e316c47",
+      "name": "课题3 结构多样的碳单质",
+      "kind": "lesson",
+      "position": 30,
+      "description": "目录类型：课题；教材页码：133；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "86267343263e5f9bad2bc035a9875cea",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "f5647497998c5e2f8ba72eb38e316c47",
+      "name": "跨学科实践活动 制作模型并展示科学家探索物质组成与结构的历程",
+      "kind": "lesson",
+      "position": 40,
+      "description": "目录类型：跨学科实践；教材页码：142；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "a0fc398b9bef5ee1a15b5c47beee8038",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "f5647497998c5e2f8ba72eb38e316c47",
+      "name": "专题复习",
+      "kind": "lesson",
+      "position": 50,
+      "description": "目录类型：专题复习；教材页码：145；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "46aae1b961fc5b97afded5bb398ce8ec",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": null,
+      "name": "主题四 物质的化学变化（上）",
+      "kind": "chapter",
+      "position": 40,
+      "description": "目录类型：主题；教材页码：149；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "1d643b73a46a597ca0e826bb90382e6f",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "46aae1b961fc5b97afded5bb398ce8ec",
+      "name": "专题6 化学变化及其表示",
+      "kind": "section",
+      "position": 10,
+      "description": "目录类型：专题；教材页码：150；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "e2f96a121aac5476948405301a7fc6ed",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "1d643b73a46a597ca0e826bb90382e6f",
+      "name": "课题1 化学反应中各物质间的定量关系",
+      "kind": "lesson",
+      "position": 10,
+      "description": "目录类型：课题；教材页码：151；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "9f0450dbd76c54aca593e3f9fb23ac2d",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "1d643b73a46a597ca0e826bb90382e6f",
+      "name": "课题2 化学反应的表示及基本类型",
+      "kind": "lesson",
+      "position": 20,
+      "description": "目录类型：课题；教材页码：157；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "dd9e862a372753e88f5c39bbc18e43ab",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "1d643b73a46a597ca0e826bb90382e6f",
+      "name": "跨学科实践活动 基于碳中和理念设计低碳行动方案",
+      "kind": "lesson",
+      "position": 30,
+      "description": "目录类型：跨学科实践；教材页码：165；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "4fc86252abe75832a282b44bc81a2797",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "1d643b73a46a597ca0e826bb90382e6f",
+      "name": "专题复习",
+      "kind": "lesson",
+      "position": 40,
+      "description": "目录类型：专题复习；教材页码：168；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "8e98de1dc0385f8cbd3f81d4633eea07",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": null,
+      "name": "八年级附录",
+      "kind": "chapter",
+      "position": 70,
+      "description": "目录类型：附录；教材页码：171；核实状态：第三方教材转录核对；待纸本/出版社原件人工复核。来源：https://www.scribd.com/document/882477787",
+      "active": 1
+    },
+    {
+      "id": "fe79b0450da757a395c5d58f0730ec25",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": null,
+      "name": "主题五 常见的物质（下）",
+      "kind": "chapter",
+      "position": 50,
+      "description": "目录类型：主题；教材页码：1；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "a27573486cb75a3fbbe9dc44cc73fbcc",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "fe79b0450da757a395c5d58f0730ec25",
+      "name": "专题7 溶液",
+      "kind": "section",
+      "position": 10,
+      "description": "目录类型：专题；教材页码：2；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "242aa452694152729647557d3e37efbc",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "a27573486cb75a3fbbe9dc44cc73fbcc",
+      "name": "课题1 初探溶液",
+      "kind": "lesson",
+      "position": 10,
+      "description": "目录类型：课题；教材页码：3；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "9ed0a0c204955d6abe7c4b362b5021d3",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "a27573486cb75a3fbbe9dc44cc73fbcc",
+      "name": "课题2 探究物质的溶解性",
+      "kind": "lesson",
+      "position": 20,
+      "description": "目录类型：课题；教材页码：10；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "21fc5057096d526eb302d3bc7b610391",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "a27573486cb75a3fbbe9dc44cc73fbcc",
+      "name": "课题3 学会定量表示溶液的组成",
+      "kind": "lesson",
+      "position": 30,
+      "description": "目录类型：课题；教材页码：20；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "84e9a44c3b0f52b89c7f0eb46911b5d2",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "a27573486cb75a3fbbe9dc44cc73fbcc",
+      "name": "跨学科实践活动 海洋资源的综合利用与制盐",
+      "kind": "lesson",
+      "position": 40,
+      "description": "目录类型：跨学科实践；教材页码：26；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "3f4bd352efd1548fabba6835b83f31e0",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "a27573486cb75a3fbbe9dc44cc73fbcc",
+      "name": "专题复习",
+      "kind": "lesson",
+      "position": 50,
+      "description": "目录类型：专题复习；教材页码：29；核实状态：第三方教材转录核对；待纸本/出版社原件人工复核。来源：https://www.scribd.com/document/1008403481",
+      "active": 1
+    },
+    {
+      "id": "fc1a45b251b05d23a0d856fe3321898f",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "fe79b0450da757a395c5d58f0730ec25",
+      "name": "专题8 酸、碱、盐",
+      "kind": "section",
+      "position": 20,
+      "description": "目录类型：专题；教材页码：32；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "f3d00c9a25115a999caa50abbc5e26f8",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "fc1a45b251b05d23a0d856fe3321898f",
+      "name": "课题1 初识酸和碱",
+      "kind": "lesson",
+      "position": 10,
+      "description": "目录类型：课题；教材页码：33；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "83e889dd0e2956019429afd9396e7b46",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "fc1a45b251b05d23a0d856fe3321898f",
+      "name": "课题2 认识酸、碱、盐的性质与应用",
+      "kind": "lesson",
+      "position": 20,
+      "description": "目录类型：课题；教材页码：42；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "ef55e7aa7ece5998b0c25a0230080b3b",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "fc1a45b251b05d23a0d856fe3321898f",
+      "name": "课题3 调节土壤酸碱性与施用营养元素",
+      "kind": "lesson",
+      "position": 30,
+      "description": "目录类型：课题；教材页码：55；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "4452c44d545c58adaaff3aff67c03d7d",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "fc1a45b251b05d23a0d856fe3321898f",
+      "name": "跨学科实践活动 探究土壤酸碱性对植物生长的影响",
+      "kind": "lesson",
+      "position": 40,
+      "description": "目录类型：跨学科实践；教材页码：65；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "bb1e3088ec4c52cf909713ccfdedbdff",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "fc1a45b251b05d23a0d856fe3321898f",
+      "name": "专题复习",
+      "kind": "lesson",
+      "position": 50,
+      "description": "目录类型：专题复习；教材页码：69；核实状态：第三方教材转录核对；待纸本/出版社原件人工复核。来源：https://www.scribd.com/document/1008403481",
+      "active": 1
+    },
+    {
+      "id": "81f43dd036a654129411248612d3f783",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": null,
+      "name": "主题六 物质的化学变化（下）",
+      "kind": "chapter",
+      "position": 60,
+      "description": "目录类型：主题；教材页码：73；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "94cf0a6439b05eb29c18f0a4ef316950",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "81f43dd036a654129411248612d3f783",
+      "name": "专题9 化学反应的调控",
+      "kind": "section",
+      "position": 10,
+      "description": "目录类型：专题；教材页码：74；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "318348107063595ea87c76aaec48e08f",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "94cf0a6439b05eb29c18f0a4ef316950",
+      "name": "课题1 认识燃烧与燃料",
+      "kind": "lesson",
+      "position": 10,
+      "description": "目录类型：课题；教材页码：75；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "b22f7ff5878b55b19f067cafcd3b07d8",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "94cf0a6439b05eb29c18f0a4ef316950",
+      "name": "课题2 调控燃烧的方法",
+      "kind": "lesson",
+      "position": 20,
+      "description": "目录类型：课题；教材页码：83；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "8268a261d0ee53c08ccef7f24db191ed",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "94cf0a6439b05eb29c18f0a4ef316950",
+      "name": "课题3 防止金属腐蚀的措施",
+      "kind": "lesson",
+      "position": 30,
+      "description": "目录类型：课题；教材页码：89；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "dbf6c9cb61d15465960ad00de21aed68",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "94cf0a6439b05eb29c18f0a4ef316950",
+      "name": "跨学科实践活动 调查家用燃料的变迁与合理使用",
+      "kind": "lesson",
+      "position": 40,
+      "description": "目录类型：跨学科实践；教材页码：98；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "7590ae76ee09578c8ab76653c37b88dd",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "94cf0a6439b05eb29c18f0a4ef316950",
+      "name": "专题复习",
+      "kind": "lesson",
+      "position": 50,
+      "description": "目录类型：专题复习；教材页码：101；核实状态：第三方教材转录核对；待纸本/出版社原件人工复核。来源：https://www.scribd.com/document/1008403481",
+      "active": 1
+    },
+    {
+      "id": "b62769ead7ca5d70831ea56b3166b9f6",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "81f43dd036a654129411248612d3f783",
+      "name": "专题10 化学与人类社会进步",
+      "kind": "section",
+      "position": 20,
+      "description": "目录类型：专题；教材页码：104；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "c25a1f2e52515d9ca72a499b5dfcd7cc",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "b62769ead7ca5d70831ea56b3166b9f6",
+      "name": "课题1 化学引领新能源的开发",
+      "kind": "lesson",
+      "position": 10,
+      "description": "目录类型：课题；教材页码：105；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "bccffe047b325551803fc7c1f8c8d906",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "b62769ead7ca5d70831ea56b3166b9f6",
+      "name": "课题2 健康生活离不开化学",
+      "kind": "lesson",
+      "position": 20,
+      "description": "目录类型：课题；教材页码：112；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "c3f3a4882b1954a2a5df4ba89e2af019",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "b62769ead7ca5d70831ea56b3166b9f6",
+      "name": "课题3 化学为人类提供丰富的材料",
+      "kind": "lesson",
+      "position": 30,
+      "description": "目录类型：课题；教材页码：120；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "1fa12e2a15a05200b68c3ec075f6a1ca",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "b62769ead7ca5d70831ea56b3166b9f6",
+      "name": "跨学科实践活动 调查我国航天科技领域中新型材料、新型能源的应用",
+      "kind": "lesson",
+      "position": 40,
+      "description": "目录类型：跨学科实践；教材页码：133；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "f1d2ad12bcb65135a9fbfa593d633dc0",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "b62769ead7ca5d70831ea56b3166b9f6",
+      "name": "专题复习",
+      "kind": "lesson",
+      "position": 50,
+      "description": "目录类型：专题复习；教材页码：137；核实状态：第三方教材转录核对；待纸本/出版社原件人工复核。来源：https://www.scribd.com/document/1008403481",
+      "active": 1
+    },
+    {
+      "id": "7b12c6e549b6534d82860eec7c90a061",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": null,
+      "name": "九年级附录",
+      "kind": "chapter",
+      "position": 80,
+      "description": "目录类型：附录；教材页码：140；核实状态：第三方教材转录核对；待纸本/出版社原件人工复核。来源：https://www.scribd.com/document/1008403481",
+      "active": 1
+    }
+  ]
+}

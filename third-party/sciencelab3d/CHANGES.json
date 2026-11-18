@@ -1,0 +1,46 @@
+{
+  "commit": "939d9300ea04fc0b6c22b1a5cfc8cbd8ee480c80",
+  "derived_files": [
+    {
+      "path": "frontend/src/features/chemistry-lab/scenes/acid-base-reactions-scene.tsx",
+      "sha256": "8c89882db6d834f6e32c0e380482775a3092aaf4e2ce37a6ab395e4e417739fa"
+    },
+    {
+      "path": "frontend/src/features/chemistry-lab/scenes/atomic-structure-scene.tsx",
+      "sha256": "3905249877a13ee46c9498eb64e0c442905da347f95ed23b09f14eda6877f423"
+    },
+    {
+      "path": "frontend/src/features/chemistry-lab/scenes/chemical-bonding-scene.tsx",
+      "sha256": "2b5aa84fd6860b38d17393708e35ffd455d67756e43faec55df44412a169209c"
+    },
+    {
+      "path": "frontend/src/features/chemistry-lab/scenes/crystal-lattice-scene.tsx",
+      "sha256": "7d2068d1f57f959f0264d7be2544a33ae58a1eeb182b43914746420834039359"
+    },
+    {
+      "path": "frontend/src/features/chemistry-lab/scenes/diffusion-scene.tsx",
+      "sha256": "34996cbc81da7e437f3a3d1ccb63715a48b8d978dadaed610665b81243a7ff23"
+    },
+    {
+      "path": "frontend/src/features/chemistry-lab/scenes/electrolysis-scene.tsx",
+      "sha256": "3a2b0ba9a1d4ac23dc36d20bdd0512da12d4cb626870e1a039d3e55e6e93169f"
+    },
+    {
+      "path": "frontend/src/features/chemistry-lab/scenes/gas-laws-scene.tsx",
+      "sha256": "7da072072e327a1044a00fad1bbbbe77ffc36ea3c66f4bce8fa6709158eacda3"
+    },
+    {
+      "path": "frontend/src/features/chemistry-lab/scenes/periodic-trends-scene.tsx",
+      "sha256": "1b733ec024296d5ba41018a3bdd168de623688817b234b1c1814f16a891219d8"
+    },
+    {
+      "path": "frontend/src/features/chemistry-lab/scenes/thermochemistry-scene.tsx",
+      "sha256": "168c30c4c59d2b524ae26adedf8cd6e6f74a05c50f349db9b5c93130449cf644"
+    },
+    {
+      "path": "frontend/src/features/chemistry-lab/scenes/titration-scene.tsx",
+      "sha256": "8336401d851bab5b79b44c0792039412179bd27e6ea28a5f3bc3359b69990706"
+    }
+  ],
+  "data_writes": "none; favorites only in browser localStorage with JSON export"
+}

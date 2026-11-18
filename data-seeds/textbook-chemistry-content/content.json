@@ -1,0 +1,4633 @@
+{
+  "seed_key": "shanghai-textbook-original-v1",
+  "catalog": [
+    {
+      "id": "c90047ba8abe59ee941e48ad9b20244d",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": null,
+      "name": "主题一 化学的魅力",
+      "kind": "chapter",
+      "position": 10,
+      "description": "目录类型：主题；教材页码：1；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "f47d386035315785aa7512eb0cc707b8",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "c90047ba8abe59ee941e48ad9b20244d",
+      "name": "专题1 化学使生活更美好",
+      "kind": "section",
+      "position": 10,
+      "description": "目录类型：专题；教材页码：2；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "6859d611da9d5bcb8d769edcca8c0182",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "f47d386035315785aa7512eb0cc707b8",
+      "name": "课题1 开启化学之门",
+      "kind": "lesson",
+      "position": 10,
+      "description": "目录类型：课题；教材页码：3；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "ddfb730aaacd59eda597e90c61a39fbd",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "f47d386035315785aa7512eb0cc707b8",
+      "name": "课题2 通用的化学语言",
+      "kind": "lesson",
+      "position": 20,
+      "description": "目录类型：课题；教材页码：14；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "8559236f922d5a8cb2c16f507066952c",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "f47d386035315785aa7512eb0cc707b8",
+      "name": "跨学科实践活动 生活垃圾的分类与回收利用",
+      "kind": "lesson",
+      "position": 30,
+      "description": "目录类型：跨学科实践；教材页码：20；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "66fc5356a0f75da382de0126ec3a72d3",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "f47d386035315785aa7512eb0cc707b8",
+      "name": "专题复习",
+      "kind": "lesson",
+      "position": 40,
+      "description": "目录类型：专题复习；教材页码：23；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "1fc368691bd8506ea5c802f51412f6d0",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "c90047ba8abe59ee941e48ad9b20244d",
+      "name": "专题2 体验化学实验探究",
+      "kind": "section",
+      "position": 20,
+      "description": "目录类型：专题；教材页码：26；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "a622dda10f43501193f2666a68bf726f",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "1fc368691bd8506ea5c802f51412f6d0",
+      "name": "课题1 走进化学实验室",
+      "kind": "lesson",
+      "position": 10,
+      "description": "目录类型：课题；教材页码：27；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "276cfaad3f1253e9a069b71535e61c3e",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "1fc368691bd8506ea5c802f51412f6d0",
+      "name": "课题2 学习开展化学实验探究",
+      "kind": "lesson",
+      "position": 20,
+      "description": "目录类型：课题；教材页码：41；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "4ee1c5556c19524eb3dfbe448624df64",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "1fc368691bd8506ea5c802f51412f6d0",
+      "name": "跨学科实践活动 微型空气质量“检测站”的组装与使用",
+      "kind": "lesson",
+      "position": 30,
+      "description": "目录类型：跨学科实践；教材页码：48；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "306dabdd61b250cba0c81b8f185ee503",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "1fc368691bd8506ea5c802f51412f6d0",
+      "name": "专题复习",
+      "kind": "lesson",
+      "position": 40,
+      "description": "目录类型：专题复习；教材页码：51；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "0f2779a6ca6e5500828789c9962a4b47",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": null,
+      "name": "主题二 常见的物质（上）",
+      "kind": "chapter",
+      "position": 20,
+      "description": "目录类型：主题；教材页码：55；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "914e304623e452a29e99498b3ee18fca",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "0f2779a6ca6e5500828789c9962a4b47",
+      "name": "专题3 空气、氧气、二氧化碳",
+      "kind": "section",
+      "position": 10,
+      "description": "目录类型：专题；教材页码：56；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "1a1f7e07f4995876a172632747f6f928",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "914e304623e452a29e99498b3ee18fca",
+      "name": "课题1 空气的成分",
+      "kind": "lesson",
+      "position": 10,
+      "description": "目录类型：课题；教材页码：57；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "44482cbeef2d557cb74ffc941f13ae47",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "914e304623e452a29e99498b3ee18fca",
+      "name": "课题2 氧气和二氧化碳的性质",
+      "kind": "lesson",
+      "position": 20,
+      "description": "目录类型：课题；教材页码：63；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "e96ae9d58eb05767a6c80acde501e7d4",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "914e304623e452a29e99498b3ee18fca",
+      "name": "课题3 氧气和二氧化碳的制备",
+      "kind": "lesson",
+      "position": 30,
+      "description": "目录类型：课题；教材页码：73；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "00225e78a4585756801fce74c0ac4405",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "914e304623e452a29e99498b3ee18fca",
+      "name": "跨学科实践活动 基于特定需求设计和制作简易供氧器",
+      "kind": "lesson",
+      "position": 40,
+      "description": "目录类型：跨学科实践；教材页码：81；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "1aa02a2259bb50419556ae78bcc9abea",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "914e304623e452a29e99498b3ee18fca",
+      "name": "专题复习",
+      "kind": "lesson",
+      "position": 50,
+      "description": "目录类型：专题复习；教材页码：84；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "5c9d984faa3152c0a2f479e39b345077",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": null,
+      "name": "主题三 物质的组成与结构",
+      "kind": "chapter",
+      "position": 30,
+      "description": "目录类型：主题；教材页码：87；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "c1e13b3c44e05bf8b976903852f14078",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "5c9d984faa3152c0a2f479e39b345077",
+      "name": "专题4 水的性质与组成",
+      "kind": "section",
+      "position": 10,
+      "description": "目录类型：专题；教材页码：88；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "4e5a3f4e54b05b2d8c2c8cc3749f3826",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "c1e13b3c44e05bf8b976903852f14078",
+      "name": "课题1 水的性质",
+      "kind": "lesson",
+      "position": 10,
+      "description": "目录类型：课题；教材页码：89；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "42446d416e345d63923d69da0ee37894",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "c1e13b3c44e05bf8b976903852f14078",
+      "name": "课题2 水的自然循环与人工净化",
+      "kind": "lesson",
+      "position": 20,
+      "description": "目录类型：课题；教材页码：95；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "d99b76520f4855e0a9774e98eec19c4a",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "c1e13b3c44e05bf8b976903852f14078",
+      "name": "课题3 水的组成",
+      "kind": "lesson",
+      "position": 30,
+      "description": "目录类型：课题；教材页码：103；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "c5ba93cd0f6e56d5abdbb2034b9a1f64",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "c1e13b3c44e05bf8b976903852f14078",
+      "name": "跨学科实践活动 水质检测及自制净水器",
+      "kind": "lesson",
+      "position": 40,
+      "description": "目录类型：跨学科实践；教材页码：108；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "95eb5efdf82c5afe998d6d836381bfbb",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "c1e13b3c44e05bf8b976903852f14078",
+      "name": "专题复习",
+      "kind": "lesson",
+      "position": 50,
+      "description": "目录类型：专题复习；教材页码：111；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "f5647497998c5e2f8ba72eb38e316c47",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "5c9d984faa3152c0a2f479e39b345077",
+      "name": "专题5 物质的微观构成",
+      "kind": "section",
+      "position": 20,
+      "description": "目录类型：专题；教材页码：114；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "3da6a20e0033558081ad4c2230a3bfd2",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "f5647497998c5e2f8ba72eb38e316c47",
+      "name": "课题1 构成物质的微观粒子",
+      "kind": "lesson",
+      "position": 10,
+      "description": "目录类型：课题；教材页码：115；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "32e0f9721bd755df93dfc788f17ae3b5",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "f5647497998c5e2f8ba72eb38e316c47",
+      "name": "课题2 组成物质的元素",
+      "kind": "lesson",
+      "position": 20,
+      "description": "目录类型：课题；教材页码：123；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "6b7c72228c945efda0f0947b46e1bbc5",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "f5647497998c5e2f8ba72eb38e316c47",
+      "name": "课题3 结构多样的碳单质",
+      "kind": "lesson",
+      "position": 30,
+      "description": "目录类型：课题；教材页码：133；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "86267343263e5f9bad2bc035a9875cea",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "f5647497998c5e2f8ba72eb38e316c47",
+      "name": "跨学科实践活动 制作模型并展示科学家探索物质组成与结构的历程",
+      "kind": "lesson",
+      "position": 40,
+      "description": "目录类型：跨学科实践；教材页码：142；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "a0fc398b9bef5ee1a15b5c47beee8038",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "f5647497998c5e2f8ba72eb38e316c47",
+      "name": "专题复习",
+      "kind": "lesson",
+      "position": 50,
+      "description": "目录类型：专题复习；教材页码：145；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "46aae1b961fc5b97afded5bb398ce8ec",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": null,
+      "name": "主题四 物质的化学变化（上）",
+      "kind": "chapter",
+      "position": 40,
+      "description": "目录类型：主题；教材页码：149；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "1d643b73a46a597ca0e826bb90382e6f",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "46aae1b961fc5b97afded5bb398ce8ec",
+      "name": "专题6 化学变化及其表示",
+      "kind": "section",
+      "position": 10,
+      "description": "目录类型：专题；教材页码：150；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "e2f96a121aac5476948405301a7fc6ed",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "1d643b73a46a597ca0e826bb90382e6f",
+      "name": "课题1 化学反应中各物质间的定量关系",
+      "kind": "lesson",
+      "position": 10,
+      "description": "目录类型：课题；教材页码：151；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "9f0450dbd76c54aca593e3f9fb23ac2d",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "1d643b73a46a597ca0e826bb90382e6f",
+      "name": "课题2 化学反应的表示及基本类型",
+      "kind": "lesson",
+      "position": 20,
+      "description": "目录类型：课题；教材页码：157；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "dd9e862a372753e88f5c39bbc18e43ab",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "1d643b73a46a597ca0e826bb90382e6f",
+      "name": "跨学科实践活动 基于碳中和理念设计低碳行动方案",
+      "kind": "lesson",
+      "position": 30,
+      "description": "目录类型：跨学科实践；教材页码：165；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://dzkbw.org/book/5785.html；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "4fc86252abe75832a282b44bc81a2797",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "1d643b73a46a597ca0e826bb90382e6f",
+      "name": "专题复习",
+      "kind": "lesson",
+      "position": 40,
+      "description": "目录类型：专题复习；教材页码：168；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/882477787；https://www.renjiaoshe.com/jiaocai/3455.html",
+      "active": 1
+    },
+    {
+      "id": "8e98de1dc0385f8cbd3f81d4633eea07",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": null,
+      "name": "八年级附录",
+      "kind": "chapter",
+      "position": 70,
+      "description": "目录类型：附录；教材页码：171；核实状态：第三方教材转录核对；待纸本/出版社原件人工复核。来源：https://www.scribd.com/document/882477787",
+      "active": 1
+    },
+    {
+      "id": "fe79b0450da757a395c5d58f0730ec25",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": null,
+      "name": "主题五 常见的物质（下）",
+      "kind": "chapter",
+      "position": 50,
+      "description": "目录类型：主题；教材页码：1；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "a27573486cb75a3fbbe9dc44cc73fbcc",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "fe79b0450da757a395c5d58f0730ec25",
+      "name": "专题7 溶液",
+      "kind": "section",
+      "position": 10,
+      "description": "目录类型：专题；教材页码：2；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "242aa452694152729647557d3e37efbc",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "a27573486cb75a3fbbe9dc44cc73fbcc",
+      "name": "课题1 初探溶液",
+      "kind": "lesson",
+      "position": 10,
+      "description": "目录类型：课题；教材页码：3；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "9ed0a0c204955d6abe7c4b362b5021d3",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "a27573486cb75a3fbbe9dc44cc73fbcc",
+      "name": "课题2 探究物质的溶解性",
+      "kind": "lesson",
+      "position": 20,
+      "description": "目录类型：课题；教材页码：10；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "21fc5057096d526eb302d3bc7b610391",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "a27573486cb75a3fbbe9dc44cc73fbcc",
+      "name": "课题3 学会定量表示溶液的组成",
+      "kind": "lesson",
+      "position": 30,
+      "description": "目录类型：课题；教材页码：20；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "84e9a44c3b0f52b89c7f0eb46911b5d2",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "a27573486cb75a3fbbe9dc44cc73fbcc",
+      "name": "跨学科实践活动 海洋资源的综合利用与制盐",
+      "kind": "lesson",
+      "position": 40,
+      "description": "目录类型：跨学科实践；教材页码：26；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "3f4bd352efd1548fabba6835b83f31e0",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "a27573486cb75a3fbbe9dc44cc73fbcc",
+      "name": "专题复习",
+      "kind": "lesson",
+      "position": 50,
+      "description": "目录类型：专题复习；教材页码：29；核实状态：第三方教材转录核对；待纸本/出版社原件人工复核。来源：https://www.scribd.com/document/1008403481",
+      "active": 1
+    },
+    {
+      "id": "fc1a45b251b05d23a0d856fe3321898f",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "fe79b0450da757a395c5d58f0730ec25",
+      "name": "专题8 酸、碱、盐",
+      "kind": "section",
+      "position": 20,
+      "description": "目录类型：专题；教材页码：32；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "f3d00c9a25115a999caa50abbc5e26f8",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "fc1a45b251b05d23a0d856fe3321898f",
+      "name": "课题1 初识酸和碱",
+      "kind": "lesson",
+      "position": 10,
+      "description": "目录类型：课题；教材页码：33；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "83e889dd0e2956019429afd9396e7b46",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "fc1a45b251b05d23a0d856fe3321898f",
+      "name": "课题2 认识酸、碱、盐的性质与应用",
+      "kind": "lesson",
+      "position": 20,
+      "description": "目录类型：课题；教材页码：42；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "ef55e7aa7ece5998b0c25a0230080b3b",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "fc1a45b251b05d23a0d856fe3321898f",
+      "name": "课题3 调节土壤酸碱性与施用营养元素",
+      "kind": "lesson",
+      "position": 30,
+      "description": "目录类型：课题；教材页码：55；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "4452c44d545c58adaaff3aff67c03d7d",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "fc1a45b251b05d23a0d856fe3321898f",
+      "name": "跨学科实践活动 探究土壤酸碱性对植物生长的影响",
+      "kind": "lesson",
+      "position": 40,
+      "description": "目录类型：跨学科实践；教材页码：65；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "bb1e3088ec4c52cf909713ccfdedbdff",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "fc1a45b251b05d23a0d856fe3321898f",
+      "name": "专题复习",
+      "kind": "lesson",
+      "position": 50,
+      "description": "目录类型：专题复习；教材页码：69；核实状态：第三方教材转录核对；待纸本/出版社原件人工复核。来源：https://www.scribd.com/document/1008403481",
+      "active": 1
+    },
+    {
+      "id": "81f43dd036a654129411248612d3f783",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": null,
+      "name": "主题六 物质的化学变化（下）",
+      "kind": "chapter",
+      "position": 60,
+      "description": "目录类型：主题；教材页码：73；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "94cf0a6439b05eb29c18f0a4ef316950",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "81f43dd036a654129411248612d3f783",
+      "name": "专题9 化学反应的调控",
+      "kind": "section",
+      "position": 10,
+      "description": "目录类型：专题；教材页码：74；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "318348107063595ea87c76aaec48e08f",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "94cf0a6439b05eb29c18f0a4ef316950",
+      "name": "课题1 认识燃烧与燃料",
+      "kind": "lesson",
+      "position": 10,
+      "description": "目录类型：课题；教材页码：75；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "b22f7ff5878b55b19f067cafcd3b07d8",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "94cf0a6439b05eb29c18f0a4ef316950",
+      "name": "课题2 调控燃烧的方法",
+      "kind": "lesson",
+      "position": 20,
+      "description": "目录类型：课题；教材页码：83；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "8268a261d0ee53c08ccef7f24db191ed",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "94cf0a6439b05eb29c18f0a4ef316950",
+      "name": "课题3 防止金属腐蚀的措施",
+      "kind": "lesson",
+      "position": 30,
+      "description": "目录类型：课题；教材页码：89；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "dbf6c9cb61d15465960ad00de21aed68",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "94cf0a6439b05eb29c18f0a4ef316950",
+      "name": "跨学科实践活动 调查家用燃料的变迁与合理使用",
+      "kind": "lesson",
+      "position": 40,
+      "description": "目录类型：跨学科实践；教材页码：98；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "7590ae76ee09578c8ab76653c37b88dd",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "94cf0a6439b05eb29c18f0a4ef316950",
+      "name": "专题复习",
+      "kind": "lesson",
+      "position": 50,
+      "description": "目录类型：专题复习；教材页码：101；核实状态：第三方教材转录核对；待纸本/出版社原件人工复核。来源：https://www.scribd.com/document/1008403481",
+      "active": 1
+    },
+    {
+      "id": "b62769ead7ca5d70831ea56b3166b9f6",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "81f43dd036a654129411248612d3f783",
+      "name": "专题10 化学与人类社会进步",
+      "kind": "section",
+      "position": 20,
+      "description": "目录类型：专题；教材页码：104；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "c25a1f2e52515d9ca72a499b5dfcd7cc",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "b62769ead7ca5d70831ea56b3166b9f6",
+      "name": "课题1 化学引领新能源的开发",
+      "kind": "lesson",
+      "position": 10,
+      "description": "目录类型：课题；教材页码：105；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "bccffe047b325551803fc7c1f8c8d906",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "b62769ead7ca5d70831ea56b3166b9f6",
+      "name": "课题2 健康生活离不开化学",
+      "kind": "lesson",
+      "position": 20,
+      "description": "目录类型：课题；教材页码：112；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "c3f3a4882b1954a2a5df4ba89e2af019",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "b62769ead7ca5d70831ea56b3166b9f6",
+      "name": "课题3 化学为人类提供丰富的材料",
+      "kind": "lesson",
+      "position": 30,
+      "description": "目录类型：课题；教材页码：120；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "1fa12e2a15a05200b68c3ec075f6a1ca",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "b62769ead7ca5d70831ea56b3166b9f6",
+      "name": "跨学科实践活动 调查我国航天科技领域中新型材料、新型能源的应用",
+      "kind": "lesson",
+      "position": 40,
+      "description": "目录类型：跨学科实践；教材页码：133；核实状态：多个第三方目录交叉一致；待出版社原件复核。来源：https://www.scribd.com/document/1008403481；https://dzkbw.org/book/5786.html",
+      "active": 1
+    },
+    {
+      "id": "f1d2ad12bcb65135a9fbfa593d633dc0",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": "b62769ead7ca5d70831ea56b3166b9f6",
+      "name": "专题复习",
+      "kind": "lesson",
+      "position": 50,
+      "description": "目录类型：专题复习；教材页码：137；核实状态：第三方教材转录核对；待纸本/出版社原件人工复核。来源：https://www.scribd.com/document/1008403481",
+      "active": 1
+    },
+    {
+      "id": "7b12c6e549b6534d82860eec7c90a061",
+      "book_id": "6a2a24e1f5d55c25a6a552b0ac2a8eca",
+      "parent_id": null,
+      "name": "九年级附录",
+      "kind": "chapter",
+      "position": 80,
+      "description": "目录类型：附录；教材页码：140；核实状态：第三方教材转录核对；待纸本/出版社原件人工复核。来源：https://www.scribd.com/document/1008403481",
+      "active": 1
+    }
+  ],
+  "subject_id": "091e5a880b14490199c1d20d50975a80",
+  "review_status": "pending",
+  "points": [
+    {
+      "code": "SHC001",
+      "node": "课题1 开启化学之门",
+      "name": "化学变化的证据与本质",
+      "definition": "化学变化的判据是生成新物质；颜色、气泡和热量变化是线索，不能单独作结论。",
+      "requirements": "根据新物质证据区分物理变化和化学变化。",
+      "mastery": [
+        "能说出分类依据",
+        "能识别仅凭现象下结论的错误"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "将少量食盐溶于水，再蒸发得到食盐晶体。仅就此过程，主要发生哪类变化？",
+          "options": [
+            "核反应",
+            "无法用新物质判断",
+            "物理变化",
+            "化学变化"
+          ],
+          "answer": "C",
+          "explanation": "食盐溶解和结晶没有生成新物质，主要是物理变化。",
+          "id": "b9a5575f4f805c9baf471fcb55d5ed24",
+          "code": "SHC001-Q1"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "加热水与在水中加入一小块碳酸钙后滴加稀盐酸都可能有气泡。能否仅凭“有气泡”断定二者均发生化学变化？说明依据。",
+          "answer": "不能。水沸腾是水的状态改变；碳酸钙与稀盐酸反应生成二氧化碳等新物质。",
+          "explanation": "气泡可能是原有物质汽化，也可能是反应生成气体；必须核实是否形成新物质。",
+          "check": null,
+          "id": "739b7c8d0d5d544aa3948e3ff36546ef",
+          "code": "SHC001-Q2"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "纸张撕碎和纸张燃烧分别属于哪类变化？请用一个共同判据解释。",
+          "answer": "撕碎为物理变化，燃烧为化学变化；共同判据是有无新物质生成。",
+          "explanation": "前者主要改变形状；后者生成灰烬、二氧化碳等物质，不能把“外观变了”作为唯一依据。",
+          "check": null,
+          "id": "ad40bf948a665dd2bc3d17691c70e31f",
+          "code": "SHC001-Q3"
+        }
+      ],
+      "id": "06b7ffa12ca156fab1faeeba6c95ba0b",
+      "node_ids": [
+        "6859d611da9d5bcb8d769edcca8c0182",
+        "66fc5356a0f75da382de0126ec3a72d3"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "c90047ba8abe59ee941e48ad9b20244d",
+      "theme_name": "主题一 化学的魅力",
+      "standard_scope": "物质的化学变化：变化与性质"
+    },
+    {
+      "code": "SHC002",
+      "node": "课题1 开启化学之门",
+      "name": "物质性质与合理用途",
+      "definition": "物理性质通常无需生成新物质即可表现；化学性质在化学变化中表现，选择用途须结合条件与风险。",
+      "requirements": "区分性质与变化，并用性质解释用途。",
+      "mastery": [
+        "能区分可燃性与一次燃烧",
+        "能用相关性质支持用途"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "下列叙述属于物质化学性质的是哪项？",
+          "options": [
+            "玻璃通常透明",
+            "铜呈紫红色",
+            "酒精能燃烧",
+            "水在常压下约100℃沸腾"
+          ],
+          "answer": "C",
+          "explanation": "可燃性必须在与氧气等物质发生化学反应时体现；其余是物理性质。",
+          "id": "6c86a42772bc5459b58c2dea9db90176",
+          "code": "SHC002-Q1"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "铝用于制作导线时，主要利用哪些物理性质？仅知道“铝可与酸反应”能否充分解释这一用途？",
+          "answer": "主要利用导电性、延展性及较小密度等；能与酸反应不能充分解释导线用途。",
+          "explanation": "性质与用途须有实际因果联系。导线还需考虑强度、成本和表面连接状况。",
+          "check": null,
+          "id": "c8b2e3ed4afb5048ac4ebc58ea095106",
+          "code": "SHC002-Q2"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "“某燃料有较高热值，因此在密闭房间随意燃烧也安全”是否合理？",
+          "answer": "不合理；还须考虑供氧、通风、火灾及不完全燃烧可能产生一氧化碳等风险。",
+          "explanation": "有用的性质不等于使用条件无限制。热值不能替代安全评价。",
+          "check": null,
+          "id": "5d7dc997eb3d5decb970296938c2c12c",
+          "code": "SHC002-Q3"
+        }
+      ],
+      "id": "727a2f39839e586083e9196047ba9892",
+      "node_ids": [
+        "6859d611da9d5bcb8d769edcca8c0182",
+        "66fc5356a0f75da382de0126ec3a72d3"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "c90047ba8abe59ee941e48ad9b20244d",
+      "theme_name": "主题一 化学的魅力",
+      "standard_scope": "物质的化学变化：变化与性质"
+    },
+    {
+      "code": "SHC003",
+      "node": "课题2 通用的化学语言",
+      "name": "元素符号与化学式的含义",
+      "definition": "元素符号表示元素；分子式可表示一个分子中的原子组成，下标不等于分子个数。",
+      "requirements": "正确读取常见符号、下标和系数。",
+      "mastery": [
+        "能区分H、H2和2H2",
+        "能按化学式统计原子数"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "符号2H₂表示什么？",
+          "options": [
+            "两个氢原子",
+            "两个氢分子，共四个氢原子",
+            "一个含两个氢原子的分子",
+            "两种氢元素"
+          ],
+          "answer": "B",
+          "explanation": "前系数2表示分子数，每个H₂含两个H原子，总原子数为4。",
+          "id": "4a43c3bb32f958d5a4221dd48dd04f5b",
+          "code": "SHC003-Q1"
+        },
+        {
+          "type": "计算题",
+          "difficulty": 2,
+          "prompt": "3个CO₂分子共含多少个氧原子？同时写出计算依据。",
+          "answer": "6个氧原子。",
+          "explanation": "每个CO₂分子含2个氧原子，3×2＝6。",
+          "check": {
+            "op": "product",
+            "values": [
+              3,
+              2
+            ],
+            "expected": "6"
+          },
+          "id": "ef9dd5bf15b7503bb033360af0895ec6",
+          "code": "SHC003-Q2"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "同学说“H₂O右下角的2表示有两个水分子”。指出错误并给出正确解释。",
+          "answer": "2表示每个水分子含2个氢原子；水分子个数由化学式前的系数表示。",
+          "explanation": "下标属于化学式内部组成信息，改变下标可能改变物质，不能与系数混淆。",
+          "check": null,
+          "id": "17ddefea4b335075be1785ceb0708b82",
+          "code": "SHC003-Q3"
+        }
+      ],
+      "id": "3e4e85ca96535c2f82a79abf0db2f951",
+      "node_ids": [
+        "ddfb730aaacd59eda597e90c61a39fbd",
+        "66fc5356a0f75da382de0126ec3a72d3"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "c90047ba8abe59ee941e48ad9b20244d",
+      "theme_name": "主题一 化学的魅力",
+      "standard_scope": "物质的组成与结构：物质组成的表示"
+    },
+    {
+      "code": "SHC004",
+      "node": "课题2 通用的化学语言",
+      "name": "相对分子质量与元素质量比",
+      "definition": "相对分子质量为各原子的相对原子质量之和；元素质量比需计入原子个数。",
+      "requirements": "依据给定相对原子质量进行组成计算。",
+      "mastery": [
+        "能计算常见物质相对分子质量",
+        "能区分原子个数比与质量比"
+      ],
+      "questions": [
+        {
+          "type": "计算题",
+          "difficulty": 1,
+          "prompt": "已知H＝1、O＝16，H₂O的相对分子质量是多少？",
+          "answer": "18。",
+          "explanation": "2×1＋16＝18。相对分子质量是相对量，不写g。",
+          "check": {
+            "op": "formula_mass",
+            "formula": "H2O",
+            "expected": "18"
+          },
+          "id": "3e8f798ebff75e06b3000fdcfb3ab5ea",
+          "code": "SHC004-Q1"
+        },
+        {
+          "type": "计算题",
+          "difficulty": 2,
+          "prompt": "已知H＝1、O＝16，水中氢元素与氧元素的质量比是多少？",
+          "answer": "1∶8。",
+          "explanation": "氢的相对质量合计2，氧为16，2∶16＝1∶8，不是原子个数比2∶1。",
+          "check": {
+            "op": "ratio",
+            "values": [
+              2,
+              16
+            ],
+            "expected": [
+              1,
+              8
+            ]
+          },
+          "id": "e234df6958395443bae2c4a84a431d47",
+          "code": "SHC004-Q2"
+        },
+        {
+          "type": "单选题",
+          "difficulty": 3,
+          "prompt": "已知C＝12、O＝16，CO₂中碳元素的质量分数约为多少？",
+          "options": [
+            "72.7%",
+            "27.3%",
+            "50%",
+            "33.3%"
+          ],
+          "answer": "B",
+          "explanation": "碳的质量分数为12/(12＋2×16)×100%≈27.3%，不是碳原子个数占比。",
+          "id": "c3e13861eee15548b57fad9faa7d885b",
+          "code": "SHC004-Q3"
+        }
+      ],
+      "id": "bbf7c78c34af5cb79345ae8aefdb42da",
+      "node_ids": [
+        "ddfb730aaacd59eda597e90c61a39fbd",
+        "66fc5356a0f75da382de0126ec3a72d3"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "c90047ba8abe59ee941e48ad9b20244d",
+      "theme_name": "主题一 化学的魅力",
+      "standard_scope": "物质的组成与结构：物质组成的表示"
+    },
+    {
+      "code": "SHC005",
+      "node": "课题1 走进化学实验室",
+      "name": "药品取用与实验安全",
+      "definition": "实验室通过不尝味、不直接闻、不触碰、按规定取量等规则控制化学品暴露风险。",
+      "requirements": "识别安全操作及废液处理要求。",
+      "mastery": [
+        "能选择正确闻气体方法",
+        "能说明剩余药品不得随意回瓶的原因"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "按教师允许的方法闻少量气体气味，正确做法是哪项？",
+          "options": [
+            "尝一下气体形成的溶液",
+            "把试剂瓶倒向面部",
+            "鼻孔紧贴瓶口猛吸",
+            "用手在瓶口轻轻扇动，使少量气体飘向鼻部"
+          ],
+          "answer": "D",
+          "explanation": "扇闻可减少直接吸入；未知或有毒气体不得擅自闻，必须服从教师指导。",
+          "id": "9ed2a4a7111a5845ad2994b96804a916",
+          "code": "SHC005-Q1"
+        },
+        {
+          "type": "实验题",
+          "difficulty": 2,
+          "prompt": "取出的试剂有剩余，可否随手倒回原试剂瓶或倒入水槽？应怎样处理？",
+          "answer": "不可随意回瓶或入水槽，应按教师规定分类收集处理。",
+          "explanation": "回瓶可能污染原药品；排入水槽可能腐蚀管道或污染环境。具体处置依试剂种类而定。",
+          "check": null,
+          "id": "dac51437054056d1a1e9aa424d32c541",
+          "code": "SHC005-Q2"
+        },
+        {
+          "type": "实验题",
+          "difficulty": 2,
+          "prompt": "为什么不能用燃着的酒精灯点燃另一盏酒精灯，也不能向燃着的灯里加酒精？",
+          "answer": "可能引起酒精洒出、燃烧失控或火灾；应熄灭并按教师安全流程处理。",
+          "explanation": "开放火焰附近的酒精蒸气和液体有起火风险，不可把演示中的偶然成功当作安全操作。",
+          "check": null,
+          "id": "fd9bbe42564b57f6be288ebaa81a210d",
+          "code": "SHC005-Q3"
+        }
+      ],
+      "id": "d064842debeb532696b6d82e1e9e02d0",
+      "node_ids": [
+        "a622dda10f43501193f2666a68bf726f",
+        "306dabdd61b250cba0c81b8f185ee503",
+        "8e98de1dc0385f8cbd3f81d4633eea07"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "c90047ba8abe59ee941e48ad9b20244d",
+      "theme_name": "主题一 化学的魅力",
+      "standard_scope": "科学探究与化学实验：实验技能与探究方法"
+    },
+    {
+      "code": "SHC006",
+      "node": "课题1 走进化学实验室",
+      "name": "量筒读数与实验测量",
+      "definition": "量筒量取液体须在适当规格下平放，视线与凹液面最低处保持水平，仪器分度限制测量精度。",
+      "requirements": "正确选择量筒并读取液体体积。",
+      "mastery": [
+        "能识别俯视读数偏大的错误",
+        "能按分度记录结果"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "读取常见透明液体在量筒中的体积时，视线应怎样放置？",
+          "options": [
+            "只看量筒最高刻度",
+            "高于液面向下看",
+            "低于液面向上看",
+            "与凹液面最低处水平"
+          ],
+          "answer": "D",
+          "explanation": "平放量筒并平视凹液面最低处，减少视差。",
+          "id": "9643534836535d159b56d1475a5c26d4",
+          "code": "SHC006-Q1"
+        },
+        {
+          "type": "实验题",
+          "difficulty": 2,
+          "prompt": "同一量筒实际装有一定体积的水，俯视时读数通常偏大还是偏小？",
+          "answer": "通常偏大。",
+          "explanation": "俯视时视线把液面位置对应到较高刻度。应区分“固定体积的读数误差”和“按错误读数量取后的实际体积”。",
+          "check": null,
+          "id": "f6fe087b4b2c55d593ccd18274357f68",
+          "code": "SHC006-Q2"
+        },
+        {
+          "type": "实验题",
+          "difficulty": 2,
+          "prompt": "仅有分度值1mL的量筒，记录“精确量取20.000mL”是否合理？",
+          "answer": "不合理，应按仪器分度和读数规则报告，不宣称千分之一毫升精度。",
+          "explanation": "写出更多小数位不会提高仪器实际分辨能力。",
+          "check": null,
+          "id": "5fb926e1247d5ddb9259703ad432f454",
+          "code": "SHC006-Q3"
+        }
+      ],
+      "id": "ffb6ca3bef1d50d49c303724815023d2",
+      "node_ids": [
+        "a622dda10f43501193f2666a68bf726f",
+        "306dabdd61b250cba0c81b8f185ee503",
+        "8e98de1dc0385f8cbd3f81d4633eea07"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "c90047ba8abe59ee941e48ad9b20244d",
+      "theme_name": "主题一 化学的魅力",
+      "standard_scope": "科学探究与化学实验：实验技能与探究方法"
+    },
+    {
+      "code": "SHC007",
+      "node": "课题2 学习开展化学实验探究",
+      "name": "对照实验与变量控制",
+      "definition": "研究一个因素时，应尽量保持其他相关条件相同，并设置能解释差异的对照。",
+      "requirements": "识别自变量、因变量和控制变量。",
+      "mastery": [
+        "能指出比较中的混杂因素",
+        "能提出公平的对照设计"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "比较温度对食盐溶解快慢的影响，哪组设计更公平？",
+          "options": [
+            "冷热水体积不同且食盐质量不同",
+            "只改变温度，水量、盐粒大小和搅拌条件相同",
+            "同时改变盐粒大小和温度",
+            "热水组搅拌而冷水组不搅拌"
+          ],
+          "answer": "B",
+          "explanation": "只改变要研究的因素，避免多个因素同时变化导致无法归因。",
+          "id": "3e86270e5b715f49aa2d21a2b025ab2f",
+          "code": "SHC007-Q1"
+        },
+        {
+          "type": "实验题",
+          "difficulty": 2,
+          "prompt": "甲组用热水并搅拌，乙组用冷水且不搅拌。甲溶解较快，能否只归因于温度？如何改进？",
+          "answer": "不能；温度和搅拌同时改变。保持搅拌方式一致，仅改变温度并重复实验。",
+          "explanation": "对照要求其他相关条件尽量相同，重复可检验结果稳定性。",
+          "check": null,
+          "id": "7aba295cb0e05e82b6930ce60ec8c2af",
+          "code": "SHC007-Q2"
+        },
+        {
+          "type": "实验题",
+          "difficulty": 3,
+          "prompt": "探究铁生锈是否需要水，应如何安排一组对照并控制另一关键因素？",
+          "answer": "可比较接触同样空气条件下的干燥铁钉与有水的铁钉，并保持铁材、表面状态、温度和时间接近。",
+          "explanation": "若同时把氧气也隔绝，就无法仅判断水的作用。",
+          "check": null,
+          "id": "40533dd2257e5941a0c685adfe5d4343",
+          "code": "SHC007-Q3"
+        }
+      ],
+      "id": "b0630e7f2d7f574cbcd5d1b437b4b027",
+      "node_ids": [
+        "276cfaad3f1253e9a069b71535e61c3e",
+        "306dabdd61b250cba0c81b8f185ee503"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "c90047ba8abe59ee941e48ad9b20244d",
+      "theme_name": "主题一 化学的魅力",
+      "standard_scope": "科学探究与化学实验：实验技能与探究方法"
+    },
+    {
+      "code": "SHC008",
+      "node": "课题2 学习开展化学实验探究",
+      "name": "观察记录与证据推理",
+      "definition": "实验现象是可观察记录，解释是基于现象和已有知识作出的推理，二者应区分。",
+      "requirements": "用完整证据链支持结论并认识证据局限。",
+      "mastery": [
+        "能区分现象与推断",
+        "能提出进一步检验办法"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "下列哪句主要属于实验现象记录？",
+          "options": [
+            "发生了分解反应",
+            "试管内出现连续气泡",
+            "说明质量守恒被破坏",
+            "该气体一定是氧气"
+          ],
+          "answer": "B",
+          "explanation": "出现气泡是观察；气体身份和反应类型需要更多证据才能判断。",
+          "id": "762726e6ddda536883ee66ef17fb7fcc",
+          "code": "SHC008-Q1"
+        },
+        {
+          "type": "实验题",
+          "difficulty": 2,
+          "prompt": "无色气体能使带火星木条复燃，通常可支持什么判断？仅凭“无色”够不够？",
+          "answer": "可支持该气体富含氧气的判断；仅凭无色远远不够。",
+          "explanation": "很多气体无色。复燃检验与气体支持燃烧的性质有关，实际检验仍需注意样品和操作条件。",
+          "check": null,
+          "id": "6e8ca62b6c4252318080eb20a15966fc",
+          "code": "SHC008-Q2"
+        },
+        {
+          "type": "实验题",
+          "difficulty": 2,
+          "prompt": "某次测量与预期不符，直接删除该次数据是否合适？应怎样处理？",
+          "answer": "不合适；应完整记录，检查仪器、操作和条件，注明异常原因并重复测量。",
+          "explanation": "有依据地识别测量错误与为了迎合结论丢弃数据不同。",
+          "check": null,
+          "id": "7c72159422aa5a28bea46096579b0f55",
+          "code": "SHC008-Q3"
+        }
+      ],
+      "id": "fa09372273745dea8397e1bf94be22bb",
+      "node_ids": [
+        "276cfaad3f1253e9a069b71535e61c3e",
+        "306dabdd61b250cba0c81b8f185ee503"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "c90047ba8abe59ee941e48ad9b20244d",
+      "theme_name": "主题一 化学的魅力",
+      "standard_scope": "科学探究与化学实验：实验技能与探究方法"
+    },
+    {
+      "code": "SHC009",
+      "node": "课题1 空气的成分",
+      "name": "空气组成的体积分数",
+      "definition": "干燥空气中氮气、氧气等混合存在，常用约78%和21%描述氮、氧的体积分数。",
+      "requirements": "识别空气为混合物并作比例估算。",
+      "mastery": [
+        "能按体积分数计算气体体积",
+        "能区分空气与纯氧"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "通常所说空气中氧气约占21%，主要指哪一种比例？",
+          "options": [
+            "分子质量约21",
+            "氧元素在所有物质中占21%",
+            "质量分数必为21%",
+            "体积分数约21%"
+          ],
+          "answer": "D",
+          "explanation": "空气常见组成比例按体积表述；不应直接当作质量分数。",
+          "id": "6fa31a7d9cc15b6a91733f12f5bc4dfb",
+          "code": "SHC009-Q1"
+        },
+        {
+          "type": "计算题",
+          "difficulty": 2,
+          "prompt": "按氧气体积分数21%估算，200L空气中氧气约多少升？",
+          "answer": "42L。",
+          "explanation": "200×21%＝42L，这是近似体积估算。",
+          "check": {
+            "op": "fraction_product",
+            "values": [
+              200,
+              21,
+              100
+            ],
+            "expected": "42"
+          },
+          "id": "434c5dbabcb95942b9381fa780298d5d",
+          "code": "SHC009-Q2"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "液态空气经分离可得到氮气和氧气。能否因此认为空气是化合物？",
+          "answer": "不能。空气是多种气体组成的混合物，分离主要利用不同组分的物理性质。",
+          "explanation": "“能够分离”不等于化合物分解；化合物必须是一种由不同元素组成的纯净物。",
+          "check": null,
+          "id": "f9f891b01d1955cc87208be49aa285da",
+          "code": "SHC009-Q3"
+        }
+      ],
+      "id": "ec49709d63be5c5fbb81b4a50b26234e",
+      "node_ids": [
+        "1a1f7e07f4995876a172632747f6f928",
+        "1aa02a2259bb50419556ae78bcc9abea"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "0f2779a6ca6e5500828789c9962a4b47",
+      "theme_name": "主题二 常见的物质（上）",
+      "standard_scope": "物质的性质与应用：常见气体"
+    },
+    {
+      "code": "SHC010",
+      "node": "课题1 空气的成分",
+      "name": "空气中氧气含量测定的实验条件",
+      "definition": "用选择性消耗氧气的反应测定空气成分时，须考虑装置气密性、反应充分及温度恢复等条件。",
+      "requirements": "解释体积法测氧中的误差来源。",
+      "mastery": [
+        "能说明红磷足量和冷却的作用",
+        "能按体积变化估算含氧量"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 2,
+          "prompt": "密闭空气测氧实验读数前通常要让装置冷却至初温，主要原因是什么？",
+          "options": [
+            "让水全部分解",
+            "避免温度差影响气体体积和压强",
+            "使空气变为纯氧",
+            "让氮气全部反应"
+          ],
+          "answer": "B",
+          "explanation": "气体热胀冷缩会影响体积读数，比较体积需温度条件接近。",
+          "id": "4d8cb83f351e5d06be562bf5361e09b1",
+          "code": "SHC010-Q1"
+        },
+        {
+          "type": "计算题",
+          "difficulty": 2,
+          "prompt": "在温度恢复且气密性良好时，100mL空气中的氧气被充分消耗，剩余气体约80mL。估算氧气体积分数。",
+          "answer": "约20%。",
+          "explanation": "减少体积约20mL，占原100mL的20%；这是实验近似值，不代表精确组成为20%。",
+          "check": {
+            "op": "difference_percent",
+            "values": [
+              100,
+              80
+            ],
+            "expected": "20"
+          },
+          "id": "ac9d84486f2d5663921a673f3792a250",
+          "code": "SHC010-Q2"
+        },
+        {
+          "type": "实验题",
+          "difficulty": 3,
+          "prompt": "若耗氧反应物不足，其他条件正常，用气体体积减少量测出的氧气含量通常偏大还是偏小？",
+          "answer": "通常偏小。",
+          "explanation": "氧气未消耗完，体积减少量小于全部氧气的原体积。",
+          "check": null,
+          "id": "9469050d5366557a94f1bbd559ae97e6",
+          "code": "SHC010-Q3"
+        }
+      ],
+      "id": "6ac1329171c25c169852f7e854a39fee",
+      "node_ids": [
+        "1a1f7e07f4995876a172632747f6f928",
+        "1aa02a2259bb50419556ae78bcc9abea"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "0f2779a6ca6e5500828789c9962a4b47",
+      "theme_name": "主题二 常见的物质（上）",
+      "standard_scope": "物质的性质与应用：常见气体"
+    },
+    {
+      "code": "SHC011",
+      "node": "课题2 氧气和二氧化碳的性质",
+      "name": "氧气的助燃性与检验",
+      "definition": "氧气支持许多物质燃烧，但本身通常不作为可燃物；富氧可使带火星木条复燃。",
+      "requirements": "区分助燃与可燃，解释检验现象。",
+      "mastery": [
+        "能说明氧气不能作为燃料本身",
+        "能识别氧气检验方法"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "关于氧气的叙述，正确的是哪项？",
+          "options": [
+            "氧气本身是常见燃料",
+            "氧气支持燃烧但不等于氧气可燃",
+            "氧气不能参与化学变化",
+            "氧气在空气中体积分数约78%"
+          ],
+          "answer": "B",
+          "explanation": "助燃性表示支持其他物质燃烧，不能与可燃性混淆。",
+          "id": "321f20c297965893bbe2fe2a294d42b3",
+          "code": "SHC011-Q1"
+        },
+        {
+          "type": "实验题",
+          "difficulty": 2,
+          "prompt": "把带火星木条伸入一瓶气体中，木条复燃。通常可据此判断该瓶气体含较多什么成分？",
+          "answer": "氧气。",
+          "explanation": "氧气的助燃性使木条更容易继续燃烧；还应结合取样及操作条件作判断。",
+          "check": null,
+          "id": "86fbfbc827ff5a0690ca1ef65735c6f9",
+          "code": "SHC011-Q2"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "有人主张用氧气代替燃气给炉灶“补充燃料”。指出概念错误。",
+          "answer": "氧气主要提供氧化剂条件，并不是通常炉灶燃烧中的燃料；富氧还可能增加火灾风险。",
+          "explanation": "燃料与助燃物承担不同角色，不能因为都有助燃烧过程就视为同一种物质。",
+          "check": null,
+          "id": "949d215d9933542d9310817c0620d5be",
+          "code": "SHC011-Q3"
+        }
+      ],
+      "id": "b1fc4b762e135e67bf4abfc37f0eaeb1",
+      "node_ids": [
+        "44482cbeef2d557cb74ffc941f13ae47",
+        "1aa02a2259bb50419556ae78bcc9abea"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "0f2779a6ca6e5500828789c9962a4b47",
+      "theme_name": "主题二 常见的物质（上）",
+      "standard_scope": "物质的性质与应用：常见气体"
+    },
+    {
+      "code": "SHC012",
+      "node": "课题2 氧气和二氧化碳的性质",
+      "name": "二氧化碳的检验与水中行为",
+      "definition": "二氧化碳可使澄清石灰水变浑浊，在水中部分溶解并形成酸性体系。",
+      "requirements": "区分检验、溶解和生成酸性物质的证据。",
+      "mastery": [
+        "能说明石灰水检验现象",
+        "能解释湿润指示剂的变化"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "检验少量二氧化碳常用哪种试剂观察典型现象？",
+          "options": [
+            "食盐晶体",
+            "铜丝",
+            "干燥空气",
+            "澄清石灰水"
+          ],
+          "answer": "D",
+          "explanation": "少量CO₂通入澄清石灰水会形成碳酸钙沉淀而变浑浊；过量通入后可能出现进一步变化。",
+          "id": "4dd84a9da1855c55aad44a3f3aee83eb",
+          "code": "SHC012-Q1"
+        },
+        {
+          "type": "实验题",
+          "difficulty": 2,
+          "prompt": "将CO₂通入紫色石蕊溶液，颜色通常变红。为什么不能只说“干燥CO₂一定能使任何石蕊纸变红”？",
+          "answer": "颜色变化与水参与形成酸性体系有关；干燥气体对干燥试纸不一定出现同样变化。",
+          "explanation": "须区分气体本身、溶解过程和水中反应条件，不把湿润体系结论无条件外推。",
+          "check": null,
+          "id": "9baba8cd5f1450388ed9c1646f14eb99",
+          "code": "SHC012-Q2"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 3,
+          "prompt": "写出少量CO₂使澄清石灰水浑浊的化学方程式。",
+          "answer": "CO₂＋Ca(OH)₂→CaCO₃↓＋H₂O。",
+          "explanation": "反应生成难溶碳酸钙，出现白色浑浊；式中钙、碳、氧、氢原子数均守恒。",
+          "check": {
+            "op": "balance",
+            "left": {
+              "CO2": 1,
+              "Ca(OH)2": 1
+            },
+            "right": {
+              "CaCO3": 1,
+              "H2O": 1
+            }
+          },
+          "id": "b5830b348fcc54e3a9435d3120c04468",
+          "code": "SHC012-Q3"
+        }
+      ],
+      "id": "322b4c0d50405823af835c0c317e82b2",
+      "node_ids": [
+        "44482cbeef2d557cb74ffc941f13ae47",
+        "1aa02a2259bb50419556ae78bcc9abea"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "0f2779a6ca6e5500828789c9962a4b47",
+      "theme_name": "主题二 常见的物质（上）",
+      "standard_scope": "物质的性质与应用：常见气体"
+    },
+    {
+      "code": "SHC013",
+      "node": "课题3 氧气和二氧化碳的制备",
+      "name": "气体制备的装置与收集选择",
+      "definition": "发生装置由反应物状态及条件决定；收集方式由密度、水中溶解及反应等性质决定。",
+      "requirements": "据条件选择发生装置和气体收集方法。",
+      "mastery": [
+        "能区分发生与收集装置的依据",
+        "能说明排水法对气体的要求"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "在实验室用过氧化氢溶液与二氧化锰制氧气，通常需要的发生装置是哪类？",
+          "options": [
+            "液体蒸馏",
+            "电解装置",
+            "固液反应、不需加热",
+            "固体加热、必须持续高温"
+          ],
+          "answer": "C",
+          "explanation": "该方法用固体催化剂与溶液反应，不需加热；不能把所有制氧方法都归为加热固体。",
+          "id": "7aafa591ff9f5d608ac64cde0f7678fa",
+          "code": "SHC013-Q1"
+        },
+        {
+          "type": "实验题",
+          "difficulty": 2,
+          "prompt": "为什么通常可以用排水法收集氧气，却不宜把易溶于水的气体一律这样收集？",
+          "answer": "氧气在水中溶解较少且通常不与水反应；易溶或会与水明显反应的气体可能损失或变质。",
+          "explanation": "选择方法须看具体气体性质，而非只看发生装置。",
+          "check": null,
+          "id": "85dddaab15fd5f789a9171a436b863bf",
+          "code": "SHC013-Q2"
+        },
+        {
+          "type": "实验题",
+          "difficulty": 3,
+          "prompt": "在相同条件下，某无毒气体密度大于空气、在水中易溶且会与水反应。已获教师安全允许时，优先考虑何种常规收集思路？",
+          "answer": "可考虑向上排空气法，不宜用排水法。",
+          "explanation": "向上排空气法利用气体比空气密；排水法会受易溶与反应影响。实际还要考虑气体危害与装置要求。",
+          "check": null,
+          "id": "b2918755d49454e0a0435dad6dcbc422",
+          "code": "SHC013-Q3"
+        }
+      ],
+      "id": "ce25e63783355d16a742cc01ed7b3846",
+      "node_ids": [
+        "e96ae9d58eb05767a6c80acde501e7d4",
+        "1aa02a2259bb50419556ae78bcc9abea"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "0f2779a6ca6e5500828789c9962a4b47",
+      "theme_name": "主题二 常见的物质（上）",
+      "standard_scope": "物质的性质与应用：常见气体"
+    },
+    {
+      "code": "SHC014",
+      "node": "课题3 氧气和二氧化碳的制备",
+      "name": "催化作用与制气安全顺序",
+      "definition": "催化剂改变化学反应速率，其质量和化学性质在反应前后通常不变；制气前须检查气密性。",
+      "requirements": "区分催化作用与原料消耗并解释制气顺序。",
+      "mastery": [
+        "能说明催化剂不增加理论产气量",
+        "能说明先检查气密性的必要性"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 2,
+          "prompt": "一定量过氧化氢完全分解时，加入适量催化剂主要改变什么？",
+          "options": [
+            "质量守恒定律",
+            "反应速率",
+            "反应物中氧元素总量",
+            "氧气理论总量一定翻倍"
+          ],
+          "answer": "B",
+          "explanation": "催化剂主要改变速率，不凭空增加反应物所含元素，不能据气泡更快推断总产量更多。",
+          "id": "0ec545a581e457b19fd075e78f4b5c3e",
+          "code": "SHC014-Q1"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 3,
+          "prompt": "写出过氧化氢在二氧化锰催化下生成水和氧气的反应式，并注明二氧化锰的作用。",
+          "answer": "2H₂O₂→2H₂O＋O₂↑，二氧化锰作催化剂。",
+          "explanation": "左右H原子均4个、O原子均4个；二氧化锰写在反应条件处而非当作被消耗的计量原料。",
+          "check": {
+            "op": "balance",
+            "left": {
+              "H2O2": 2
+            },
+            "right": {
+              "H2O": 2,
+              "O2": 1
+            }
+          },
+          "id": "760fdac461ef54b391cb151c33b1b1c5",
+          "code": "SHC014-Q2"
+        },
+        {
+          "type": "实验题",
+          "difficulty": 2,
+          "prompt": "制备CO₂时，为什么应先检查装置气密性，再按教师要求装入药品？",
+          "answer": "先排除漏气可避免反应已发生但气体逸散、无法收集或误判装置问题。",
+          "explanation": "应在反应前完成检查；不能为检查而在已产气的密闭装置中进行危险操作。",
+          "check": null,
+          "id": "b53f8c40f0475640b6dd6293b67590d1",
+          "code": "SHC014-Q3"
+        }
+      ],
+      "id": "c19b2eca195d5df5b5ee7ec5d23e5cfd",
+      "node_ids": [
+        "e96ae9d58eb05767a6c80acde501e7d4",
+        "1aa02a2259bb50419556ae78bcc9abea"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "0f2779a6ca6e5500828789c9962a4b47",
+      "theme_name": "主题二 常见的物质（上）",
+      "standard_scope": "物质的性质与应用：常见气体"
+    },
+    {
+      "code": "SHC015",
+      "node": "课题1 水的性质",
+      "name": "水的状态变化与物质身份",
+      "definition": "水凝固、熔化、汽化等主要是状态变化；在这些变化中水分子的化学组成通常不变。",
+      "requirements": "用微粒观点解释水的三态变化。",
+      "mastery": [
+        "能区分状态变化与水的化学分解",
+        "能说明分子间隔而非分子大小的变化"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "纯水变成水蒸气时，通常保持不变的是哪项？",
+          "options": [
+            "水分子的化学组成",
+            "分子间平均距离",
+            "体积",
+            "密度"
+          ],
+          "answer": "A",
+          "explanation": "状态变化一般改变分子运动和间隔，不改变水分子组成。",
+          "id": "4ec6f76d1e67586180fddf601a49165d",
+          "code": "SHC015-Q1"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "“水蒸发时水分子变成氢气和氧气”有什么错误？",
+          "answer": "把汽化和化学分解混淆；汽化后仍主要是水分子，并非变成氢气、氧气。",
+          "explanation": "分解成新物质需要发生化学变化，不能用受热或看不见液水直接推出分子分解。",
+          "check": null,
+          "id": "edff40c429d75a9f9febaaa039d05f6f",
+          "code": "SHC015-Q2"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "在相同外界条件下，为什么一杯水与把同量水铺在较大浅盘中，后者通常蒸发更快？",
+          "answer": "较大的液体表面积让更多表面水分子有机会逸出；还需控制温度、空气流动等条件。",
+          "explanation": "这是蒸发快慢与暴露面积的联系，不是生成新物质。",
+          "check": null,
+          "id": "d4ca8fb483dc5f419c282c9a3956648d",
+          "code": "SHC015-Q3"
+        }
+      ],
+      "id": "266f4e4cdb5f5bf8873930af98ca5954",
+      "node_ids": [
+        "4e5a3f4e54b05b2d8c2c8cc3749f3826",
+        "95eb5efdf82c5afe998d6d836381bfbb"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "5c9d984faa3152c0a2f479e39b345077",
+      "theme_name": "主题三 物质的组成与结构",
+      "standard_scope": "物质的性质与应用：水及常见溶液"
+    },
+    {
+      "code": "SHC016",
+      "node": "课题1 水的性质",
+      "name": "水的沸点、密度与条件",
+      "definition": "物理性质常与温度和压强等条件相关；水在常压下约100℃沸腾，密度数值也须注明条件。",
+      "requirements": "在给定条件下使用物理性质数据。",
+      "mastery": [
+        "能识别省略条件的绝对化说法",
+        "能用给定密度计算质量或体积"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "下列说法哪项更严谨？",
+          "options": [
+            "水的沸点与压强有关，常压下约100℃",
+            "水只有100℃时才蒸发",
+            "密度在所有条件下不变",
+            "任何压强下水都在100℃沸腾"
+          ],
+          "answer": "A",
+          "explanation": "沸点随压强改变；蒸发可在不同温度发生。",
+          "id": "d5a2ee551bfd54faaf9901eb63883323",
+          "code": "SHC016-Q1"
+        },
+        {
+          "type": "计算题",
+          "difficulty": 2,
+          "prompt": "取水的密度为1.0g/mL，量取35mL水，其质量约多少克？",
+          "answer": "35g。",
+          "explanation": "质量＝密度×体积＝1.0×35＝35g，结果是给定近似密度下的估算。",
+          "check": {
+            "op": "product",
+            "values": [
+              1,
+              35
+            ],
+            "expected": "35"
+          },
+          "id": "473b6fdf5bee5622af331d819ecb5950",
+          "code": "SHC016-Q2"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "在较低外界压强下水可能不到100℃就沸腾。能否由此说水的组成改变了？",
+          "answer": "不能。沸点改变可能来自压强变化，不能仅据此判断化学组成改变。",
+          "explanation": "物理性质的条件依赖不等于发生化学反应。",
+          "check": null,
+          "id": "77faa33d757d50058bfca473ab99ed67",
+          "code": "SHC016-Q3"
+        }
+      ],
+      "id": "76a12d8784225456ae76b3e2f6d05a6a",
+      "node_ids": [
+        "4e5a3f4e54b05b2d8c2c8cc3749f3826",
+        "95eb5efdf82c5afe998d6d836381bfbb"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "5c9d984faa3152c0a2f479e39b345077",
+      "theme_name": "主题三 物质的组成与结构",
+      "standard_scope": "物质的性质与应用：水及常见溶液"
+    },
+    {
+      "code": "SHC017",
+      "node": "课题2 水的自然循环与人工净化",
+      "name": "过滤、吸附与蒸馏的分离边界",
+      "definition": "过滤主要分离不溶性固体，吸附可减少某些杂质，蒸馏利用挥发性差异；方法均有适用边界。",
+      "requirements": "依据杂质性质选择处理方法。",
+      "mastery": [
+        "能区分除悬浮物与除溶解盐",
+        "能说明净化不等同于饮用安全"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "欲除去水中不溶性泥沙，最直接的常规方法是哪项？",
+          "options": [
+            "只静置一秒",
+            "把水染色",
+            "过滤",
+            "加入食盐"
+          ],
+          "answer": "C",
+          "explanation": "过滤可截留适当粒径的不溶性颗粒，不能由此推出所有溶解性杂质已除。",
+          "id": "5994bec60e6f5da99abcff88bf63945f",
+          "code": "SHC017-Q1"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "过滤食盐水能否把已溶解的食盐完全除去？说明原因。",
+          "answer": "不能；溶解的盐离子可随水通过一般滤纸，须选择其他合适方法分离。",
+          "explanation": "过滤的作用对象主要是适当粒径的不溶性固体。",
+          "check": null,
+          "id": "6ee1514b62c45e02b25585fdde75bfe9",
+          "code": "SHC017-Q2"
+        },
+        {
+          "type": "实验题",
+          "difficulty": 2,
+          "prompt": "自制净水器过滤后的水很清澈，可以直接饮用吗？",
+          "answer": "不应直接饮用；清澈不代表已去除病原体或有害溶解物，需要符合饮水安全标准的处理和检测。",
+          "explanation": "外观只是指标之一，不能以“无色透明”替代饮用安全评价。",
+          "check": null,
+          "id": "fc027fbb7a3e5ad48972a66bf3b83451",
+          "code": "SHC017-Q3"
+        }
+      ],
+      "id": "7d39b7867a7059ea90750c862002c15d",
+      "node_ids": [
+        "42446d416e345d63923d69da0ee37894",
+        "95eb5efdf82c5afe998d6d836381bfbb"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "5c9d984faa3152c0a2f479e39b345077",
+      "theme_name": "主题三 物质的组成与结构",
+      "standard_scope": "物质的性质与应用：水及常见溶液"
+    },
+    {
+      "code": "SHC018",
+      "node": "课题2 水的自然循环与人工净化",
+      "name": "硬水的检验与资源保护",
+      "definition": "硬水含较多可溶性钙镁化合物，肥皂水可辅助比较软硬；自然水资源需兼顾水量与水质。",
+      "requirements": "用可观察证据比较水样并提出保护措施。",
+      "mastery": [
+        "能控制肥皂水比较条件",
+        "能区分水总量与可用淡水量"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "用相同量水样和肥皂水比较软硬时，较硬水样常出现什么现象？",
+          "options": [
+            "泡沫与浮渣都绝不变化",
+            "较多浮渣、较少持久泡沫",
+            "必定变成黑色",
+            "必定生成氢气"
+          ],
+          "answer": "B",
+          "explanation": "钙镁离子可与肥皂成分形成难溶物；比较需保持用量、搅拌等条件相同。",
+          "id": "d49a3c7ac99d563dbb23675ff7116f87",
+          "code": "SHC018-Q1"
+        },
+        {
+          "type": "实验题",
+          "difficulty": 2,
+          "prompt": "比较两种水样软硬，甲用5mL水加1滴肥皂水，乙用20mL水加10滴。能直接比较吗？如何改进？",
+          "answer": "不能。应使用相同体积水样、相同滴数肥皂水及相同振荡条件，再比较泡沫和浮渣。",
+          "explanation": "控制变量才能让观察差异较有说服力。",
+          "check": null,
+          "id": "793f4f713f745bfb99aa63fda11ecd78",
+          "code": "SHC018-Q2"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "地球水很多为什么仍要节约和保护水？请分别从水量和水质回答。",
+          "answer": "可直接利用的淡水有限且时空分布不均；污染还会降低水的可用性、增加处理成本。",
+          "explanation": "总水量不等于当地可用清洁淡水；节水与防污染需同时考虑。",
+          "check": null,
+          "id": "211a20dbbc905771a90ce2f7c2c4aa6b",
+          "code": "SHC018-Q3"
+        }
+      ],
+      "id": "40aac79349a75938846c97ae7dc616f8",
+      "node_ids": [
+        "42446d416e345d63923d69da0ee37894",
+        "95eb5efdf82c5afe998d6d836381bfbb"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "5c9d984faa3152c0a2f479e39b345077",
+      "theme_name": "主题三 物质的组成与结构",
+      "standard_scope": "物质的性质与应用：水及常见溶液"
+    },
+    {
+      "code": "SHC019",
+      "node": "课题3 水的组成",
+      "name": "电解水的产物与体积关系",
+      "definition": "适当实验条件下水电解生成氢气和氧气，理想同温同压下氢、氧体积约为2∶1。",
+      "requirements": "根据产物检验及体积证据认识水组成。",
+      "mastery": [
+        "能区分正负极产物",
+        "能按给定比例估算体积"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "电解水实验中，在通常教学装置和适当条件下，负极主要产生哪种气体？",
+          "options": [
+            "氢气",
+            "氧气",
+            "二氧化碳",
+            "氮气"
+          ],
+          "answer": "A",
+          "explanation": "负极主要得到氢气，正极主要得到氧气；不能把正负极与体积大小随意互换。",
+          "id": "78ec9d21702b5f82a6494b9ee8e23e00",
+          "code": "SHC019-Q1"
+        },
+        {
+          "type": "计算题",
+          "difficulty": 2,
+          "prompt": "理想条件下电解水收集到氢气24mL，同温同压时氧气约多少毫升？",
+          "answer": "12mL。",
+          "explanation": "氢∶氧体积约2∶1，氧气体积为24÷2＝12mL；实际测量还受装置和气体溶解影响。",
+          "check": {
+            "op": "quotient",
+            "values": [
+              24,
+              2
+            ],
+            "expected": "12"
+          },
+          "id": "b15f1c3aa3cf53b893523b5ac63b4379",
+          "code": "SHC019-Q2"
+        },
+        {
+          "type": "实验题",
+          "difficulty": 2,
+          "prompt": "观察到两管气体体积约2∶1，是否就能省略产物检验？",
+          "answer": "不能；还应结合适当的气体检验与实验条件，形成完整证据链。",
+          "explanation": "体积比是重要证据，但身份判断不能只靠一个数值。氢气检验必须由教师按安全规范进行。",
+          "check": null,
+          "id": "44352600868a588a9b0093049e4ffd89",
+          "code": "SHC019-Q3"
+        }
+      ],
+      "id": "c71bba80b8905e97860bfccbbb46df5d",
+      "node_ids": [
+        "d99b76520f4855e0a9774e98eec19c4a",
+        "95eb5efdf82c5afe998d6d836381bfbb"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "5c9d984faa3152c0a2f479e39b345077",
+      "theme_name": "主题三 物质的组成与结构",
+      "standard_scope": "物质的性质与应用：水及常见溶液"
+    },
+    {
+      "code": "SHC020",
+      "node": "课题3 水的组成",
+      "name": "化合物组成与电解中的守恒",
+      "definition": "水由氢元素和氧元素组成；元素质量比来自原子组成及相对原子质量，不能直接用产物体积比替代。",
+      "requirements": "联系电解反应、化学式与元素质量。",
+      "mastery": [
+        "能区分体积比与质量比",
+        "能用原子守恒配平水的分解"
+      ],
+      "questions": [
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "配平水电解反应，并注明需要的条件。",
+          "answer": "2H₂O→2H₂↑＋O₂↑，条件为通电。",
+          "explanation": "左侧H为4、O为2；右侧也为H4、O2。反应条件不能当作计量反应物。",
+          "check": {
+            "op": "balance",
+            "left": {
+              "H2O": 2
+            },
+            "right": {
+              "H2": 2,
+              "O2": 1
+            }
+          },
+          "id": "a164acb1dea35db7ad12e4f8cc85f533",
+          "code": "SHC020-Q1"
+        },
+        {
+          "type": "单选题",
+          "difficulty": 2,
+          "prompt": "电解水时氢、氧体积约2∶1，能直接推出水中氢、氧元素质量比为2∶1吗？",
+          "options": [
+            "能，因为都无单位",
+            "不能，因为水没有元素组成",
+            "能，体积就是质量",
+            "不能，体积比与质量比是不同的量"
+          ],
+          "answer": "D",
+          "explanation": "水中H、O元素质量比为2×1∶16＝1∶8，不等于氢氧气体积比。",
+          "id": "84232b3f38165346be3b15fed81716c8",
+          "code": "SHC020-Q2"
+        },
+        {
+          "type": "计算题",
+          "difficulty": 3,
+          "prompt": "已知水中H、O元素质量比1∶8，18g纯水中氢元素的质量是多少？",
+          "answer": "2g。",
+          "explanation": "氢占总质量的1/(1＋8)，18÷9＝2g。",
+          "check": {
+            "op": "fraction_product",
+            "values": [
+              18,
+              1,
+              9
+            ],
+            "expected": "2"
+          },
+          "id": "b1d589ade2bb557d8978a1f7b0867f59",
+          "code": "SHC020-Q3"
+        }
+      ],
+      "id": "63227c1d19025920a30252307b2e92e5",
+      "node_ids": [
+        "d99b76520f4855e0a9774e98eec19c4a",
+        "95eb5efdf82c5afe998d6d836381bfbb"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "5c9d984faa3152c0a2f479e39b345077",
+      "theme_name": "主题三 物质的组成与结构",
+      "standard_scope": "物质的性质与应用：水及常见溶液"
+    },
+    {
+      "code": "SHC021",
+      "node": "课题1 构成物质的微观粒子",
+      "name": "分子运动与分子间隔",
+      "definition": "分子在不停运动，分子之间有间隔；宏观扩散和压缩等现象可提供相关证据。",
+      "requirements": "用分子观点解释常见现象而不夸大单一证据。",
+      "mastery": [
+        "能说明扩散与运动的联系",
+        "能区分分子间隔与分子大小"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "气体在一定条件下较易被压缩，通常主要说明什么？",
+          "options": [
+            "气体没有质量",
+            "压缩必定产生新元素",
+            "分子之间有较大间隔",
+            "分子内部原子被轻易压碎"
+          ],
+          "answer": "C",
+          "explanation": "压缩主要减小分子间距离，不是把分子本身无限缩小。",
+          "id": "2159e34d11795e3c82e9ac1fc8be5c3e",
+          "code": "SHC021-Q1"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "在密闭、无明显空气对流的装置中，两种气体仍逐渐混合。用分子观点解释。",
+          "answer": "气体分子不停运动，相互扩散，浓度差逐渐减小。",
+          "explanation": "控制明显对流后，混合现象可支持分子运动的解释；实际还要考虑装置和时间尺度。",
+          "check": null,
+          "id": "4a6050ecba1e5d7ca37275e9f708c655",
+          "code": "SHC021-Q2"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "“一滴水很小，所以其中只有几个水分子”是否正确？",
+          "answer": "不正确；分子尺度极小，即使一滴水也包含极大量水分子。",
+          "explanation": "宏观尺寸“小”与微观粒子数量“少”不能直接等同。",
+          "check": null,
+          "id": "3a80bf04fdaa58aa8981ebe082be6822",
+          "code": "SHC021-Q3"
+        }
+      ],
+      "id": "c5ed868ddf0653a3b638609413050e52",
+      "node_ids": [
+        "3da6a20e0033558081ad4c2230a3bfd2",
+        "a0fc398b9bef5ee1a15b5c47beee8038"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "5c9d984faa3152c0a2f479e39b345077",
+      "theme_name": "主题三 物质的组成与结构",
+      "standard_scope": "物质的组成与结构：微观构成与元素"
+    },
+    {
+      "code": "SHC022",
+      "node": "课题1 构成物质的微观粒子",
+      "name": "原子结构与离子电荷",
+      "definition": "原子含原子核和核外电子；中性原子的质子数等于电子数，失得电子可形成离子。",
+      "requirements": "由质子和电子数量判断粒子电荷。",
+      "mastery": [
+        "能区分原子核电荷与整体电荷",
+        "能据电子变化判断阳离子或阴离子"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 2,
+          "prompt": "某粒子有11个质子、10个电子，其整体电荷是多少？",
+          "options": [
+            "带21个单位正电荷",
+            "带1个单位正电荷",
+            "带1个单位负电荷",
+            "一定不带电"
+          ],
+          "answer": "B",
+          "explanation": "正电荷11与负电荷10相抵后剩1个单位正电荷。",
+          "id": "385b87a1bef758ab8490d36664ef21ec",
+          "code": "SHC022-Q1"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "一个中性氧原子得到2个电子后成为何种带电粒子？元素种类是否改变？",
+          "answer": "成为带2个单位负电荷的氧离子O²⁻；质子数未变，仍属于氧元素。",
+          "explanation": "化学过程中的失得电子不改变原子核内质子数。",
+          "check": null,
+          "id": "62661cc0e2195022aa9aad7c9aac811b",
+          "code": "SHC022-Q2"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "同学说“原子核带正电，所以所有原子都带正电”。错误在哪里？",
+          "answer": "忽略了核外电子的负电荷；中性原子中正负电荷量相等。",
+          "explanation": "整体电荷须同时计算核与电子，不能只看一部分。",
+          "check": null,
+          "id": "dea67e1c1af95eb983d7b919f04807e2",
+          "code": "SHC022-Q3"
+        }
+      ],
+      "id": "4cee020c842e5c1a84a98d5256d7d6d8",
+      "node_ids": [
+        "3da6a20e0033558081ad4c2230a3bfd2",
+        "a0fc398b9bef5ee1a15b5c47beee8038"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "5c9d984faa3152c0a2f479e39b345077",
+      "theme_name": "主题三 物质的组成与结构",
+      "standard_scope": "物质的组成与结构：微观构成与元素"
+    },
+    {
+      "code": "SHC023",
+      "node": "课题2 组成物质的元素",
+      "name": "元素身份与纯净物分类",
+      "definition": "元素按核内质子数区分；单质由一种元素组成，化合物由不同元素组成，二者都指纯净物。",
+      "requirements": "依据组成和物质种类进行分类。",
+      "mastery": [
+        "能区分元素种类与物质种类",
+        "能识别单质、化合物和混合物"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "纯氧气O₂属于哪类物质？",
+          "options": [
+            "单质",
+            "化合物",
+            "混合物",
+            "溶液"
+          ],
+          "answer": "A",
+          "explanation": "O₂由同一种元素组成，且此处为纯物质，属于单质。",
+          "id": "b831ccde6d455267b3545471ff241050",
+          "code": "SHC023-Q1"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 3,
+          "prompt": "只由氧元素组成的氧气O₂与臭氧O₃混在一起，是否仍为一种纯净物？",
+          "answer": "不是，是由两种不同物质组成的混合物。",
+          "explanation": "元素只有一种并不能保证物质只有一种；纯净物判断须看物质种类。",
+          "check": null,
+          "id": "e136eee11d9753ef8a7ba69f481fbc54",
+          "code": "SHC023-Q2"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "两种原子核内质子数相同，但中子数不同，是否属于同一种元素？",
+          "answer": "属于同一种元素。",
+          "explanation": "元素种类由质子数决定，不由中子数单独决定。此处只要求判断元素身份。",
+          "check": null,
+          "id": "d524af08c0e35eda80f83045590e0d45",
+          "code": "SHC023-Q3"
+        }
+      ],
+      "id": "046bf21b99255c0aa2b760fa639fc57b",
+      "node_ids": [
+        "32e0f9721bd755df93dfc788f17ae3b5",
+        "a0fc398b9bef5ee1a15b5c47beee8038"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "5c9d984faa3152c0a2f479e39b345077",
+      "theme_name": "主题三 物质的组成与结构",
+      "standard_scope": "物质的组成与结构：微观构成与元素"
+    },
+    {
+      "code": "SHC024",
+      "node": "课题2 组成物质的元素",
+      "name": "元素符号与周期表信息读取",
+      "definition": "元素周期表条目给出元素符号、原子序数、相对原子质量等，不同数字含义不同。",
+      "requirements": "从给定条目提取并使用信息。",
+      "mastery": [
+        "能说明原子序数与质子数关系",
+        "能避免把相对原子质量当单个原子的克数"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "某元素条目标出原子序数12、符号Mg、相对原子质量24.3。该元素原子的质子数是？",
+          "options": [
+            "24.3",
+            "36.3",
+            "无法由原子序数判断",
+            "12"
+          ],
+          "answer": "D",
+          "explanation": "原子序数等于核内质子数，不等于相对原子质量。",
+          "id": "daf799c06d605c459af5181e11e50638",
+          "code": "SHC024-Q1"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "条目中的相对原子质量24.3，是否表示每个镁原子质量为24.3g？",
+          "answer": "不是；相对原子质量是按规定基准比较得到的相对量，不是单个原子的克数。",
+          "explanation": "微观粒子实际质量非常小，不可把相对量数值直接当宏观质量。",
+          "check": null,
+          "id": "8932a9ddec4b56fa9d4cafe26d6af92e",
+          "code": "SHC024-Q2"
+        },
+        {
+          "type": "计算题",
+          "difficulty": 2,
+          "prompt": "某中性原子的原子序数为8。其质子数和电子数各是多少？",
+          "answer": "质子数8，电子数8。",
+          "explanation": "原子序数给出质子数；题设中性使电子数等于质子数。",
+          "check": {
+            "op": "equality",
+            "value": 8,
+            "expected": "8"
+          },
+          "id": "171fc15145e45dd7ad11c9b8276eb0a7",
+          "code": "SHC024-Q3"
+        }
+      ],
+      "id": "cfe3e88a02e657d9a92751eee44e6728",
+      "node_ids": [
+        "32e0f9721bd755df93dfc788f17ae3b5",
+        "a0fc398b9bef5ee1a15b5c47beee8038",
+        "8e98de1dc0385f8cbd3f81d4633eea07"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "5c9d984faa3152c0a2f479e39b345077",
+      "theme_name": "主题三 物质的组成与结构",
+      "standard_scope": "物质的组成与结构：微观构成与元素"
+    },
+    {
+      "code": "SHC025",
+      "node": "课题3 结构多样的碳单质",
+      "name": "同素异形与结构决定性质",
+      "definition": "金刚石、石墨等均由碳元素组成，但原子排列和结合方式不同，可表现不同物理性质。",
+      "requirements": "联系组成、结构、性质及用途。",
+      "mastery": [
+        "能说明同元素不等于同结构",
+        "能解释石墨导电等用途依据"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "金刚石和石墨物理性质差异很大，主要原因是什么？",
+          "options": [
+            "石墨没有微粒",
+            "元素种类必定完全不同",
+            "碳原子排列和结合方式不同",
+            "一种含碳另一种不含碳"
+          ],
+          "answer": "C",
+          "explanation": "组成元素相同不能消除结构差异；结构会影响物理性质。",
+          "id": "b3af78d8f9d85fb4afdeb72ea460715d",
+          "code": "SHC025-Q1"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "为什么石墨能用于某些电极，而不能只用“它含碳”作完整解释？",
+          "answer": "需要利用其导电性及相应化学稳定性等；含碳本身不能保证具有适合电极的性质。",
+          "explanation": "金刚石也含碳但导电表现不同，说明还需考虑结构和实际条件。",
+          "check": null,
+          "id": "75c6f42a9a0f5f34a48ae133a0873e44",
+          "code": "SHC025-Q2"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "“金刚石硬，所以所有碳单质都一样硬”是否成立？",
+          "answer": "不成立；同一元素形成的不同结构可有不同硬度。",
+          "explanation": "不能把一种物质的性质无条件推广给同元素的所有单质。",
+          "check": null,
+          "id": "ca0508426ac35dca8e87af3c2d6b3716",
+          "code": "SHC025-Q3"
+        }
+      ],
+      "id": "d19622ba67d75aed9fd93066b5173244",
+      "node_ids": [
+        "6b7c72228c945efda0f0947b46e1bbc5",
+        "a0fc398b9bef5ee1a15b5c47beee8038"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "5c9d984faa3152c0a2f479e39b345077",
+      "theme_name": "主题三 物质的组成与结构",
+      "standard_scope": "物质的组成与结构：微观构成与元素"
+    },
+    {
+      "code": "SHC026",
+      "node": "课题3 结构多样的碳单质",
+      "name": "活性炭吸附及其局限",
+      "definition": "活性炭的孔隙结构和较大比表面积有利于吸附某些物质，但不等于能消除所有污染。",
+      "requirements": "用吸附作用解释净化现象并说明边界。",
+      "mastery": [
+        "能区分吸附与万能杀菌",
+        "能提出公平的吸附比较实验"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "活性炭能使某些有色溶液颜色变浅，主要利用什么性质？",
+          "options": [
+            "能消灭全部微生物",
+            "吸附性",
+            "必定把水分解",
+            "必定生成氧气"
+          ],
+          "answer": "B",
+          "explanation": "活性炭可吸附某些着色物质，但并不意味着水达到饮用标准。",
+          "id": "a8d5ea6e25455c3cbd4e64cff20c39be",
+          "code": "SHC026-Q1"
+        },
+        {
+          "type": "实验题",
+          "difficulty": 2,
+          "prompt": "比较颗粒活性炭与粉末活性炭的吸附效果，至少列出两项应控制的条件。",
+          "answer": "如活性炭质量、溶液体积和初始浓度、接触时间、搅拌方式等保持接近，仅比较粒度。",
+          "explanation": "若用量、接触时间等也变化，就难以只归因于粒度与表面积。",
+          "check": null,
+          "id": "5425eddc26ca5045965d7277ff2d0a8c",
+          "code": "SHC026-Q2"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "活性炭过滤后水无色无味，能否判定其中所有重金属、病原体和溶解盐都已除去？",
+          "answer": "不能。不同污染物的去除效率不同，需要适当检测及其他处理。",
+          "explanation": "感官改善和某些吸附效果不能替代全项目安全检验。",
+          "check": null,
+          "id": "d03af68f3dce53189e31d6c20dbf436b",
+          "code": "SHC026-Q3"
+        }
+      ],
+      "id": "c8edd4a88e0b599ab75ca28b8a10f934",
+      "node_ids": [
+        "6b7c72228c945efda0f0947b46e1bbc5",
+        "a0fc398b9bef5ee1a15b5c47beee8038"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "5c9d984faa3152c0a2f479e39b345077",
+      "theme_name": "主题三 物质的组成与结构",
+      "standard_scope": "物质的组成与结构：微观构成与元素"
+    },
+    {
+      "code": "SHC027",
+      "node": "课题1 化学反应中各物质间的定量关系",
+      "name": "质量守恒的边界与微观解释",
+      "definition": "化学反应前后参与反应的总质量守恒，原子的种类和数目不变；测量时要计入进入或逸出的物质。",
+      "requirements": "从系统边界解释看似增减的质量。",
+      "mastery": [
+        "能解释开放装置的质量变化",
+        "能识别原子守恒而非分子数守恒"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "化学反应前后通常一定保持不变的是哪项？",
+          "options": [
+            "原子的种类和数目",
+            "分子的数目",
+            "各物质的种类",
+            "各物质的物理状态"
+          ],
+          "answer": "A",
+          "explanation": "化学反应是原子的重新组合，物质、分子种类或数目可能变化。",
+          "id": "0c25c78f5c98524b89f8c285308a705b",
+          "code": "SHC027-Q1"
+        },
+        {
+          "type": "实验题",
+          "difficulty": 2,
+          "prompt": "敞口烧杯中稀盐酸与碳酸钙反应后，烧杯连同剩余物质量减小，是否违反质量守恒？",
+          "answer": "不违反；逸出的CO₂未被称量。把逸出气体等也计入合适系统边界，总质量仍守恒。",
+          "explanation": "应先检查系统是否封闭以及测量对象，不能把称量对象的变化直接当作定律失效。",
+          "check": null,
+          "id": "b924a265303f5f47977ea5da913284cb",
+          "code": "SHC027-Q2"
+        },
+        {
+          "type": "计算题",
+          "difficulty": 2,
+          "prompt": "在密闭装置内，6g碳与足量氧气完全生成22g CO₂，参与反应的氧气质量是多少？",
+          "answer": "16g。",
+          "explanation": "由质量守恒：m(O₂)＝22－6＝16g，题设给出完全反应及密闭条件。",
+          "check": {
+            "op": "difference",
+            "values": [
+              22,
+              6
+            ],
+            "expected": "16"
+          },
+          "id": "9ad0edf3b3d25cbcb1fc02a839e52525",
+          "code": "SHC027-Q3"
+        }
+      ],
+      "id": "e411eb75d749547bad9ced61a974789d",
+      "node_ids": [
+        "e2f96a121aac5476948405301a7fc6ed",
+        "4fc86252abe75832a282b44bc81a2797"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "46aae1b961fc5b97afded5bb398ce8ec",
+      "theme_name": "主题四 物质的化学变化（上）",
+      "standard_scope": "物质的化学变化：质量守恒与反应表示"
+    },
+    {
+      "code": "SHC028",
+      "node": "课题1 化学反应中各物质间的定量关系",
+      "name": "化学方程式中的质量比例计算",
+      "definition": "化学方程式的系数与相对分子质量共同确定参与反应各物质间的质量比。",
+      "requirements": "按足量和完全反应条件进行比例计算。",
+      "mastery": [
+        "能区分系数比与质量比",
+        "能根据给定原子质量确定产物质量"
+      ],
+      "questions": [
+        {
+          "type": "计算题",
+          "difficulty": 2,
+          "prompt": "已知C＝12、O＝16。12g碳与足量氧气完全反应生成CO₂多少克？",
+          "answer": "44g。",
+          "explanation": "C＋O₂→CO₂，质量比12∶44；12g碳对应44g CO₂。不能只按系数1∶1当质量比。",
+          "check": {
+            "op": "stoich",
+            "left": {
+              "C": 1,
+              "O2": 1
+            },
+            "right": {
+              "CO2": 1
+            },
+            "given_formula": "C",
+            "given_mass": 12,
+            "target_formula": "CO2",
+            "expected": "44"
+          },
+          "id": "7a8af27e35015959a4943c7f3b486571",
+          "code": "SHC028-Q1"
+        },
+        {
+          "type": "计算题",
+          "difficulty": 3,
+          "prompt": "已知H＝1、O＝16。4g氢气在足量氧气中完全反应，生成水多少克？",
+          "answer": "36g。",
+          "explanation": "2H₂＋O₂→2H₂O，4g氢气对应36g水。足量氧气保证氢气完全反应。",
+          "check": {
+            "op": "stoich",
+            "left": {
+              "H2": 2,
+              "O2": 1
+            },
+            "right": {
+              "H2O": 2
+            },
+            "given_formula": "H2",
+            "given_mass": 4,
+            "target_formula": "H2O",
+            "expected": "36"
+          },
+          "id": "224f8e8c25735bd196d661ee86925b64",
+          "code": "SHC028-Q2"
+        },
+        {
+          "type": "单选题",
+          "difficulty": 2,
+          "prompt": "反应式2H₂＋O₂→2H₂O中的2∶1∶2能直接当作三种物质的质量比吗？",
+          "options": [
+            "不能，因为氢气没有质量",
+            "能，系数就是克数",
+            "不能，须结合相对分子质量",
+            "能，因为质量守恒"
+          ],
+          "answer": "C",
+          "explanation": "相同系数并不意味着相同质量；各物质对应的相对分子质量不同。",
+          "id": "938d6d4178b757ab82371c88e09ad6b0",
+          "code": "SHC028-Q3"
+        }
+      ],
+      "id": "e57f397958eb55d48586de6d038b4f21",
+      "node_ids": [
+        "e2f96a121aac5476948405301a7fc6ed",
+        "4fc86252abe75832a282b44bc81a2797"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "46aae1b961fc5b97afded5bb398ce8ec",
+      "theme_name": "主题四 物质的化学变化（上）",
+      "standard_scope": "物质的化学变化：质量守恒与反应表示"
+    },
+    {
+      "code": "SHC029",
+      "node": "课题2 化学反应的表示及基本类型",
+      "name": "化学方程式的配平与条件",
+      "definition": "配平通过调整系数使各元素原子数守恒，不改变物质化学式；反应条件和气体沉淀符号须按具体体系说明。",
+      "requirements": "正确配平常见反应并识别错误改下标。",
+      "mastery": [
+        "能配平氢氧反应",
+        "能说明配平不可改变下标"
+      ],
+      "questions": [
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "配平H₂＋O₂→H₂O，并说明点燃条件应写在哪里。",
+          "answer": "2H₂＋O₂→2H₂O；点燃写在反应箭头上方等条件位置。",
+          "explanation": "左右H4、O2；条件不计入反应物原子数。",
+          "check": {
+            "op": "balance",
+            "left": {
+              "H2": 2,
+              "O2": 1
+            },
+            "right": {
+              "H2O": 2
+            }
+          },
+          "id": "6fefc96699e453c2a117c196223ee5a2",
+          "code": "SHC029-Q1"
+        },
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "为了配平水生成反应，把H₂O改成H₂O₂，主要错误是什么？",
+          "options": [
+            "只改变了字号",
+            "改变了生成物的化学身份",
+            "系数太大",
+            "违反了书写顺序但物质不变"
+          ],
+          "answer": "B",
+          "explanation": "配平应改系数而不是改物质组成，下标改变会变成另一种物质。",
+          "id": "d74eb912b006540abb8dfffa47b66ad4",
+          "code": "SHC029-Q2"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "配平镁在氧气中燃烧生成氧化镁的反应式。",
+          "answer": "2Mg＋O₂→2MgO。",
+          "explanation": "Mg原子均2个，O原子均2个；反应需点燃，实际操作须教师指导，不直视强光。",
+          "check": {
+            "op": "balance",
+            "left": {
+              "Mg": 2,
+              "O2": 1
+            },
+            "right": {
+              "MgO": 2
+            }
+          },
+          "id": "5072096bec785a3c88fc8033df21c997",
+          "code": "SHC029-Q3"
+        }
+      ],
+      "id": "fee1b026f90955a38495dec9b5a3ee08",
+      "node_ids": [
+        "9f0450dbd76c54aca593e3f9fb23ac2d",
+        "4fc86252abe75832a282b44bc81a2797"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "46aae1b961fc5b97afded5bb398ce8ec",
+      "theme_name": "主题四 物质的化学变化（上）",
+      "standard_scope": "物质的化学变化：质量守恒与反应表示"
+    },
+    {
+      "code": "SHC030",
+      "node": "课题2 化学反应的表示及基本类型",
+      "name": "基本反应类型的结构判别",
+      "definition": "化合反应多种物质生成一种物质，分解反应一种物质生成多种；分类还需看具体反应结构，不能只看有无气体。",
+      "requirements": "按反应物和生成物关系判断类型。",
+      "mastery": [
+        "能区分化合与分解",
+        "能认识反应类型不是现象的同义词"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "2H₂O₂→2H₂O＋O₂属于哪类基本反应？",
+          "options": [
+            "物理变化",
+            "分解反应",
+            "化合反应",
+            "只要有气体就不是化学反应"
+          ],
+          "answer": "B",
+          "explanation": "由一种化合物生成多种物质，是分解反应。",
+          "id": "5351a1d6104d5b0e907cc4d574b73fb7",
+          "code": "SHC030-Q1"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "C＋O₂→CO₂为什么属于化合反应？",
+          "answer": "两种物质反应，生成一种物质。",
+          "explanation": "判据看物质种类关系，不把系数或原子数误当作物质种类数。",
+          "check": null,
+          "id": "bd70be776b74516f964d6f9e3821a481",
+          "code": "SHC030-Q2"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 3,
+          "prompt": "比较CaCO₃→CaO＋CO₂与2Mg＋O₂→2MgO的类型，并说出分类依据。",
+          "answer": "前者分解，后者化合；依据是反应物和生成物的物质种类关系。",
+          "explanation": "前者一种生成两种，后者两种生成一种。前者需高温，后者需点燃。",
+          "check": {
+            "op": "balance",
+            "left": {
+              "CaCO3": 1
+            },
+            "right": {
+              "CaO": 1,
+              "CO2": 1
+            }
+          },
+          "id": "217e0fcb0b1f5594921b9c86a3e44339",
+          "code": "SHC030-Q3"
+        }
+      ],
+      "id": "57c4e1da8201532da455994afb3541bc",
+      "node_ids": [
+        "9f0450dbd76c54aca593e3f9fb23ac2d",
+        "4fc86252abe75832a282b44bc81a2797"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "46aae1b961fc5b97afded5bb398ce8ec",
+      "theme_name": "主题四 物质的化学变化（上）",
+      "standard_scope": "物质的化学变化：质量守恒与反应表示"
+    },
+    {
+      "code": "SHC031",
+      "node": "课题1 初探溶液",
+      "name": "溶液的均一性、稳定性与组成",
+      "definition": "溶液是物质分散到另一物质中形成的均一、稳定混合物；稳定有条件，不表示任何条件下永不析出。",
+      "requirements": "从宏观特征辨认溶液。",
+      "mastery": [
+        "能辨认溶液",
+        "能区分溶液与乳浊液"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "下列体系中属于溶液的是？",
+          "options": [
+            "充分溶解的食盐水",
+            "静置会分层的油水",
+            "泥水",
+            "含大量冰块的水"
+          ],
+          "answer": "A",
+          "explanation": "食盐水中的溶质均匀分散，属于混合物；油水和泥水不符合溶液特征。",
+          "id": "cdaa981ffeaa5f3b9aa5dfeda665c6ed",
+          "code": "SHC031-Q1"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "一杯均匀食盐溶液，分别从上部和下部取等质量样品，溶质质量通常如何比较？",
+          "answer": "相等。",
+          "explanation": "温度等条件不变且未发生蒸发、结晶时，均一溶液各部分组成相同。",
+          "check": null,
+          "id": "d882b982c85750cc9b8c0fbe3afc2a09",
+          "code": "SHC031-Q2"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "溶液一定是无色的吗？用常见例子说明。",
+          "answer": "不一定；硫酸铜水溶液呈蓝色，也可为均一稳定的溶液。",
+          "explanation": "是否为溶液与是否无色是不同判断维度。",
+          "check": null,
+          "id": "456242a9fb955305a5f778bfe97ea1c7",
+          "code": "SHC031-Q3"
+        }
+      ],
+      "id": "1001d68d0cb25139a575336deca02b13",
+      "node_ids": [
+        "242aa452694152729647557d3e37efbc",
+        "3f4bd352efd1548fabba6835b83f31e0"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "fe79b0450da757a395c5d58f0730ec25",
+      "theme_name": "主题五 常见的物质（下）",
+      "standard_scope": "物质的性质与应用：溶液及组成"
+    },
+    {
+      "code": "SHC032",
+      "node": "课题1 初探溶液",
+      "name": "溶解过程与温度变化",
+      "definition": "溶解时粒子分散和相互作用伴随能量变化，溶解可能放热或吸热，不能由温变直接判定新物质。",
+      "requirements": "描述溶解过程中的能量证据。",
+      "mastery": [
+        "能读取温变数据",
+        "能避免温变即化学变化的误判"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "某固体溶于水后体系温度下降，在忽略散热条件下主要表明？",
+          "options": [
+            "一定生成氢气",
+            "温度计坏了",
+            "固体必为催化剂",
+            "溶解过程总体吸热"
+          ],
+          "answer": "D",
+          "explanation": "体系降温可表明从周围吸收热量，不直接证明生成了新物质。",
+          "id": "22ed767b10655e3486994bccb653b2b2",
+          "code": "SHC032-Q1"
+        },
+        {
+          "type": "实验题",
+          "difficulty": 2,
+          "prompt": "为了比较两种固体溶解时温变，至少应控制哪些条件？",
+          "answer": "水的质量、初温、容器条件、固体用量及搅拌测量方式等。",
+          "explanation": "条件变化会影响测得温差；需说明比较的是相同用量或相同物质的量等具体基准。",
+          "check": null,
+          "id": "684e6524b3e35407af67ada930ca92dc",
+          "code": "SHC032-Q2"
+        },
+        {
+          "type": "计算题",
+          "difficulty": 2,
+          "prompt": "某物质溶解后由25℃降到19℃，温度降低了多少摄氏度？能否仅凭此判断化学变化？",
+          "answer": "降低6℃；不能仅凭温变判断。",
+          "explanation": "25－19＝6；化学变化仍需有新物质生成的证据。",
+          "check": {
+            "op": "difference",
+            "values": [
+              25,
+              19
+            ],
+            "expected": "6"
+          },
+          "id": "2e73caf5084a515684a77a183086ed96",
+          "code": "SHC032-Q3"
+        }
+      ],
+      "id": "3dbd579584e4516fbc4cc65e2195986b",
+      "node_ids": [
+        "242aa452694152729647557d3e37efbc",
+        "3f4bd352efd1548fabba6835b83f31e0"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "fe79b0450da757a395c5d58f0730ec25",
+      "theme_name": "主题五 常见的物质（下）",
+      "standard_scope": "物质的性质与应用：溶液及组成"
+    },
+    {
+      "code": "SHC033",
+      "node": "课题2 探究物质的溶解性",
+      "name": "饱和状态与溶解度条件",
+      "definition": "一定温度、一定量溶剂中，对指定溶质不能继续溶解的状态叫饱和；溶解度须说明温度与溶剂量基准。",
+      "requirements": "在明确条件下判断饱和与溶解度。",
+      "mastery": [
+        "能指出温度条件",
+        "能区分饱和与浓溶液"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "判断某食盐水是否饱和，应在温度不变时如何操作？",
+          "options": [
+            "闻气味",
+            "只称总质量",
+            "加入少量食盐并充分搅拌观察是否继续溶解",
+            "看颜色"
+          ],
+          "answer": "C",
+          "explanation": "必须针对同一种溶质，并给予充分溶解时间，不能只凭外观。",
+          "id": "88cfb1915f6052c9ae86c41253e248bf",
+          "code": "SHC033-Q1"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "某盐20℃时溶解度为30g，其含义是什么？",
+          "answer": "20℃时，100g水中最多溶解该盐30g达到饱和。",
+          "explanation": "溶解度不是每100g溶液含30g盐；温度和溶剂基准均不可省略。",
+          "check": null,
+          "id": "919578223ede58dfac7516c77b5da98b",
+          "code": "SHC033-Q2"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "“饱和溶液一定比任何不饱和溶液浓”正确吗？",
+          "answer": "不正确；不同溶质或温度下，饱和状态不能直接作为浓度大小的比较依据。",
+          "explanation": "饱和描述能否继续溶解指定溶质，浓度描述组成比例。",
+          "check": null,
+          "id": "b908bea7a5905c3994d88d3da7007da1",
+          "code": "SHC033-Q3"
+        }
+      ],
+      "id": "a5b4d6f4ec5752df92d82235b058641b",
+      "node_ids": [
+        "9ed0a0c204955d6abe7c4b362b5021d3",
+        "3f4bd352efd1548fabba6835b83f31e0"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "fe79b0450da757a395c5d58f0730ec25",
+      "theme_name": "主题五 常见的物质（下）",
+      "standard_scope": "物质的性质与应用：溶液及组成"
+    },
+    {
+      "code": "SHC034",
+      "node": "课题2 探究物质的溶解性",
+      "name": "温度影响与结晶计算",
+      "definition": "固体溶解度随温度变化的规律因物质而异，可根据给定数据分析冷却结晶。",
+      "requirements": "用数据说明温度条件和析晶量。",
+      "mastery": [
+        "能使用溶解度数据",
+        "能说明结晶计算假设"
+      ],
+      "questions": [
+        {
+          "type": "计算题",
+          "difficulty": 3,
+          "prompt": "某盐在60℃和20℃的溶解度分别为60g、20g。将含100g水的60℃饱和溶液冷却至20℃，水无损失，析出无水晶体多少克？",
+          "answer": "40g。",
+          "explanation": "原溶质60g，20℃仍溶解20g，析出60－20＝40g。假定无水晶体且达到平衡。",
+          "check": {
+            "op": "difference",
+            "values": [
+              60,
+              20
+            ],
+            "expected": "40"
+          },
+          "id": "aaa3f47da54156ec906b10229088c155",
+          "code": "SHC034-Q1"
+        },
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "能否认为所有固体的溶解度都随温度升高显著增大？",
+          "options": [
+            "不能，应查对应物质数据",
+            "能，完全相同",
+            "能，因为都是固体",
+            "不能，因为固体均不溶于水"
+          ],
+          "answer": "A",
+          "explanation": "不同固体的溶解度随温度变化可能不同，不能一概而论。",
+          "id": "37e91749c09d5eda97a0827852167fdc",
+          "code": "SHC034-Q2"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "冷却结晶后过滤，滤液中一定完全没有原溶质吗？",
+          "answer": "不一定，通常仍含该温度下能溶解的溶质。",
+          "explanation": "析晶不是把所有溶质全部分离，母液的溶解能力仍需考虑。",
+          "check": null,
+          "id": "dff03c6b39bd5fc99fa43964d3842201",
+          "code": "SHC034-Q3"
+        }
+      ],
+      "id": "3ca87027be8851d6b6f01ef36f0ce1e5",
+      "node_ids": [
+        "9ed0a0c204955d6abe7c4b362b5021d3",
+        "3f4bd352efd1548fabba6835b83f31e0"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "fe79b0450da757a395c5d58f0730ec25",
+      "theme_name": "主题五 常见的物质（下）",
+      "standard_scope": "物质的性质与应用：溶液及组成"
+    },
+    {
+      "code": "SHC035",
+      "node": "课题3 学会定量表示溶液的组成",
+      "name": "溶质质量分数与质量边界",
+      "definition": "溶质质量分数为溶质质量除以溶液总质量，溶液质量包括已经溶解的溶质和溶剂。",
+      "requirements": "计算质量分数并辨认分母。",
+      "mastery": [
+        "能正确确定溶液质量",
+        "能排除未溶固体"
+      ],
+      "questions": [
+        {
+          "type": "计算题",
+          "difficulty": 2,
+          "prompt": "10g食盐完全溶于90g水，所得溶液的溶质质量分数是多少？",
+          "answer": "10%。",
+          "explanation": "溶液质量10＋90＝100g；10/100×100%＝10%。",
+          "check": {
+            "op": "fraction_product",
+            "values": [
+              10,
+              100,
+              100
+            ],
+            "expected": "10"
+          },
+          "id": "df39271fd8af54c5acc1acc6b5f87c1a",
+          "code": "SHC035-Q1"
+        },
+        {
+          "type": "计算题",
+          "difficulty": 2,
+          "prompt": "100g水中加入30g某盐，其中仅20g溶解。忽略损失，溶液质量是多少？",
+          "answer": "120g。",
+          "explanation": "溶液只包括水和已溶解部分；未溶10g不计入溶液。",
+          "check": {
+            "op": "sum",
+            "values": [
+              100,
+              20
+            ],
+            "expected": "120"
+          },
+          "id": "9c3632b41f215746926ca58a4959233a",
+          "code": "SHC035-Q2"
+        },
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "把“10g溶质加100g水”误算为10%时，混淆了什么？",
+          "options": [
+            "温度与压强",
+            "溶质种类",
+            "溶剂质量与溶液质量",
+            "克与千克的换算"
+          ],
+          "answer": "C",
+          "explanation": "应以110g溶液作分母，所得约9.09%。",
+          "id": "bc1f441fb4a95d8680d1b9c7959e059d",
+          "code": "SHC035-Q3"
+        }
+      ],
+      "id": "13efccc4bfe65e3785dbd5ebe166737d",
+      "node_ids": [
+        "21fc5057096d526eb302d3bc7b610391",
+        "3f4bd352efd1548fabba6835b83f31e0"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "fe79b0450da757a395c5d58f0730ec25",
+      "theme_name": "主题五 常见的物质（下）",
+      "standard_scope": "物质的性质与应用：溶液及组成"
+    },
+    {
+      "code": "SHC036",
+      "node": "课题3 学会定量表示溶液的组成",
+      "name": "稀释守恒与溶液配制",
+      "definition": "不发生反应和损失的加水稀释中，溶质质量不变，溶液质量增加，质量分数降低。",
+      "requirements": "据溶质守恒进行稀释并说明操作。",
+      "mastery": [
+        "能列出稀释守恒式",
+        "能识别配制误差方向"
+      ],
+      "questions": [
+        {
+          "type": "计算题",
+          "difficulty": 3,
+          "prompt": "把50g、20%的食盐溶液稀释为10%，需加水多少克？",
+          "answer": "50g。",
+          "explanation": "溶质50×20%＝10g；最终溶液10÷10%＝100g，加水100－50＝50g。",
+          "check": {
+            "op": "dilution",
+            "initial_mass": 50,
+            "initial_percent": 20,
+            "final_percent": 10,
+            "expected": "50"
+          },
+          "id": "6821ad8728e95f4abe8cb9b05a4bb673",
+          "code": "SHC036-Q1"
+        },
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "配制固定质量的食盐溶液，称取盐准确但加水过多，质量分数怎样变化？",
+          "options": [
+            "不变",
+            "一定为零",
+            "偏小",
+            "偏大"
+          ],
+          "answer": "C",
+          "explanation": "溶质质量不变，溶液总质量增大，质量分数降低。",
+          "id": "eea148b2d61a5e4392fbbba4a1815512",
+          "code": "SHC036-Q2"
+        },
+        {
+          "type": "实验题",
+          "difficulty": 2,
+          "prompt": "配制溶液时为什么应记录溶质质量、用水量及容器标签？",
+          "answer": "便于核对组成、识别样品、追溯误差并防止误用。",
+          "explanation": "标签应体现名称、浓度和必要时间信息，不凭外观区分无色溶液。",
+          "check": null,
+          "id": "57081ac94e2c5c2ab5f44b3bba22860a",
+          "code": "SHC036-Q3"
+        }
+      ],
+      "id": "f6eb484293d0594ab4ebe8fbf18a8d25",
+      "node_ids": [
+        "21fc5057096d526eb302d3bc7b610391",
+        "3f4bd352efd1548fabba6835b83f31e0"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "fe79b0450da757a395c5d58f0730ec25",
+      "theme_name": "主题五 常见的物质（下）",
+      "standard_scope": "物质的性质与应用：溶液及组成"
+    },
+    {
+      "code": "SHC037",
+      "node": "课题1 初识酸和碱",
+      "name": "指示剂与pH的条件性判读",
+      "definition": "常温下常用pH标度中pH小于7为酸性、大于7为碱性；指示剂颜色有变色范围，不能代替精确测量。",
+      "requirements": "用给定指示剂信息判断酸碱性。",
+      "mastery": [
+        "能按pH排序酸碱性",
+        "能说明试纸使用限制"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "常温下某稀溶液pH＝3，该溶液通常呈？",
+          "options": [
+            "中性",
+            "一定是纯水",
+            "酸性",
+            "碱性"
+          ],
+          "answer": "C",
+          "explanation": "常用水溶液标度下pH＜7表明酸性，不能仅凭pH确定具体溶质。",
+          "id": "1e011179210754e3adce9af049a2e0e4",
+          "code": "SHC037-Q1"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "甲、乙溶液常温pH分别为4、10。哪个呈碱性？能否直接相加pH计算混合结果？",
+          "answer": "乙呈碱性；不能直接相加pH。",
+          "explanation": "pH并非可按体积线性相加的量，混合还涉及用量与反应。",
+          "check": null,
+          "id": "53798c41f4525fe4a117b748f9f86d70",
+          "code": "SHC037-Q2"
+        },
+        {
+          "type": "实验题",
+          "difficulty": 2,
+          "prompt": "用湿润的pH试纸测待测溶液，为什么可能引入误差？",
+          "answer": "水会稀释样液，可能改变读数；应按试纸说明用洁净工具取样并比色。",
+          "explanation": "不能预先随意润湿，也不能将整卷试纸浸入原试剂瓶。",
+          "check": null,
+          "id": "02c22a8568f8516cb67955101c563898",
+          "code": "SHC037-Q3"
+        }
+      ],
+      "id": "23ace476c076524c90e96052bab202d1",
+      "node_ids": [
+        "f3d00c9a25115a999caa50abbc5e26f8",
+        "bb1e3088ec4c52cf909713ccfdedbdff"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "fe79b0450da757a395c5d58f0730ec25",
+      "theme_name": "主题五 常见的物质（下）",
+      "standard_scope": "物质的性质与应用：酸碱盐"
+    },
+    {
+      "code": "SHC038",
+      "node": "课题1 初识酸和碱",
+      "name": "酸碱的组成认识与安全稀释",
+      "definition": "酸碱性质与水溶液中的相应离子有关；腐蚀性取决于物质和浓度，操作必须遵守安全规范。",
+      "requirements": "联系组成解释常见性质并识别安全操作。",
+      "mastery": [
+        "能辨认常见酸碱",
+        "能说明浓硫酸稀释顺序"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "实验室稀释浓硫酸时应如何进行？",
+          "options": [
+            "密闭摇晃并加热",
+            "在教师指导下将酸缓慢沿器壁加入水并搅拌",
+            "把水快速倒入酸",
+            "用手搅拌"
+          ],
+          "answer": "B",
+          "explanation": "浓硫酸稀释放热，错误顺序易飞溅；本题不是居家操作指引。",
+          "id": "5580b481c9b451e9b0324e7051dc6b19",
+          "code": "SHC038-Q1"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "NaOH水溶液呈碱性，与哪类离子有关？",
+          "answer": "与水溶液中的OH⁻有关。",
+          "explanation": "不能把所有含OH字样的物质都直接认定为碱，需结合实际组成与电离。",
+          "check": null,
+          "id": "0d4a9b65addf5e13970fccbc1354b277",
+          "code": "SHC038-Q2"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "无色溶液是否可以通过品尝来判断为酸或碱？",
+          "answer": "不可以；禁止品尝未知化学试剂，应使用规范检测方法。",
+          "explanation": "外观不能证明安全，酸碱性也不等于可食用性。",
+          "check": null,
+          "id": "68bba8fab1e25b35a13f3448cca2a4ee",
+          "code": "SHC038-Q3"
+        }
+      ],
+      "id": "35ee8d02af305c199ccbe3971e050d30",
+      "node_ids": [
+        "f3d00c9a25115a999caa50abbc5e26f8",
+        "bb1e3088ec4c52cf909713ccfdedbdff",
+        "7b12c6e549b6534d82860eec7c90a061"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "fe79b0450da757a395c5d58f0730ec25",
+      "theme_name": "主题五 常见的物质（下）",
+      "standard_scope": "物质的性质与应用：酸碱盐"
+    },
+    {
+      "code": "SHC039",
+      "node": "课题2 认识酸、碱、盐的性质与应用",
+      "name": "中和反应与用量控制",
+      "definition": "酸与碱反应生成盐和水，中和到何种程度取决于反应物用量，颜色变化需结合指示剂解释。",
+      "requirements": "用方程式和实验设计说明中和。",
+      "mastery": [
+        "能写出常见中和反应",
+        "能说明不可过量下结论"
+      ],
+      "questions": [
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "写出盐酸与氢氧化钠溶液发生中和的化学方程式。",
+          "answer": "HCl＋NaOH→NaCl＋H₂O。",
+          "explanation": "反应按1∶1计量，生成盐和水；左右原子数守恒。",
+          "check": {
+            "op": "balance",
+            "left": {
+              "HCl": 1,
+              "NaOH": 1
+            },
+            "right": {
+              "NaCl": 1,
+              "H2O": 1
+            }
+          },
+          "id": "953579700b3859be87753c38c39552e5",
+          "code": "SHC039-Q1"
+        },
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "向酸中加入碱后，是否一定得到中性溶液？",
+          "options": [
+            "一定",
+            "只要搅拌就一定",
+            "只看总体积即可确定",
+            "不一定，取决于物质种类和用量"
+          ],
+          "answer": "D",
+          "explanation": "酸或碱过量时仍可呈相应酸碱性；需测量或计算。",
+          "id": "9bb045e6ef71502f95a3e4cafa0734ce",
+          "code": "SHC039-Q2"
+        },
+        {
+          "type": "实验题",
+          "difficulty": 3,
+          "prompt": "观察不到明显现象的酸碱反应，可以设计哪些证据？",
+          "answer": "可结合规范使用指示剂、pH变化或控制条件下温度变化等证据，设置对照。",
+          "explanation": "任何单一现象都需排除稀释等因素，不能把任意温升都归因于中和。",
+          "check": null,
+          "id": "d389f8bfc368597db218038b8a5a98ac",
+          "code": "SHC039-Q3"
+        }
+      ],
+      "id": "b2f50e31dd9f5deead10254edae951a5",
+      "node_ids": [
+        "83e889dd0e2956019429afd9396e7b46",
+        "bb1e3088ec4c52cf909713ccfdedbdff"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "fe79b0450da757a395c5d58f0730ec25",
+      "theme_name": "主题五 常见的物质（下）",
+      "standard_scope": "物质的性质与应用：酸碱盐"
+    },
+    {
+      "code": "SHC040",
+      "node": "课题2 认识酸、碱、盐的性质与应用",
+      "name": "盐溶液中的沉淀反应与检验边界",
+      "definition": "部分盐溶液混合可形成难溶物，沉淀现象须结合试剂和排除干扰来解释。",
+      "requirements": "根据给定反应判断产物并限定结论。",
+      "mastery": [
+        "能写出碳酸盐与酸反应",
+        "能避免仅凭白色沉淀确定所有成分"
+      ],
+      "questions": [
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "写出碳酸钠与足量稀盐酸反应的方程式。",
+          "answer": "Na₂CO₃＋2HCl→2NaCl＋H₂O＋CO₂↑。",
+          "explanation": "碳酸盐与酸产生二氧化碳，碳酸钠、盐酸需按计量关系配平。",
+          "check": {
+            "op": "balance",
+            "left": {
+              "Na2CO3": 1,
+              "HCl": 2
+            },
+            "right": {
+              "NaCl": 2,
+              "H2O": 1,
+              "CO2": 1
+            }
+          },
+          "id": "0622d1e2955657bbb8c4c3b03fb46e30",
+          "code": "SHC040-Q1"
+        },
+        {
+          "type": "单选题",
+          "difficulty": 2,
+          "prompt": "CaCl₂溶液与Na₂CO₃溶液混合，常见沉淀主要是？",
+          "options": [
+            "H₂",
+            "O₂",
+            "CaCO₃",
+            "NaCl"
+          ],
+          "answer": "C",
+          "explanation": "Ca²⁺与CO₃²⁻生成难溶碳酸钙；NaCl仍可溶于水。",
+          "id": "9ed2d2b4cf505f16bc52dcb26feefa9f",
+          "code": "SHC040-Q2"
+        },
+        {
+          "type": "实验题",
+          "difficulty": 3,
+          "prompt": "未知溶液加入一种试剂出现白色沉淀，能否立即确定未知溶液所有溶质？",
+          "answer": "不能；应说明试剂、候选离子与干扰，并进行必要补充检验。",
+          "explanation": "现象可能不唯一，不能把一次检验扩展成对全部组成的证明。",
+          "check": null,
+          "id": "0b9c5afe1102529987910cc3585decd5",
+          "code": "SHC040-Q3"
+        }
+      ],
+      "id": "09e82b4696d95a7eb90273732a9f9336",
+      "node_ids": [
+        "83e889dd0e2956019429afd9396e7b46",
+        "bb1e3088ec4c52cf909713ccfdedbdff",
+        "7b12c6e549b6534d82860eec7c90a061"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "fe79b0450da757a395c5d58f0730ec25",
+      "theme_name": "主题五 常见的物质（下）",
+      "standard_scope": "物质的性质与应用：酸碱盐"
+    },
+    {
+      "code": "SHC041",
+      "node": "课题3 调节土壤酸碱性与施用营养元素",
+      "name": "土壤酸碱性测定与合理改良",
+      "definition": "土壤浸出液pH可辅助评价酸碱性，改良应依据检测、作物要求和适宜用量。",
+      "requirements": "用证据选择改良方向。",
+      "mastery": [
+        "能提出规范取样比较",
+        "能避免过量施用"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "检测发现土壤过酸且需改良时，下列原则合理的是？",
+          "options": [
+            "直接加入大量浓酸",
+            "不测量只看颜色",
+            "依据检测和农艺指导适量使用合适改良剂",
+            "越多熟石灰越好"
+          ],
+          "answer": "C",
+          "explanation": "改良剂和用量需结合土壤与作物条件，过度改良可能造成危害。",
+          "id": "3603ad130961571daad7ab9cdb5c161e",
+          "code": "SHC041-Q1"
+        },
+        {
+          "type": "实验题",
+          "difficulty": 2,
+          "prompt": "比较两块地土壤pH时，为什么要统一取样和浸提方法？",
+          "answer": "取样深度、土水比例和浸提时间等会影响测定结果，统一方法有利于可比。",
+          "explanation": "测得浸出液不等于土壤一切性质，结论应限定条件。",
+          "check": null,
+          "id": "14fd11c7c00e5b26b55c3d9d9d0eaf96",
+          "code": "SHC041-Q2"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "喜酸植物长势不佳，能否未经检测一律撒石灰？",
+          "answer": "不能；应先核实pH、养分及其他生长条件。",
+          "explanation": "单一症状不能确定酸碱问题，盲目升高pH可能使情况恶化。",
+          "check": null,
+          "id": "665eb4d190c557cfb42f677818757d07",
+          "code": "SHC041-Q3"
+        }
+      ],
+      "id": "6c9020dca00b54d99ed5427497537723",
+      "node_ids": [
+        "ef55e7aa7ece5998b0c25a0230080b3b",
+        "bb1e3088ec4c52cf909713ccfdedbdff"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "fe79b0450da757a395c5d58f0730ec25",
+      "theme_name": "主题五 常见的物质（下）",
+      "standard_scope": "物质的性质与应用：酸碱盐"
+    },
+    {
+      "code": "SHC042",
+      "node": "课题3 调节土壤酸碱性与施用营养元素",
+      "name": "肥料元素识别与合理施肥",
+      "definition": "氮磷钾是植物重要营养元素，肥料选择需兼顾元素含量、土壤和环境影响。",
+      "requirements": "从化学式识别营养元素并作简单计算。",
+      "mastery": [
+        "能识别复合肥所供元素",
+        "能计算给定肥料含氮量"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "KNO₃可同时提供哪些常见肥料营养元素？",
+          "options": [
+            "只有碳",
+            "氮和钾",
+            "磷和钾",
+            "氮和磷"
+          ],
+          "answer": "B",
+          "explanation": "式中含K和N，不含P；不是按化学式字符数量判断含量。",
+          "id": "86a738babbb7574f99aed084def9d38f",
+          "code": "SHC042-Q1"
+        },
+        {
+          "type": "计算题",
+          "difficulty": 3,
+          "prompt": "纯尿素CO(NH₂)₂的相对分子质量为60，N相对原子质量14，其氮元素质量分数约多少？保留一位小数。",
+          "answer": "46.7%。",
+          "explanation": "每个分子含2个N，氮质量份额28；28/60×100%≈46.7%。",
+          "check": {
+            "op": "fraction_product",
+            "values": [
+              28,
+              100,
+              60
+            ],
+            "expected": "46.7",
+            "round": 1
+          },
+          "id": "c4120e302c8153108a83b3fba9390644",
+          "code": "SHC042-Q2"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "施肥是否越多越好？从资源和环境角度各说一点。",
+          "answer": "不是；过量造成资源浪费，还可能导致水体富营养化等环境问题。",
+          "explanation": "需要依据土壤检测和作物需求合理施肥，不能用“营养必需”推出“无限添加”。",
+          "check": null,
+          "id": "78b4e03b9eff572db195d4e7408d5354",
+          "code": "SHC042-Q3"
+        }
+      ],
+      "id": "c26d637b7aa95572a05b8729959f430a",
+      "node_ids": [
+        "ef55e7aa7ece5998b0c25a0230080b3b",
+        "bb1e3088ec4c52cf909713ccfdedbdff"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "fe79b0450da757a395c5d58f0730ec25",
+      "theme_name": "主题五 常见的物质（下）",
+      "standard_scope": "物质的性质与应用：酸碱盐"
+    },
+    {
+      "code": "SHC043",
+      "node": "课题1 认识燃烧与燃料",
+      "name": "燃烧条件与证据分析",
+      "definition": "常见可燃物燃烧需可燃物、适当氧化剂和达到着火条件；常用初中情境讨论氧气参与的燃烧。",
+      "requirements": "运用燃烧条件分析现象。",
+      "mastery": [
+        "能识别条件缺失",
+        "能区分温度与着火点"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "常见可燃物在空气中持续燃烧，以下哪项是必要条件之一？",
+          "options": [
+            "达到相应着火条件",
+            "必须有水",
+            "必须在密闭容器",
+            "所有物质都要100℃"
+          ],
+          "answer": "A",
+          "explanation": "不同物质着火条件不同，不能把沸点或一个固定温度通用于所有燃烧。",
+          "id": "eb727ffd50a75ec483f51512e567b3cb",
+          "code": "SHC043-Q1"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "“浇水灭火是降低了可燃物的着火点”有什么问题？",
+          "answer": "通常是降温至着火条件以下，并非改变物质的着火点。",
+          "explanation": "温度是体系状态，着火点是在一定条件下表征物质的指标，不能混淆。",
+          "check": null,
+          "id": "9934fda6df2950d2b17fa16a99492429",
+          "code": "SHC043-Q2"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "纸在空气中但未被点燃，能否据此说纸不是可燃物？",
+          "answer": "不能；有可燃物和氧气仍可能缺少达到着火条件。",
+          "explanation": "燃烧条件应综合判断，不能以一次未燃烧否定可燃性。",
+          "check": null,
+          "id": "1b06d22a88d75bc7af5a200826a350e5",
+          "code": "SHC043-Q3"
+        }
+      ],
+      "id": "8aafb5bd40b553539c4a01b08c476dc3",
+      "node_ids": [
+        "318348107063595ea87c76aaec48e08f",
+        "7590ae76ee09578c8ab76653c37b88dd"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "81f43dd036a654129411248612d3f783",
+      "theme_name": "主题六 物质的化学变化（下）",
+      "standard_scope": "物质的化学变化：反应条件与调控"
+    },
+    {
+      "code": "SHC044",
+      "node": "课题1 认识燃烧与燃料",
+      "name": "完全燃烧、不完全燃烧与一氧化碳风险",
+      "definition": "含碳燃料在条件不足时可能产生一氧化碳等，CO无色无味且有毒，不能依赖嗅觉判断。",
+      "requirements": "联系供氧、产物和安全风险。",
+      "mastery": [
+        "能辨认CO危险",
+        "能正确书写完全燃烧反应"
+      ],
+      "questions": [
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "写出甲烷完全燃烧的化学方程式。",
+          "answer": "CH₄＋2O₂→CO₂＋2H₂O，条件为点燃。",
+          "explanation": "C、H、O原子数分别守恒，氧气系数是2。",
+          "check": {
+            "op": "balance",
+            "left": {
+              "CH4": 1,
+              "O2": 2
+            },
+            "right": {
+              "CO2": 1,
+              "H2O": 2
+            }
+          },
+          "id": "09084c76124c5688b2e7853c2d0821c4",
+          "code": "SHC044-Q1"
+        },
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "用“没有闻到异味”证明室内燃烧安全，主要错误是？",
+          "options": [
+            "CO是有色固体",
+            "只要关窗就安全",
+            "CO无色无味，不能靠嗅觉排除",
+            "所有危险气体都是香的"
+          ],
+          "answer": "C",
+          "explanation": "燃烧器具需按规定使用并通风，怀疑泄漏应离开危险区域寻求专业处理。",
+          "id": "70143bcf01b7551bab5fa14a7acb0a57",
+          "code": "SHC044-Q2"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 3,
+          "prompt": "足量氧气一定保证任意装置中燃料完全燃烧吗？",
+          "answer": "不一定；还受混合、温度和停留时间等条件影响。",
+          "explanation": "“充足供氧有利于完全燃烧”不等于无需考虑其他过程条件。",
+          "check": null,
+          "id": "aedc5c1532c85551986192a6f88718d3",
+          "code": "SHC044-Q3"
+        }
+      ],
+      "id": "4dac4f47c7a95c19b5002bd714bebb7a",
+      "node_ids": [
+        "318348107063595ea87c76aaec48e08f",
+        "7590ae76ee09578c8ab76653c37b88dd"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "81f43dd036a654129411248612d3f783",
+      "theme_name": "主题六 物质的化学变化（下）",
+      "standard_scope": "物质的化学变化：反应条件与调控"
+    },
+    {
+      "code": "SHC045",
+      "node": "课题2 调控燃烧的方法",
+      "name": "灭火原理与适用条件",
+      "definition": "灭火可通过降温、隔绝氧气或移除可燃物等方式破坏燃烧条件，具体方法应匹配火源风险。",
+      "requirements": "说明灭火措施及适用边界。",
+      "mastery": [
+        "能将措施与条件对应",
+        "能识别不能盲目用水的场景"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "用合适灭火毯覆盖小范围火源，主要利用什么原理？",
+          "options": [
+            "提高温度",
+            "增加燃料",
+            "隔绝空气",
+            "生成更多氧气"
+          ],
+          "answer": "C",
+          "explanation": "覆盖有助于隔绝氧气；实际须在确保安全、按规范操作的条件下进行。",
+          "id": "b283300e610f5b1aa276c6e84f18718b",
+          "code": "SHC045-Q1"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "燃油或带电设备起火，为什么不能不分情况直接大量泼水？",
+          "answer": "可能造成燃油扩散、触电等风险，应按火灾类别使用合适器材并及时报警。",
+          "explanation": "灭火措施须匹配对象，不建议学生自行处理危险火灾。",
+          "check": null,
+          "id": "62cd5a7532a4563789162c84fed5a5e5",
+          "code": "SHC045-Q2"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "关闭燃气阀门可切断哪一燃烧条件？",
+          "answer": "切断可燃物持续供给。",
+          "explanation": "从源头移除燃料可阻止持续燃烧；操作须确保人身安全。",
+          "check": null,
+          "id": "3c641202d8ff555ba59c4b2cbc806ecc",
+          "code": "SHC045-Q3"
+        }
+      ],
+      "id": "e4b34e82d274519b9b2f654f218ae6fd",
+      "node_ids": [
+        "b22f7ff5878b55b19f067cafcd3b07d8",
+        "7590ae76ee09578c8ab76653c37b88dd"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "81f43dd036a654129411248612d3f783",
+      "theme_name": "主题六 物质的化学变化（下）",
+      "standard_scope": "物质的化学变化：反应条件与调控"
+    },
+    {
+      "code": "SHC046",
+      "node": "课题2 调控燃烧的方法",
+      "name": "反应速率与条件调控",
+      "definition": "温度、接触面积、浓度和催化剂等可影响速率，具体影响需在对应反应条件下检验。",
+      "requirements": "设计单变量速率实验。",
+      "mastery": [
+        "能区分速率与总产量",
+        "能控制比较条件"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 2,
+          "prompt": "同质量同纯度碳酸钙与足量同浓度酸反应，粉末常比块状反应快，主要原因是？",
+          "options": [
+            "质量守恒失效",
+            "接触面积较大",
+            "总碳元素必定更多",
+            "粉末凭空生成原子"
+          ],
+          "answer": "B",
+          "explanation": "质量和反应物组成相同，但表面积可影响速率。",
+          "id": "6eb824d8232451d596e06b3dcbd9290a",
+          "code": "SHC046-Q1"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "催化剂使某反应更快，能否推出相同反应物完全反应的产物一定更多？",
+          "answer": "不能；速率变化不能直接等同于理论总产量变化。",
+          "explanation": "理论产量主要取决于反应物用量和计量关系；需区分有限时间产量和最终产量。",
+          "check": null,
+          "id": "c2d4bf78b3935acda8ab4eddfb9d139e",
+          "code": "SHC046-Q2"
+        },
+        {
+          "type": "实验题",
+          "difficulty": 2,
+          "prompt": "比较温度对某反应速率的影响时，改变温度又改变酸浓度会有什么问题？",
+          "answer": "无法将速率差异单独归因于温度；应保持浓度等其他条件一致。",
+          "explanation": "对照实验需控制干扰变量，记录比较指标和测量时长。",
+          "check": null,
+          "id": "07bb91177bd95166a6158833344aee38",
+          "code": "SHC046-Q3"
+        }
+      ],
+      "id": "95b3f4d78949517c815540d1ba01c13e",
+      "node_ids": [
+        "b22f7ff5878b55b19f067cafcd3b07d8",
+        "7590ae76ee09578c8ab76653c37b88dd"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "81f43dd036a654129411248612d3f783",
+      "theme_name": "主题六 物质的化学变化（下）",
+      "standard_scope": "物质的化学变化：反应条件与调控"
+    },
+    {
+      "code": "SHC047",
+      "node": "课题3 防止金属腐蚀的措施",
+      "name": "铁锈形成的条件与对照",
+      "definition": "通常铁生锈与水、氧气共同作用有关，盐等因素可影响速率，铁锈不是一种纯净物。",
+      "requirements": "由对照证据分析生锈条件。",
+      "mastery": [
+        "能设计水与氧气对照",
+        "能限定实验结论"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "铁钉通常生锈需要主要接触哪些条件？",
+          "options": [
+            "水和氧气",
+            "仅纯氮气",
+            "仅干燥真空",
+            "只要有任何光"
+          ],
+          "answer": "A",
+          "explanation": "水、氧气共同作用是常见教学情境的关键条件，具体速率还受介质影响。",
+          "id": "5d32fcb162ae5175b8f9697d71de21f5",
+          "code": "SHC047-Q1"
+        },
+        {
+          "type": "实验题",
+          "difficulty": 2,
+          "prompt": "研究氧气对铁锈的影响，去氧水中铁钉为什么还需隔绝空气？",
+          "answer": "防止空气中氧气重新溶入水，破坏缺氧对照条件。",
+          "explanation": "实验操作需保证所声称的条件真实存在，不能只依据装置名称。",
+          "check": null,
+          "id": "306275feb10f5f788eb29315e8a15515",
+          "code": "SHC047-Q2"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "铁钉生锈后质量增加，是否违反质量守恒？",
+          "answer": "不违反；铁与环境中的氧、水等结合，单独铁钉不再是封闭体系。",
+          "explanation": "应把参加过程的环境物质纳入质量边界。",
+          "check": null,
+          "id": "379a7eed11e059a3abcab36ddf5a7ccc",
+          "code": "SHC047-Q3"
+        }
+      ],
+      "id": "9aff58929da259ecac63017f2d89350b",
+      "node_ids": [
+        "8268a261d0ee53c08ccef7f24db191ed",
+        "7590ae76ee09578c8ab76653c37b88dd"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "81f43dd036a654129411248612d3f783",
+      "theme_name": "主题六 物质的化学变化（下）",
+      "standard_scope": "物质的化学变化：反应条件与调控"
+    },
+    {
+      "code": "SHC048",
+      "node": "课题3 防止金属腐蚀的措施",
+      "name": "表面防护与金属资源利用",
+      "definition": "涂层、镀层等可通过阻隔或其他机制减缓腐蚀，防护效果依赖材料与涂层完整性。",
+      "requirements": "结合使用环境选择防护并认识回收价值。",
+      "mastery": [
+        "能解释涂漆隔绝作用",
+        "能说明破损影响"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "铁制品涂上合适油漆常能减缓生锈，主要作用是？",
+          "options": [
+            "把铁变成金",
+            "提高铁的原子序数",
+            "永久消除任何腐蚀",
+            "阻隔水和氧气接触"
+          ],
+          "answer": "D",
+          "explanation": "涂层完整性和环境会影响防护效果，不能保证永远不腐蚀。",
+          "id": "95e12de1aa8c5f85ab3b86144e6ccf95",
+          "code": "SHC048-Q1"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "铁门油漆破损后更易局部生锈，应怎样解释并维护？",
+          "answer": "破损处铁暴露于水和氧气；应按规范清理并修复防护层。",
+          "explanation": "防护需结合实际材料工艺，不是任何涂层一次完成即可永久有效。",
+          "check": null,
+          "id": "c1a66dc03f3651f4ae50f88dc366afdc",
+          "code": "SHC048-Q2"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "回收废金属为什么有价值？",
+          "answer": "可节约原生矿产和部分能源，减少不当处置造成的环境负担。",
+          "explanation": "回收还需分类和合适处理，不能认定所有回收过程完全无环境成本。",
+          "check": null,
+          "id": "0aa17853e4a1596791815cdb2f5a52ca",
+          "code": "SHC048-Q3"
+        }
+      ],
+      "id": "ef84c51794955d5bb214952750cfcf7b",
+      "node_ids": [
+        "8268a261d0ee53c08ccef7f24db191ed",
+        "7590ae76ee09578c8ab76653c37b88dd"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "81f43dd036a654129411248612d3f783",
+      "theme_name": "主题六 物质的化学变化（下）",
+      "standard_scope": "物质的化学变化：反应条件与调控"
+    },
+    {
+      "code": "SHC049",
+      "node": "课题1 化学引领新能源的开发",
+      "name": "氢能的反应与全流程评价",
+      "definition": "氢可作能量载体，使用环节生成水，但制氢、储运的能耗和排放须一并评价。",
+      "requirements": "区分使用环节与生命周期。",
+      "mastery": [
+        "能说明氢不是凭空产生的能源",
+        "能配平氢的氧化反应"
+      ],
+      "questions": [
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "氢气与氧气反应生成水，写出配平后的方程式。",
+          "answer": "2H₂＋O₂→2H₂O。",
+          "explanation": "左右H均4、O均2；燃烧需点燃，燃料电池中则为受控电化学过程。",
+          "check": {
+            "op": "balance",
+            "left": {
+              "H2": 2,
+              "O2": 1
+            },
+            "right": {
+              "H2O": 2
+            }
+          },
+          "id": "b1e61c20244c544ab7adec1131bf88c8",
+          "code": "SHC049-Q1"
+        },
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "“氢使用时可生成水，所以所有制氢方式都零碳”错在？",
+          "options": [
+            "只要无色就零碳",
+            "忽略制备、储运的能耗与排放",
+            "水完全不含元素",
+            "氢一定来自矿石"
+          ],
+          "answer": "B",
+          "explanation": "应核算全流程边界，不能把终端产物等同于全过程排放。",
+          "id": "95f0fe9b025b5da68642ce28c9812acc",
+          "code": "SHC049-Q2"
+        },
+        {
+          "type": "计算题",
+          "difficulty": 3,
+          "prompt": "某示例工艺消耗10kWh电制氢，电力排放因子0.5kgCO₂/kWh，仅电耗对应排放多少？",
+          "answer": "5kgCO₂。",
+          "explanation": "10×0.5＝5kgCO₂；这只是给定边界的计算，不代表某真实工厂实测。",
+          "check": {
+            "op": "product",
+            "values": [
+              10,
+              0.5
+            ],
+            "expected": "5"
+          },
+          "id": "3e1a3d271a9f555c87a271009b4fa701",
+          "code": "SHC049-Q3"
+        }
+      ],
+      "id": "0bf6b814be015b93b249309899962c26",
+      "node_ids": [
+        "c25a1f2e52515d9ca72a499b5dfcd7cc",
+        "f1d2ad12bcb65135a9fbfa593d633dc0"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "81f43dd036a654129411248612d3f783",
+      "theme_name": "主题六 物质的化学变化（下）",
+      "standard_scope": "化学与社会·跨学科实践"
+    },
+    {
+      "code": "SHC050",
+      "node": "课题1 化学引领新能源的开发",
+      "name": "电池中的能量转化与循环",
+      "definition": "常见化学电源放电将化学能转化为电能，充电反向储能但存在损耗，不能创造能量。",
+      "requirements": "解释电化学储能的能量来源。",
+      "mastery": [
+        "能区分能源与储能装置",
+        "能识别效率含义"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "常见电池放电时主要发生哪种能量转化？",
+          "options": [
+            "质量完全消失",
+            "化学能转化为电能",
+            "无中生有创造电能",
+            "电能必然全变核能"
+          ],
+          "answer": "B",
+          "explanation": "化学反应提供可输出的电能，实际还伴随热等能量转化。",
+          "id": "507739887bc653cf9c448371019e0c54",
+          "code": "SHC050-Q1"
+        },
+        {
+          "type": "计算题",
+          "difficulty": 2,
+          "prompt": "某储能装置输入100kWh、可输出80kWh，按此定义输出/输入效率是多少？",
+          "answer": "80%。",
+          "explanation": "80÷100×100%＝80%，不能超过输入而凭空产能。",
+          "check": {
+            "op": "fraction_product",
+            "values": [
+              80,
+              100,
+              100
+            ],
+            "expected": "80"
+          },
+          "id": "8cc526814f8d5e808e4d9b05e8e1cfad",
+          "code": "SHC050-Q2"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "评价电池是否环保，只看使用时没有尾气够吗？",
+          "answer": "不够，还需考虑原料开采、生产能耗、寿命和废旧回收处理等。",
+          "explanation": "生命周期评价可避免把一个环节的优点扩大为全部结论。",
+          "check": null,
+          "id": "deed58d1476951bf9922c695fe3fbdcc",
+          "code": "SHC050-Q3"
+        }
+      ],
+      "id": "8b34260c94e45e139017d7f18640c101",
+      "node_ids": [
+        "c25a1f2e52515d9ca72a499b5dfcd7cc",
+        "f1d2ad12bcb65135a9fbfa593d633dc0"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "81f43dd036a654129411248612d3f783",
+      "theme_name": "主题六 物质的化学变化（下）",
+      "standard_scope": "化学与社会·跨学科实践"
+    },
+    {
+      "code": "SHC051",
+      "node": "课题2 健康生活离不开化学",
+      "name": "营养元素、摄入量与健康边界",
+      "definition": "人体需要适量营养素和矿物元素，必需不等于越多越好，健康判断不能由单一化学信息替代。",
+      "requirements": "区分元素、营养成分与摄入剂量。",
+      "mastery": [
+        "能说明适量原则",
+        "能辨认化合物质量不等于元素质量"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "“人体需要铁，所以铁补充剂越多越好”合理吗？",
+          "options": [
+            "不合理，摄入量和个体情况需按专业建议",
+            "合理，因为铁是元素",
+            "合理，因为所有盐都可食",
+            "合理，因为没有剂量限制"
+          ],
+          "answer": "A",
+          "explanation": "必需性不意味着无限摄入，不能由课堂知识自行作医疗决定。",
+          "id": "631d1bd69561599a92571a9d6309a4ea",
+          "code": "SHC051-Q1"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "标签说某化合物含量100mg，能否直接当作其中某营养元素含量100mg？",
+          "answer": "不能；需根据化合物组成和实际标示折算，且分清标签所用口径。",
+          "explanation": "化合物质量与其中元素质量不是同一个量。",
+          "check": null,
+          "id": "a441fdee09a75f1fafbbf05b23398d24",
+          "code": "SHC051-Q2"
+        },
+        {
+          "type": "计算题",
+          "difficulty": 3,
+          "prompt": "碳酸钙CaCO₃相对式量100，其中Ca相对原子质量40。250mg纯碳酸钙含Ca多少mg？",
+          "answer": "100mg。",
+          "explanation": "钙质量分数40/100＝40%，250×40%＝100mg。这只是组成计算，不是服用建议。",
+          "check": {
+            "op": "fraction_product",
+            "values": [
+              250,
+              40,
+              100
+            ],
+            "expected": "100"
+          },
+          "id": "3429da357f08588ba182e316b6a40d02",
+          "code": "SHC051-Q3"
+        }
+      ],
+      "id": "b922fd5d8beb5903a6d512644f0b38a7",
+      "node_ids": [
+        "bccffe047b325551803fc7c1f8c8d906",
+        "f1d2ad12bcb65135a9fbfa593d633dc0"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "81f43dd036a654129411248612d3f783",
+      "theme_name": "主题六 物质的化学变化（下）",
+      "standard_scope": "化学与社会·跨学科实践"
+    },
+    {
+      "code": "SHC052",
+      "node": "课题2 健康生活离不开化学",
+      "name": "食品与日用品的成分及风险判断",
+      "definition": "物质安全与成分、剂量和使用方式相关，天然或合成标签本身不能决定安全。",
+      "requirements": "用证据辨别常见安全误区。",
+      "mastery": [
+        "能避免天然即安全的推断",
+        "能阅读规范使用信息"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "判断一种日用品是否适合某用途，最合理的是？",
+          "options": [
+            "只看是否天然",
+            "只看颜色漂亮",
+            "闻起来香就能入口",
+            "查看成分、使用说明及规范检测信息"
+          ],
+          "answer": "D",
+          "explanation": "安全需结合成分、浓度、接触途径和用途，不能只靠宣传词。",
+          "id": "12118be963b25deea92736f773df72bb",
+          "code": "SHC052-Q1"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "为什么不能混用不同清洁剂来“增强效果”？",
+          "answer": "成分可能发生危险反应，释放有害气体或增加腐蚀风险，应遵守产品说明。",
+          "explanation": "例如含氯清洁剂不能随意与酸性产品混合；不应自行实验验证。",
+          "check": null,
+          "id": "55a11e2037425ff9bb92f7feb7ec6901",
+          "code": "SHC052-Q2"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "“不含任何化学物质的食品”这一宣传为何不科学？",
+          "answer": "食品本身由水、蛋白质、糖类等化学物质组成；应讨论具体成分和合规安全性。",
+          "explanation": "化学物质不是有毒物的同义词，也不意味着所有物质都安全。",
+          "check": null,
+          "id": "de705e92ef3855d3b535f7dca26cac33",
+          "code": "SHC052-Q3"
+        }
+      ],
+      "id": "db74d34cac6c509fae95aa4bd3dbb584",
+      "node_ids": [
+        "bccffe047b325551803fc7c1f8c8d906",
+        "f1d2ad12bcb65135a9fbfa593d633dc0"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "81f43dd036a654129411248612d3f783",
+      "theme_name": "主题六 物质的化学变化（下）",
+      "standard_scope": "化学与社会·跨学科实践"
+    },
+    {
+      "code": "SHC053",
+      "node": "课题3 化学为人类提供丰富的材料",
+      "name": "材料分类、结构与用途选择",
+      "definition": "金属、无机非金属、有机合成及复合材料各有特性，材料选择需综合性能和使用条件。",
+      "requirements": "用具体性能解释材料用途。",
+      "mastery": [
+        "能辨认典型材料",
+        "能说明单一性能不足以选材"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "塑料通常属于哪类材料？",
+          "options": [
+            "所有情况下的陶瓷",
+            "单一元素",
+            "有机合成材料",
+            "纯金属"
+          ],
+          "answer": "C",
+          "explanation": "常见塑料为有机高分子材料，具体性能因组成和结构而异。",
+          "id": "5ffd559a88905bffaf58f4cb7b1c1055",
+          "code": "SHC053-Q1"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "某承重材料强度高但高温下迅速软化，能否仅因强度高就用于高温承重？",
+          "answer": "不能，需综合耐温、强度、环境稳定性等条件。",
+          "explanation": "材料性能必须在实际服役条件下评价，不能脱离温度等条件比较。",
+          "check": null,
+          "id": "c9bcc862114c513a9ce1b726954f67a1",
+          "code": "SHC053-Q2"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "合金为什么不一定保留组成金属的全部性质？",
+          "answer": "组成和内部结构改变，可使硬度、熔化行为、耐蚀性等发生变化。",
+          "explanation": "不能用一种组成元素的性质直接替代整个材料的实测性能。",
+          "check": null,
+          "id": "642e50b2cbe7554293a1053fee275a3a",
+          "code": "SHC053-Q3"
+        }
+      ],
+      "id": "4fca2eee43405b9fa925082716ad71dc",
+      "node_ids": [
+        "c3f3a4882b1954a2a5df4ba89e2af019",
+        "f1d2ad12bcb65135a9fbfa593d633dc0"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "81f43dd036a654129411248612d3f783",
+      "theme_name": "主题六 物质的化学变化（下）",
+      "standard_scope": "化学与社会·跨学科实践"
+    },
+    {
+      "code": "SHC054",
+      "node": "课题3 化学为人类提供丰富的材料",
+      "name": "材料循环与环境权衡",
+      "definition": "减量、复用和回收有助于资源利用，但需结合分类、加工能耗和污染控制评价。",
+      "requirements": "基于明确边界比较材料方案。",
+      "mastery": [
+        "能提出分类回收措施",
+        "能避免单指标环保结论"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "评价包装方案的环境影响，较完整的做法是？",
+          "options": [
+            "只看广告声称可降解",
+            "比较原料、使用次数、运输和回收等环节",
+            "只看重量",
+            "只看是否绿色"
+          ],
+          "answer": "B",
+          "explanation": "应明确比较边界和实际处理条件，不能依赖单一标签。",
+          "id": "a0585a49ac845423b09b080d550b531d",
+          "code": "SHC054-Q1"
+        },
+        {
+          "type": "计算题",
+          "difficulty": 2,
+          "prompt": "某示例包装原方案每次用20g材料，改为15g，使用100次可减少多少克投入？",
+          "answer": "500g。",
+          "explanation": "(20－15)×100＝500g；不包含其他环节，不能直接称为总碳减排量。",
+          "check": {
+            "op": "difference_product",
+            "values": [
+              20,
+              15,
+              100
+            ],
+            "expected": "500"
+          },
+          "id": "f22508dcef8b5c9795ef38051f6924b1",
+          "code": "SHC054-Q2"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "“可降解”包装随意丢弃是否就没有环境问题？",
+          "answer": "不是；降解通常有特定条件，随意丢弃仍可能造成污染和资源浪费。",
+          "explanation": "应按实际收集和处理体系处置，不能以材料标签代替负责任的使用。",
+          "check": null,
+          "id": "4b774af43e0c5ab682af6ea548756ad0",
+          "code": "SHC054-Q3"
+        }
+      ],
+      "id": "a394c13a005a57d586342ae2b341b180",
+      "node_ids": [
+        "c3f3a4882b1954a2a5df4ba89e2af019",
+        "f1d2ad12bcb65135a9fbfa593d633dc0",
+        "7b12c6e549b6534d82860eec7c90a061"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "81f43dd036a654129411248612d3f783",
+      "theme_name": "主题六 物质的化学变化（下）",
+      "standard_scope": "化学与社会·跨学科实践"
+    },
+    {
+      "code": "SHC055",
+      "node": "跨学科实践活动 生活垃圾的分类与回收利用",
+      "name": "垃圾分类中的成分证据与回收边界",
+      "definition": "分类应依据物品成分、污染情况和当地规则，危险废物不能混作普通可回收物。",
+      "requirements": "建立有依据的分类方案。",
+      "mastery": [
+        "能说明分类依据",
+        "能识别危险废物处理边界"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "废弃实验试剂应如何处理？",
+          "options": [
+            "按实验室规定分类收集，不混入普通垃圾",
+            "倒入下水道",
+            "和纸张混合回收",
+            "靠气味自行判断后倒掉"
+          ],
+          "answer": "A",
+          "explanation": "实验废弃物可能有危险性，应交由规范渠道处理。",
+          "id": "f194643e4ea153bbaebb240d7ddf1b40",
+          "code": "SHC055-Q1"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "沾满油污的纸与干净纸能否不加区分都按同一种回收条件处理？",
+          "answer": "不能，应按当地分类规范及污染程度判断。",
+          "explanation": "污染可能影响回收工艺和质量，不把材料名称作为唯一依据。",
+          "check": null,
+          "id": "0b1531c56c3b562da64821d0780d3f51",
+          "code": "SHC055-Q2"
+        },
+        {
+          "type": "综合题",
+          "difficulty": 3,
+          "prompt": "制定校园回收方案时，除分类标签外还应收集哪些证据？",
+          "answer": "可记录各类数量、污染情况、实际回收渠道和处理要求。",
+          "explanation": "方案需要对应可执行的流向，不能仅制作宣传口号。",
+          "check": null,
+          "id": "5bd0ba5d658755a5aa652afff582e890",
+          "code": "SHC055-Q3"
+        }
+      ],
+      "id": "2018a67431c8537dba12180bba0ed22c",
+      "node_ids": [
+        "8559236f922d5a8cb2c16f507066952c",
+        "66fc5356a0f75da382de0126ec3a72d3"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "c90047ba8abe59ee941e48ad9b20244d",
+      "theme_name": "主题一 化学的魅力",
+      "standard_scope": "化学与社会·跨学科实践"
+    },
+    {
+      "code": "SHC056",
+      "node": "跨学科实践活动 微型空气质量“检测站”的组装与使用",
+      "name": "空气监测指标与测量可靠性",
+      "definition": "检测仪测得特定指标，不等于完整空气安全评价；需要校准、对照和记录条件。",
+      "requirements": "区分测量值与结论。",
+      "mastery": [
+        "能说明监测指标局限",
+        "能提出校准和重复测量"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "仅测得某时刻CO₂浓度正常，能否证明所有空气污染物均安全？",
+          "options": [
+            "能，因为空气只有CO₂",
+            "能，因为所有仪器相同",
+            "能，因为不必考虑时间",
+            "不能，检测范围有限"
+          ],
+          "answer": "D",
+          "explanation": "不同污染物需对应检测方法，单项指标不能替代全部评价。",
+          "id": "6373e57d96095458b33f029459773f4f",
+          "code": "SHC056-Q1"
+        },
+        {
+          "type": "实验题",
+          "difficulty": 2,
+          "prompt": "同地点两台微型检测仪读数差异明显，应先做什么？",
+          "answer": "核对单位、校准、量程、时间同步和采样位置，并重复比较。",
+          "explanation": "不能直接选择较好看的数值，测量条件与仪器误差均需检查。",
+          "check": null,
+          "id": "89c0817a454c5b2c82c4873db6847498",
+          "code": "SHC056-Q2"
+        },
+        {
+          "type": "计算题",
+          "difficulty": 2,
+          "prompt": "示例传感器三次读数为20、22、21，单位相同，其算术平均值是多少？",
+          "answer": "21。",
+          "explanation": "(20＋22＋21)÷3＝21；平均不代表没有误差，也不是健康诊断。",
+          "check": {
+            "op": "mean",
+            "values": [
+              20,
+              22,
+              21
+            ],
+            "expected": "21"
+          },
+          "id": "7088f23bb3e75d49b876f7644e86dd8f",
+          "code": "SHC056-Q3"
+        }
+      ],
+      "id": "38c0529125a752ea993b55622c9d3955",
+      "node_ids": [
+        "4ee1c5556c19524eb3dfbe448624df64",
+        "306dabdd61b250cba0c81b8f185ee503"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "c90047ba8abe59ee941e48ad9b20244d",
+      "theme_name": "主题一 化学的魅力",
+      "standard_scope": "化学与社会·跨学科实践"
+    },
+    {
+      "code": "SHC057",
+      "node": "跨学科实践活动 基于特定需求设计和制作简易供氧器",
+      "name": "简易制氧装置的工程约束与安全",
+      "definition": "教学制氧装置需考虑供气速率、气密性、材料兼容与压力释放，不能作为医疗设备。",
+      "requirements": "根据约束评价装置方案。",
+      "mastery": [
+        "能提出安全检验项目",
+        "能区分教学模型与医疗用途"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "教学制氧装置最不应采用哪种做法？",
+          "options": [
+            "控制反应速率",
+            "在教师指导下操作",
+            "完全封死出气口继续反应",
+            "检查气密性"
+          ],
+          "answer": "C",
+          "explanation": "封死反应气体出口可造成超压，气密性与安全泄压要求不能混淆。",
+          "id": "9ad64cadaa8c5828a8ddbb444a17c955",
+          "code": "SHC057-Q1"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "为什么不能把课堂制作的供氧器直接用于病人吸氧？",
+          "answer": "气体纯度、流量、安全和卫生条件未经医疗验证，不具备医疗设备资格。",
+          "explanation": "教学模型仅用于受控学习活动，不能替代专业设备。",
+          "check": null,
+          "id": "bbf8c64e95c35e138fc89b6c3056cdfd",
+          "code": "SHC057-Q2"
+        },
+        {
+          "type": "实验题",
+          "difficulty": 3,
+          "prompt": "比较两个制氧方案，除总产气量还应记录什么？",
+          "answer": "单位时间产气量、稳定性、温度变化、装置密封和压力安全等。",
+          "explanation": "相同总产量不等于相同工程表现，需按给定约束比较。",
+          "check": null,
+          "id": "13992601e1f9514e9db8f1876f5e9e7b",
+          "code": "SHC057-Q3"
+        }
+      ],
+      "id": "a572bccec8e2516c86e2ab9694378e7c",
+      "node_ids": [
+        "00225e78a4585756801fce74c0ac4405",
+        "1aa02a2259bb50419556ae78bcc9abea"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "0f2779a6ca6e5500828789c9962a4b47",
+      "theme_name": "主题二 常见的物质（上）",
+      "standard_scope": "化学与社会·跨学科实践"
+    },
+    {
+      "code": "SHC058",
+      "node": "跨学科实践活动 水质检测及自制净水器",
+      "name": "净水方案的指标选择与对照验证",
+      "definition": "净水效果须按明确指标前后比较，清澈和单一指标改善不证明可饮用。",
+      "requirements": "设计受控净水效果验证。",
+      "mastery": [
+        "能设置前后和空白对照",
+        "能限定水质结论"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "净水实验中应优先采用什么证据证明某过滤层减少悬浮颗粒？",
+          "options": [
+            "假定所有离子已去除",
+            "相同方法比较过滤前后浊度等相关指标",
+            "仅看容器漂亮",
+            "只闻一次"
+          ],
+          "answer": "B",
+          "explanation": "需选择与目标相符的指标，控制取样条件。",
+          "id": "99e0b6d1a6085cdbb4343571f6df5b54",
+          "code": "SHC058-Q1"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "装有活性炭的净水器出水无色，能说明已去除所有细菌吗？",
+          "answer": "不能；颜色改善不等于杀菌，需专门检测和合格处理。",
+          "explanation": "不将教学过滤装置出水直接饮用。",
+          "check": null,
+          "id": "588f23dce9b250c1988aac545c8439c2",
+          "code": "SHC058-Q2"
+        },
+        {
+          "type": "实验题",
+          "difficulty": 3,
+          "prompt": "若同时改变砂层厚度与流速，净水效果改善能否只归因于砂层厚度？",
+          "answer": "不能；应控制流速或分组比较两个变量。",
+          "explanation": "工程优化也需要可解释的实验设计，而不是任意多项变化。",
+          "check": null,
+          "id": "e22fa6c0662c5763a3565f06ef9ac4cd",
+          "code": "SHC058-Q3"
+        }
+      ],
+      "id": "1b5a2697c705592184084a94dbb91cd2",
+      "node_ids": [
+        "c5ba93cd0f6e56d5abdbb2034b9a1f64",
+        "95eb5efdf82c5afe998d6d836381bfbb"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "5c9d984faa3152c0a2f479e39b345077",
+      "theme_name": "主题三 物质的组成与结构",
+      "standard_scope": "化学与社会·跨学科实践"
+    },
+    {
+      "code": "SHC059",
+      "node": "跨学科实践活动 制作模型并展示科学家探索物质组成与结构的历程",
+      "name": "科学模型的证据、用途与局限",
+      "definition": "模型用于解释和预测特定现象，不是对象的等比例复制；新证据可推动模型修正。",
+      "requirements": "说明粒子模型的适用边界。",
+      "mastery": [
+        "能指出模型表达和未表达的信息",
+        "能依据证据修正解释"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "用小球表示原子，最合理的认识是？",
+          "options": [
+            "用于表达部分关系，不代表原子真实就是宏观实心球",
+            "完全复制真实大小",
+            "颜色一定是原子真实颜色",
+            "不同模型不能比较"
+          ],
+          "answer": "A",
+          "explanation": "模型有选择性，图示颜色和比例常用于区分而非描述真实外观。",
+          "id": "6a7d4ef3925652a7908b5bbd84865165",
+          "code": "SHC059-Q1"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "模型能解释旧现象但不能解释可靠的新实验，应怎么办？",
+          "answer": "检查证据和模型适用条件，必要时修正或发展模型。",
+          "explanation": "科学模型接受证据检验，而不是删去不符合的真实结果。",
+          "check": null,
+          "id": "58b657765ec85e50870754d35eaa3984",
+          "code": "SHC059-Q2"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 3,
+          "prompt": "水分子球棍模型能清楚表示哪些信息，又通常不能直接证明什么？",
+          "answer": "可表示原子种类、数目及连接关系；不能凭图直接证明全部动态、尺寸和能量性质。",
+          "explanation": "区分模型呈现内容与需要其他证据支持的结论。",
+          "check": null,
+          "id": "b80e38d11d7c5bcda10949c17a420d80",
+          "code": "SHC059-Q3"
+        }
+      ],
+      "id": "af64d436ac9e5494b47029b52354db7b",
+      "node_ids": [
+        "86267343263e5f9bad2bc035a9875cea",
+        "a0fc398b9bef5ee1a15b5c47beee8038"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "5c9d984faa3152c0a2f479e39b345077",
+      "theme_name": "主题三 物质的组成与结构",
+      "standard_scope": "化学与社会·跨学科实践"
+    },
+    {
+      "code": "SHC060",
+      "node": "跨学科实践活动 基于碳中和理念设计低碳行动方案",
+      "name": "碳排放核算边界与低碳比较",
+      "definition": "碳排放比较需说明活动量、排放因子、单位和边界，碳中和不是单一环节不排放。",
+      "requirements": "根据给定数据计算并限定结论。",
+      "mastery": [
+        "能匹配单位",
+        "能说明全流程边界"
+      ],
+      "questions": [
+        {
+          "type": "计算题",
+          "difficulty": 2,
+          "prompt": "示例方案节约用电40kWh，排放因子0.5kgCO₂/kWh，仅按用电环节估算减少排放多少？",
+          "answer": "20kgCO₂。",
+          "explanation": "40×0.5＝20kgCO₂；给定示例因子不代表当前当地电网真实因子。",
+          "check": {
+            "op": "product",
+            "values": [
+              40,
+              0.5
+            ],
+            "expected": "20"
+          },
+          "id": "259aa18b06515387aac45408b77831b9",
+          "code": "SHC060-Q1"
+        },
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "比较交通方案是否低碳，哪项最必要？",
+          "options": [
+            "只看广告",
+            "忽略制造与能源来源且声称全生命周期",
+            "统一人数、里程和核算边界",
+            "只看颜色"
+          ],
+          "answer": "C",
+          "explanation": "比较基准不同可产生误导，应明确纳入哪些环节。",
+          "id": "6751172a2aed56c1b3895a8fd811029c",
+          "code": "SHC060-Q2"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "种一棵树能否立即抵消任意量排放？",
+          "answer": "不能；吸收量与时间、树种、生长条件及核算方式有关。",
+          "explanation": "碳中和需要可核实的排放与移除核算，不能无依据抵消。",
+          "check": null,
+          "id": "b3940a0bb63e580ab3a2c5ce020abaed",
+          "code": "SHC060-Q3"
+        }
+      ],
+      "id": "07150fcc4e2e5277afdd0ee242ac42ca",
+      "node_ids": [
+        "dd9e862a372753e88f5c39bbc18e43ab",
+        "4fc86252abe75832a282b44bc81a2797"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "46aae1b961fc5b97afded5bb398ce8ec",
+      "theme_name": "主题四 物质的化学变化（上）",
+      "standard_scope": "化学与社会·跨学科实践"
+    },
+    {
+      "code": "SHC061",
+      "node": "跨学科实践活动 海洋资源的综合利用与制盐",
+      "name": "海水制盐流程与产品纯度",
+      "definition": "蒸发结晶可获取含盐晶体，所得粗盐并非必然纯氯化钠，提纯方法取决于杂质。",
+      "requirements": "解释分离流程与产率边界。",
+      "mastery": [
+        "能区分粗盐与纯物质",
+        "能说明过滤不能除去全部溶解杂质"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "海水蒸发得到的粗盐通常应视为？",
+          "options": [
+            "单质",
+            "完全不含任何杂质",
+            "可能含其他盐类等杂质的混合物",
+            "必定纯NaCl"
+          ],
+          "answer": "C",
+          "explanation": "蒸发不保证不同可溶盐完全分开，产品纯度需检测。",
+          "id": "a7d34fe3a943524e98aca2517d2ca7fd",
+          "code": "SHC061-Q1"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "粗盐溶解过滤可去掉泥沙，为什么不能保证去掉所有溶解盐？",
+          "answer": "一般滤纸不能截留所有溶解离子，需根据杂质选用后续分离方法。",
+          "explanation": "不把过滤的作用扩大到全部杂质。",
+          "check": null,
+          "id": "ce0830259ed25377ac235370549b78a5",
+          "code": "SHC061-Q2"
+        },
+        {
+          "type": "计算题",
+          "difficulty": 2,
+          "prompt": "某示例溶液200g，NaCl质量分数3%，完全回收其中NaCl的理论量是多少？",
+          "answer": "6g。",
+          "explanation": "200×3%＝6g；这是理想回收量，实际损失和其他杂质须另计。",
+          "check": {
+            "op": "fraction_product",
+            "values": [
+              200,
+              3,
+              100
+            ],
+            "expected": "6"
+          },
+          "id": "3d1196aed9045d68a1e4b18a6c8f05f1",
+          "code": "SHC061-Q3"
+        }
+      ],
+      "id": "3ab7be5ce221555f8aa6c5598599e5c3",
+      "node_ids": [
+        "84e9a44c3b0f52b89c7f0eb46911b5d2",
+        "3f4bd352efd1548fabba6835b83f31e0"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "fe79b0450da757a395c5d58f0730ec25",
+      "theme_name": "主题五 常见的物质（下）",
+      "standard_scope": "化学与社会·跨学科实践"
+    },
+    {
+      "code": "SHC062",
+      "node": "跨学科实践活动 探究土壤酸碱性对植物生长的影响",
+      "name": "植物生长探究的变量与重复",
+      "definition": "土壤pH影响生长的研究需控制植物、光照、水分等，重复与随机分组可减少偶然影响。",
+      "requirements": "设计可比较实验并识别因果局限。",
+      "mastery": [
+        "能设置pH梯度与对照",
+        "能避免单株结果概括所有植物"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "比较pH影响时，合理方案是？",
+          "options": [
+            "仅比较一片叶子颜色",
+            "同种相近幼苗随机分组，控制光水等，设置不同pH并重复",
+            "酸土组无光碱土组强光",
+            "每组植物品种全不同"
+          ],
+          "answer": "B",
+          "explanation": "尽量使pH成为主要改变因素，并记录重复结果。",
+          "id": "f3fa45a146dc55f9b08687f7b0a37ec8",
+          "code": "SHC062-Q1"
+        },
+        {
+          "type": "简答题",
+          "difficulty": 2,
+          "prompt": "仅一株植物在酸土中生长慢，能否认定所有植物都不耐酸？",
+          "answer": "不能；品种、营养、病害与个体差异等均可能影响结果。",
+          "explanation": "结论应限定对象和条件，有必要重复并排除干扰。",
+          "check": null,
+          "id": "01d0568c706855e29c04d602bf62c59b",
+          "code": "SHC062-Q2"
+        },
+        {
+          "type": "实验题",
+          "difficulty": 3,
+          "prompt": "记录植物生长时，为什么应预先规定测量指标和周期？",
+          "answer": "减少主观挑选数据，保持比较一致，可记录株高变化、叶片等明确指标。",
+          "explanation": "不能事后只选支持预期的指标，原始数据也应保留。",
+          "check": null,
+          "id": "a3508c2bdf085730a3be1f0839ff1427",
+          "code": "SHC062-Q3"
+        }
+      ],
+      "id": "5a8b198aa9905d38bf29de09583ee0b4",
+      "node_ids": [
+        "4452c44d545c58adaaff3aff67c03d7d",
+        "bb1e3088ec4c52cf909713ccfdedbdff"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "fe79b0450da757a395c5d58f0730ec25",
+      "theme_name": "主题五 常见的物质（下）",
+      "standard_scope": "化学与社会·跨学科实践"
+    },
+    {
+      "code": "SHC063",
+      "node": "跨学科实践活动 调查家用燃料的变迁与合理使用",
+      "name": "燃料方案的有效能量与排放比较",
+      "definition": "比较燃料需统一可用能量或同等任务，兼顾效率、排放、安全和基础设施。",
+      "requirements": "从给定数据比较而不混淆总能量与有效能量。",
+      "mastery": [
+        "能区分输入和有效输出",
+        "能限定调查样本"
+      ],
+      "questions": [
+        {
+          "type": "计算题",
+          "difficulty": 2,
+          "prompt": "某示例燃料输入能量100MJ，装置有效利用率60%，有效能量多少？",
+          "answer": "60MJ。",
+          "explanation": "100×60%＝60MJ；不同装置需按同等任务或输出比较。",
+          "check": {
+            "op": "fraction_product",
+            "values": [
+              100,
+              60,
+              100
+            ],
+            "expected": "60"
+          },
+          "id": "23ce7c28783b500eb9fceb68fde3553e",
+          "code": "SHC063-Q1"
+        },
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "比较两种燃料排放时，较公平的基准是？",
+          "options": [
+            "每袋重量但不看热值",
+            "只看火焰亮度",
+            "只问一家后概括所有地区",
+            "完成相同供热任务的总排放"
+          ],
+          "answer": "D",
+          "explanation": "热值和效率不同，单按质量未必能公平比较。",
+          "id": "e95f9a3edc4e54f98b517dc07a4d34aa",
+          "code": "SHC063-Q2"
+        },
+        {
+          "type": "综合题",
+          "difficulty": 3,
+          "prompt": "访问两户家庭后能否宣称全市燃料使用比例已经确定？",
+          "answer": "不能；样本数量和代表性不足，应说明调查范围与局限。",
+          "explanation": "调查结论要有合适样本与统计依据，不编造完整社会趋势。",
+          "check": null,
+          "id": "2c45cb434812545d99f5ee32b8f74e1d",
+          "code": "SHC063-Q3"
+        }
+      ],
+      "id": "76795dad16e651ec80a93931977b577f",
+      "node_ids": [
+        "dbf6c9cb61d15465960ad00de21aed68",
+        "7590ae76ee09578c8ab76653c37b88dd"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "81f43dd036a654129411248612d3f783",
+      "theme_name": "主题六 物质的化学变化（下）",
+      "standard_scope": "化学与社会·跨学科实践"
+    },
+    {
+      "code": "SHC064",
+      "node": "跨学科实践活动 调查我国航天科技领域中新型材料、新型能源的应用",
+      "name": "航天材料与能源的证据化选型",
+      "definition": "航天场景对质量、耐温、强度和反应性能有约束，教学比较应使用明确给定数据而非编造真实性能。",
+      "requirements": "依据工程约束比较材料方案。",
+      "mastery": [
+        "能说明性能权衡",
+        "能区分教学示例与实测资料"
+      ],
+      "questions": [
+        {
+          "type": "单选题",
+          "difficulty": 1,
+          "prompt": "为高温部位选择材料，最合理的是？",
+          "options": [
+            "只选常温最便宜者",
+            "只选颜色好看者",
+            "所有塑料耐温相同",
+            "在给定温度下比较强度、耐蚀和质量等约束"
+          ],
+          "answer": "D",
+          "explanation": "工程选择必须对应实际服役条件和证据。",
+          "id": "30a83350e6405e059d68baf35f057cf1",
+          "code": "SHC064-Q1"
+        },
+        {
+          "type": "计算题",
+          "difficulty": 2,
+          "prompt": "示例中同体积零件材料甲质量8kg、乙质量5kg，改用乙减轻多少千克？是否仅此就足以定型？",
+          "answer": "减轻3kg；不足，还需核实强度、耐温、安全和工艺等。",
+          "explanation": "8－5＝3kg；数据是教学假设，不表示某真实航天型号材料。",
+          "check": {
+            "op": "difference",
+            "values": [
+              8,
+              5
+            ],
+            "expected": "3"
+          },
+          "id": "70fcc98eed815b029a189c19f1acc789",
+          "code": "SHC064-Q2"
+        },
+        {
+          "type": "综合题",
+          "difficulty": 3,
+          "prompt": "查找航天化学贡献资料时，应怎样区分可靠信息与宣传推测？",
+          "answer": "核对发布机构、时间、测试条件和原始依据，未公开的性能不自行补写。",
+          "explanation": "学习评价强调来源可追溯与证据边界，不用模型假设冒充真实测试。",
+          "check": null,
+          "id": "df438ac28cf25f6e8ed654fe1e570d93",
+          "code": "SHC064-Q3"
+        }
+      ],
+      "id": "b173c2e877cc591db50d6765bcc17b95",
+      "node_ids": [
+        "1fa12e2a15a05200b68c3ec075f6a1ca",
+        "f1d2ad12bcb65135a9fbfa593d633dc0"
+      ],
+      "source": "AI辅助原创教学草案；待教师审核。范围参照义务教育化学课程标准（2022年版）；教材课题来自现有目录，非教材正文摘录。",
+      "theme_id": "81f43dd036a654129411248612d3f783",
+      "theme_name": "主题六 物质的化学变化（下）",
+      "standard_scope": "化学与社会·跨学科实践"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部2022版课程方案和标准通知",
+      "url": "https://hudong.moe.gov.cn/srcsite/A26/s8001/202204/t20220420_619921.html",
+      "status": "发布依据；官方PDF访问不稳定，未逐页核实教材内容"
+    },
+    {
+      "title": "高教社2022版化学课标解读目录",
+      "url": "https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=62bc92af938b7cc2960eecc9",
+      "status": "已核对五学习主题；只用作教学范围参考，非本种子逐题权威背书"
+    },
+    {
+      "title": "项目现有上海六主题目录",
+      "file": "catalog-snapshot.json",
+      "status": "数据库实际读取；继承已有目录核实限制，不改目录"
+    }
+  ]
+}

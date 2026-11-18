@@ -1,0 +1,51 @@
+{
+  "checked_at": "2026-11-18",
+  "sources": {
+    "moe": {
+      "url": "https://www.moe.gov.cn/srcsite/a26/s8001/202408/W020240805496325238752.pdf",
+      "role": "官方教材体系目录，第12页；不证明具体目录或2026印次"
+    },
+    "d8": {
+      "url": "https://dzkbw.org/book/5785.html",
+      "role": "第三方2024秋标签与目录"
+    },
+    "d9": {
+      "url": "https://dzkbw.org/book/5786.html",
+      "role": "第三方2026秋标签与目录；未获该印次版权页"
+    },
+    "r8": {
+      "url": "https://www.renjiaoshe.com/jiaocai/3455.html",
+      "role": "第三方2024五四八年级目录，含专题复习"
+    },
+    "r9": {
+      "url": "https://www.renjiaoshe.com/jiaocai/3456.html",
+      "role": "九年级页面目录为空，不作为节点证据"
+    },
+    "s8": {
+      "url": "https://www.scribd.com/document/882477787",
+      "role": "第三方上传教材版权页及目录文字转录：2024年8月第1版第1印；非出版社认证原件"
+    },
+    "s9": {
+      "url": "https://www.scribd.com/document/1008403481",
+      "role": "第三方上传教材版权页及目录文字转录：2025年8月第1版第1印；非2026印次"
+    },
+    "k9": {
+      "url": "https://keben.app/book/0612",
+      "role": "标注2022版、目录不全且专题7/8倒序，仅用于差异说明，不采纳排序"
+    },
+    "sh": {
+      "url": "https://edu.sh.gov.cn/cmsres/2d/2dc160ca4658483e8eaaf76e8f945637/28a7fabd94b936378d6dd4c271c12ad8.pdf",
+      "role": "2025秋上海教学用书目录列教学参考资料八/九上；不能据此改写学生教科书册别"
+    },
+    "publisher": {
+      "url": "https://www.sstp.com.cn/index.php/news4/4367.html",
+      "role": "出版社2026春价格表列化学综合活动手册下册，非本次学生教科书目录证据"
+    }
+  },
+  "limitations": [
+    "仅保存导航目录和必要元数据，不保存教材正文或扫描件",
+    "九年级采用可追溯的2025第1版目录；2026秋版/印次尚未核实",
+    "主目录页列出的附录已导入，不自动扩展正文内部小标题",
+    "2024/2025版目录是否适用于每所上海学校仍待教师核对"
+  ]
+}
